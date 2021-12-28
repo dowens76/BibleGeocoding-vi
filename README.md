@@ -12,3 +12,6 @@ As with the source data, this data is licensed under a Creative Commons Attribut
 
 OpenStreetMap data is licensed under ODbL 1.0, which is similar to CC-BY-SA.
  
+## List of Contributors
+
+Daniel Owens

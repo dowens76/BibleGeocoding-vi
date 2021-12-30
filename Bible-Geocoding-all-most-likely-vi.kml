@@ -1914,11 +1914,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Baalah 2</name>
+	<name xml:lang="vi">Ba‑la (Baalah 2)</name>
 	<description>Josh.15.9, Josh.15.10, 1Chr.13.6</description>
 	<Placemark>
-		<name>Baalah 2 / Deir el Azar</name>
-		<description>another name for Kiriath-jearim</description>
+		<name xml:lang="vi">Ba‑la</name>
+		<description>Baalah 2 / Deir el Azar, another name for Kiriath-jearim</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.10378,31.808957</coordinates>
@@ -1949,11 +1949,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Baalath-beer (Baalath, Baal)</name>
+	<name xml:lang="vi">Ba‑lát Bê‑e (Baalath-beer, Baal, Baalath)</name>
 	<description>Josh.19.8, 1Chr.4.33</description>
 	<Placemark>
-		<name>Baalath-beer / Tulul el Medbah</name>
-		<description>another name for Bealoth 1</description>
+		<name xml:lang="vi">Ba‑lát Bê‑e</name>
+		<description>Baalath-beer / Beer Yeroham, another name for Bealoth 1</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.91217,31.142053</coordinates>
@@ -1961,11 +1961,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Baale-judah (Baalah in Judah, Baalah of Judah, Baale of Judah)</name>
+	<name xml:lang="vi">Ba‑lê thuộc Giu‑đa (Baale-judah, Baalah in Judah, Baalah of Judah, Baale of Judah)</name>
 	<description>2Sam.6.2</description>
 	<Placemark>
-		<name>Baale-judah / Deir el Azar</name>
-		<description>another name for Kiriath-jearim</description>
+		<name xml:lang="vi">Ba‑lê thuộc Giu‑đa</name>
+		<description>Baale-judah / Deir el Azar, another name for Kiriath-jearim</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.10378,31.808957</coordinates>
@@ -1995,10 +1995,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Baal-hazor</name>
+	<name xml:lang="vi">Ba‑anh Hát‑so (Baal-hazor)</name>
 	<description>2Sam.13.23</description>
 	<Placemark>
-		<name>Baal-hazor / Jebel Asur</name>
+		<name xml:lang="vi">Ba‑anh Hát‑so</name>
+		<description>Baal-hazor / Jebel Asur</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.286111,31.978611</coordinates>
@@ -2091,10 +2092,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Babel (Babylon)</name>
+	<name xml:lang="vi">Ba‑bên (Babel)</name>
 	<description>Gen.10.10, Gen.11.9</description>
 	<Placemark>
-		<name>Babel / Babylon</name>
+		<name xml:lang="vi">Ba‑bên</name>
 		<description>another name for Babylon 1</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -2103,10 +2104,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Babylon 1</name>
+	<name xml:lang="vi">Ba-by-lôn (Babylon 1)</name>
 	<description>2Kgs.17.24, 2Kgs.17.30, 2Kgs.20.12, 2Kgs.20.14, 2Kgs.20.17, 2Kgs.20.18, 2Kgs.24.1, 2Kgs.24.7, 2Kgs.24.10, 2Kgs.24.11, 2Kgs.24.12, 2Kgs.24.15, 2Kgs.24.16, 2Kgs.24.17, 2Kgs.24.20, 2Kgs.25.1, 2Kgs.25.6, 2Kgs.25.7, 2Kgs.25.8, 2Kgs.25.11, 2Kgs.25.13, 2Kgs.25.20, 2Kgs.25.21, 2Kgs.25.22, 2Kgs.25.23, 2Kgs.25.24, 2Kgs.25.27, 2Kgs.25.28, 2Kgs.25.29, 1Chr.9.1, 2Chr.32.31, 2Chr.33.11, 2Chr.36.6, 2Chr.36.7, 2Chr.36.10, 2Chr.36.17, 2Chr.36.18, 2Chr.36.20, Ezra.2.1, Ezra.4.9, Ezra.4.12, Ezra.5.12, Ezra.5.13, Ezra.5.14, Ezra.5.17, Ezra.6.5, Ezra.7.1, Neh.7.6, Neh.13.6, Esth.2.6, Ps.87.4, Ps.137.1, Ps.137.7, Ps.137.8, Isa.13.1, Isa.13.2, Isa.13.14, Isa.13.17, Isa.13.19, Isa.13.20, Isa.13.22, Isa.14.4, Isa.14.22, Isa.14.23, Isa.21.1, Isa.21.2, Isa.21.9, Isa.23.13, Isa.39.1, Isa.39.3, Isa.39.6, Isa.39.7, Isa.43.14, Isa.46.1, Isa.47.1, Isa.47.6, Isa.48.14, Isa.48.20, Jer.20.4, Jer.20.5, Jer.20.6, Jer.21.2, Jer.21.4, Jer.21.7, Jer.21.10, Jer.22.25, Jer.24.1, Jer.25.1, Jer.25.9, Jer.25.11, Jer.25.12, Jer.25.14, Jer.27.6, Jer.27.7, Jer.27.8, Jer.27.9, Jer.27.11, Jer.27.12, Jer.27.13, Jer.27.14, Jer.27.16, Jer.27.17, Jer.27.18, Jer.27.20, Jer.27.22, Jer.28.2, Jer.28.3, Jer.28.4, Jer.28.6, Jer.28.11, Jer.28.14, Jer.29.1, Jer.29.3, Jer.29.4, Jer.29.8, Jer.29.10, Jer.29.15, Jer.29.16, Jer.29.20, Jer.29.21, Jer.29.22, Jer.29.24, Jer.29.28, Jer.29.31, Jer.32.2, Jer.32.3, Jer.32.4, Jer.32.5, Jer.32.28, Jer.32.36, Jer.34.1, Jer.34.2, Jer.34.3, Jer.34.7, Jer.34.21, Jer.35.11, Jer.36.29, Jer.37.1, Jer.37.17, Jer.37.19, Jer.38.3, Jer.38.17, Jer.38.18, Jer.38.22, Jer.38.23, Jer.39.1, Jer.39.3, Jer.39.5, Jer.39.6, Jer.39.7, Jer.39.9, Jer.39.11, Jer.39.13, Jer.40.1, Jer.40.4, Jer.40.5, Jer.40.7, Jer.40.9, Jer.40.11, Jer.41.2, Jer.41.18, Jer.42.11, Jer.43.3, Jer.43.10, Jer.44.30, Jer.46.2, Jer.46.13, Jer.46.18, Jer.46.26, Jer.49.28, Jer.49.30, Jer.49.31, Jer.50.1, Jer.50.2, Jer.50.3, Jer.50.8, Jer.50.9, Jer.50.10, Jer.50.13, Jer.50.14, Jer.50.16, Jer.50.17, Jer.50.18, Jer.50.23, Jer.50.24, Jer.50.27, Jer.50.28, Jer.50.29, Jer.50.32, Jer.50.34, Jer.50.35, Jer.50.39, Jer.50.42, Jer.50.43, Jer.50.44, Jer.50.45, Jer.50.46, Jer.51.1, Jer.51.2, Jer.51.6, Jer.51.7, Jer.51.8, Jer.51.9, Jer.51.11, Jer.51.12, Jer.51.13, Jer.51.20, Jer.51.24, Jer.51.25, Jer.51.29, Jer.51.30, Jer.51.31, Jer.51.33, Jer.51.34, Jer.51.35, Jer.51.37, Jer.51.41, Jer.51.42, Jer.51.44, Jer.51.45, Jer.51.47, Jer.51.48, Jer.51.49, Jer.51.52, Jer.51.53, Jer.51.54, Jer.51.55, Jer.51.56, Jer.51.58, Jer.51.59, Jer.51.60, Jer.51.61, Jer.51.62, Jer.51.64, Jer.52.3, Jer.52.4, Jer.52.9, Jer.52.10, Jer.52.11, Jer.52.12, Jer.52.15, Jer.52.17, Jer.52.26, Jer.52.27, Jer.52.28, Jer.52.31, Jer.52.32, Jer.52.33, Jer.52.34, Ezek.1.1, Ezek.12.13, Ezek.14.22, Ezek.17.12, Ezek.17.14, Ezek.17.15, Ezek.17.16, Ezek.17.17, Ezek.17.20, Ezek.19.9, Ezek.21.19, Ezek.21.21, Ezek.21.23, Ezek.24.2, Ezek.24.26, Ezek.26.7, Ezek.29.18, Ezek.29.19, Ezek.30.10, Ezek.30.24, Ezek.30.25, Ezek.32.11, Dan.1.1, Dan.1.3, Dan.2.12, Dan.2.14, Dan.2.18, Dan.2.24, Dan.2.48, Dan.2.49, Dan.3.1, Dan.3.12, Dan.3.30, Dan.4.6, Dan.4.29, Dan.4.30, Dan.5.7, Dan.5.11, Dan.7.1, Mic.4.10,Zech.2.6, Zech.2.7, Zech.6.10, Matt.1.11, Matt.1.12, Matt.1.17, Acts.7.43</description>
 	<Placemark>
-		<name>Babylon 1</name>
+		<name xml:lang="vi">Ba-by-lôn</name>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>44.422222,32.543333</coordinates>
@@ -2114,10 +2115,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Babylon 2</name>
+	<name xml:lang="vi">Ba-by-lôn (Babylon 2, Rome)</name>
 	<description>1Pet.5.13</description>
 	<Placemark>
-		<name>Babylon 2 / Rome</name>
+		<name xml:lang="vi">Ba-by-lôn</name>
 		<description>another name for Rome</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -2126,11 +2127,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Babylon 3</name>
+	<name xml:lang="vi">Ba-by-lôn (Babylon 3, Rome)</name>
 	<description>Rev.14.8, Rev.16.19, Rev.17.5, Rev.18.2, Rev.18.10, Rev.18.21</description>
 	<Placemark>
-		<name>Babylon 3 / Rome</name>
-		<description>another name for Rome</description>
+		<name xml:lang="vi">Ba-by-lôn</name>
+		<description>Babylon 3 / Rome, another name for Rome</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>12.4852,41.8922</coordinates>
@@ -2138,10 +2139,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Babylonia (Babylon)</name>
+	<name xml:lang="vi">Ba-by-lôn (Babylonia, Babylon)</name>
 	<description>Ezra.1.11, Ezra.2.1, Ezra.5.12, Ezra.6.1, Ezra.7.6, Ezra.7.9, Ezra.7.16, Ezra.8.1, Jer.50.11, Jer.50.12, Jer.50.22, Jer.50.26, Jer.50.40, Jer.51.27, Jer.51.43</description>
 	<Placemark>
-	<name>Babylonia (approximate boundary)</name>
+	<name xml:lang="vi">Ba-by-lôn</name>
 	<styleUrl>#region</styleUrl>
 	<Polygon>
 		<tesselate>1</tesselate>
@@ -2205,10 +2206,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Bashan</name>
+	<name xml:lang="vi">Ba‑san (Bashan)</name>
 	<description>Num.21.33, Num.32.33, Deut.1.4, Deut.3.1, Deut.3.3, Deut.3.4, Deut.3.6, Deut.3.10, Deut.3.11, Deut.3.13, Deut.3.14, Deut.4.43, Deut.4.47, Deut.29.7, Deut.32.14, Deut.33.22, Josh.9.10, Josh.12.4, Josh.12.5, Josh.13.11, Josh.13.12, Josh.13.30, Josh.13.31, Josh.17.1, Josh.17.5, Josh.20.8, Josh.21.6, Josh.21.27, Josh.22.7, 1Kgs.4.13, 1Kgs.4.19, 2Kgs.10.33, 1Chr.5.11, 1Chr.5.12, 1Chr.5.16, 1Chr.5.23, 1Chr.6.62, 1Chr.6.71, Neh.9.22, Ps.22.12, Ps.68.22, Ps.135.11, Ps.136.20, Isa.2.13, Isa.33.9, Jer.22.20, Jer.50.19, Ezek.27.6, Ezek.39.18, Amos.4.1, Mic.7.14, Nah.1.4,Zech.11.2</description>
 	<Placemark>
-	<name>Bashan (approximate boundary)</name>
+	<name xml:lang="vi">Ba‑san</name>
 	<styleUrl>#region</styleUrl>
 	<Polygon>
 		<tesselate>1</tesselate>
@@ -2248,11 +2249,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Bealoth 1</name>
+	<name xml:lang="vi">Bê‑a‑lốt (Bealoth 1)</name>
 	<description>Josh.15.24</description>
 	<Placemark>
-		<name>Bealoth 1 / within 1 km of Kesla</name>
-		<description>another name for Baalath-beer</description>
+		<name xml:lang="vi">Bê‑a‑lốt</name>
+		<description>Bealoth 1 / within 1 km of Kesla, another name for Baalath-beer</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -2359,10 +2360,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Beersheba 1 (Beer-sheba)</name>
+	<name xml:lang="vi">Bê‑e Sê‑ba (Beersheba, Beer-sheba)</name>
 	<description>Josh.15.28, Josh.19.2, Judg.20.1, 1Sam.3.20, 1Sam.8.2,2Sam.3.10, 2Sam.17.11, 2Sam.24.2, 2Sam.24.7, 2Sam.24.15, 1Kgs.4.25, 1Kgs.19.3, 2Kgs.12.1, 2Kgs.23.8, 1Chr.4.28, 1Chr.21.2, 2Chr.19.4, 2Chr.24.1, 2Chr.30.5, Neh.11.27, Neh.11.30, Amos.5.5, Amos.8.14</description>
 	<Placemark>
-		<name>Beersheba 1 / Tel Beer Sheva</name>
+		<name xml:lang="vi">Bê‑e Sê‑ba</name>
+		<description>Beersheba 1 / Tel Beer Sheva</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.840833,31.244722</coordinates>
@@ -2450,10 +2452,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Berea (Beroea)</name>
+	<name xml:lang="vi">Bê‑rê (Berea, Beroea)</name>
 	<description>Acts.17.10, Acts.17.11, Acts.17.13, Acts.17.14, Acts.17.15, Acts.20.4</description>
 	<Placemark>
-		<name>Berea / Veria</name>
+		<name xml:lang="vi">Bê‑rê</name>
+		<description>Berea / Veria</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>22.2,40.518333</coordinates>
@@ -2541,10 +2544,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Bethany 1</name>
+	<name xml:lang="vi">Bê‑tha‑ni (Bethany 1)</name>
 	<description>Matt.21.17, Matt.26.6, Mark.11.1, Mark.11.11, Mark.11.12, Mark.14.3,Luke.19.29, Luke.24.50, John.11.1, John.11.17, John.11.18, John.12.1</description>
 	<Placemark>
-		<name>Bethany 1 / Al Eizariya</name>
+		<name xml:lang="vi">Bê‑tha‑ni</name>
+		<description>Bethany 1 / Al Eizariya</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.255903,31.771661</coordinates>
@@ -2552,10 +2556,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Bethany 2 (Bethabara)</name>
+	<name xml:lang="vi">Bê‑tha‑ni (Bethany 2, Bethabara)</name>
 	<description>John.1.28</description>
 	<Placemark>
-		<name>Bethany 2 / Al Maghtas</name>
+		<name xml:lang="vi">Bê‑tha‑ni</name>
+		<description>Bethany 2 / Al Maghtas</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.550301,31.837109</coordinates>
@@ -2596,10 +2601,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Beth-aven 1</name>
+	<name xml:lang="vi">Bết A‑ven (Beth-aven 1)</name>
 	<description>Josh.7.2, Josh.18.12, 1Sam.13.5, 1Sam.14.23</description>
 	<Placemark>
-		<name>Beth-aven 1 / Tell Maryam</name>
+		<name xml:lang="vi">Bết A‑ven</name>
+		<description>Beth-aven 1 / Tell Maryam</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.26807,31.86921</coordinates>
@@ -2607,11 +2613,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Beth-aven 2</name>
+	<name xml:lang="vi">Bết A‑ven (Beth-aven 2)</name>
 	<description>Hos.4.15, Hos.5.8, Hos.10.5</description>
 	<Placemark>
-		<name>Beth-aven 2 / Beitin</name>
-		<description>another name for Bethel 1</description>
+		<name xml:lang="vi">Bết A‑ven</name>
+		<description>Beth-aven 2 / Beitin, another name for Bethel 1</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.241389,31.922778</coordinates>
@@ -2642,11 +2648,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Beth-car (Beth Kar)</name>
+	<name xml:lang="vi">Bết‑cạt (Beth-car, Beth Kar)</name>
 	<description>1Sam.7.11</description>
 	<Placemark>
-		<name>Beth-car / Beit Ur al Tahta</name>
-		<description>another name for Lower Beth-horon</description>
+		<name xml:lang="vi">Bết‑cạt</name>
+		<description>Beth-car / Beit Ur al Tahta, another name for Lower Beth-horon</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.083611,31.895</coordinates>
@@ -2714,10 +2720,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Bethel 1 (Beth-el)</name>
+	<name xml:lang="vi">Bê‑tên (Bethel 1, Beth-el)</name>
 	<description>Gen.12.8, Gen.13.3, Gen.28.19, Gen.31.13, Gen.35.1, Gen.35.3, Gen.35.6, Gen.35.7, Gen.35.8, Gen.35.9, Gen.35.15, Gen.35.16, Josh.7.2, Josh.8.9, Josh.8.12, Josh.8.17, Josh.12.9, Josh.12.16, Josh.16.1, Josh.16.2, Josh.18.13, Josh.18.22, Judg.1.22, Judg.1.23, Judg.4.5, Judg.20.18, Judg.20.23, Judg.20.26, Judg.20.27, Judg.20.31, Judg.21.2, Judg.21.19, 1Sam.7.16, 1Sam.10.3, 1Sam.13.2, 1Kgs.12.29, 1Kgs.12.30, 1Kgs.12.32, 1Kgs.12.33, 1Kgs.13.1, 1Kgs.13.4, 1Kgs.13.10, 1Kgs.13.11, 1Kgs.13.25, 1Kgs.13.32, 1Kgs.16.34, 2Kgs.2.2, 2Kgs.2.3, 2Kgs.2.23, 2Kgs.10.29, 2Kgs.17.28, 2Kgs.23.4, 2Kgs.23.15, 2Kgs.23.16, 2Kgs.23.17, 2Kgs.23.19, 1Chr.7.28, 2Chr.13.19, Ezra.2.28, Neh.7.32, Neh.11.31,Hos.10.15, Hos.12.4, Amos.3.14, Amos.4.4, Amos.5.5, Amos.5.6, Amos.7.10, Amos.7.13</description>
 	<Placemark>
-		<name>Bethel 1 / Beitin</name>
+		<name xml:lang="vi">Bê‑tên</name>
+		<description>Bethel 1 / Beitin</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.241389,31.922778</coordinates>
@@ -2832,11 +2839,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Beth-gilgal (Gilgal)</name>
+	<name xml:lang="vi">Bết Ghinh‑ganh (Beth-gilgal, Gilgal)</name>
 	<description>Neh.12.29</description>
 	<Placemark>
-		<name>Beth-gilgal / Khirbet el Mefjir</name>
-		<description>another name for Gilgal 1</description>
+		<name xml:lang="vi">Bết Ghinh‑ganh</name>
+		<description>Beth-gilgal / Khirbet el Mefjir, another name for Gilgal 1</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.459969,31.881883</coordinates>
@@ -2911,10 +2918,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Beth-le-aphrah (Beth Ophrah, Beth-leaphrah, Beth Aphrah, Aphrah)</name>
+	<name xml:lang="vi">Bết Lê‑áp‑ra (Beth-le-aphrah, Beth-leaphrah, Beth Ophrah, Beth Aphrah, Aphrah)</name>
 	<description>Mic.1.10</description>
 	<Placemark>
-		<name>Beth-le-aphrah / Khirbet et Taiyiba</name>
+		<name xml:lang="vi">Bết Lê‑áp‑ra</name>
+		<description>Beth-le-aphrah / Khirbet et Taiyiba</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.03355,31.55659</coordinates>
@@ -2934,10 +2942,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Bethlehem 1 (Beth-lehem)</name>
+	<name xml:lang="vi">Bết‑lê‑hem (Bethlehem 1, Beth-lehem)</name>
 	<description>Gen.35.19, Gen.48.7, Judg.17.7, Judg.17.8, Judg.17.9, Judg.19.1, Judg.19.2, Judg.19.3, Judg.19.18,Ruth.1.1, Ruth.1.2, Ruth.1.19, Ruth.1.22, Ruth.2.1, Ruth.2.4, Ruth.4.11, 1Sam.16.1, 1Sam.16.4, 1Sam.16.18, 1Sam.17.12, 1Sam.17.15, 1Sam.17.58, 1Sam.20.6, 1Sam.20.28,2Sam.2.32, 2Sam.21.19, 2Sam.23.14, 2Sam.23.15, 2Sam.23.16, 2Sam.23.24, 1Chr.2.51, 1Chr.2.54, 1Chr.4.4, 1Chr.11.16, 1Chr.11.17, 1Chr.11.18, 1Chr.11.26, 2Chr.11.6, Ezra.2.21, Neh.7.26, Jer.41.17, Mic.5.2, Matt.2.1, Matt.2.5, Matt.2.6, Matt.2.8, Matt.2.9, Matt.2.16,Luke.2.4, Luke.2.11, Luke.2.15, John.7.42</description>
 	<Placemark>
-		<name>Bethlehem 1</name>
+		<name xml:lang="vi">Bết‑lê‑hem</name>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.207639,31.704306</coordinates>
@@ -2945,10 +2953,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Bethlehem 2 (Beth-lehem)</name>
+	<name xml:lang="vi">Bết‑lê‑hem (Bethlehem 2, Beth-lehem)</name>
 	<description>Josh.19.15</description>
 	<Placemark>
-		<name>Bethlehem 2 / Beit Lahm</name>
+		<name xml:lang="vi">Bết‑lê‑hem</name>
+		<description>Bethlehem 2 / Beit Lahm</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.185563,32.734812</coordinates>
@@ -3037,10 +3046,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Beth-peor</name>
+	<name xml:lang="vi">Bết Phê‑ô (Beth-peor)</name>
 	<description>Deut.3.29, Deut.4.46, Deut.34.6, Josh.13.20</description>
 	<Placemark>
-		<name>Beth-peor / Khirbet Ayun Musa</name>
+		<name xml:lang="vi">Bết Phê‑ô</name>
+		<description>Beth-peor / Khirbet Ayun Musa</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.738498,31.777021</coordinates>
@@ -3098,10 +3108,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Beth-shan (Beth-shean)</name>
+	<name xml:lang="vi">Bết‑san (Beth-shan, Beth-shean)</name>
 	<description>Josh.17.11, Josh.17.16, Judg.1.27, 1Sam.31.10, 1Sam.31.12,2Sam.21.12, 1Kgs.4.12, 1Chr.7.29</description>
 	<Placemark>
-		<name>Beth-shan / Tel Bet Shean</name>
+		<name xml:lang="vi">Bết‑san</name>
+		<description>Beth-shan / Tel Bet Shean</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.503056,32.503611</coordinates>
@@ -3112,7 +3123,8 @@
 	<name>Beth-shemesh 1</name>
 	<description>Josh.15.10, Josh.21.16, 1Sam.6.9, 1Sam.6.12, 1Sam.6.13, 1Sam.6.14, 1Sam.6.15, 1Sam.6.18, 1Sam.6.19, 1Sam.6.20, 1Kgs.4.9, 2Kgs.14.11, 2Kgs.14.13, 1Chr.6.59, 2Chr.25.21, 2Chr.25.23, 2Chr.28.18</description>
 	<Placemark>
-		<name>Beth-shemesh 1 / Tel Bet Shemesh</name>
+		<name xml:lang="vi">Bết Sê‑mết</name>
+		<description>Beth-shemesh 1 / Tel Bet Shemesh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.974744,31.750621</coordinates>
@@ -3120,10 +3132,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Beth-shemesh 2</name>
+	<name xml:lang="vi">Bết Sê‑mết (Beth-shemesh 2 in Josh 19:22)</name>
 	<description>Josh.19.22</description>
 	<Placemark>
-		<name>Beth-shemesh 2 / Sheikh esh Shamsawi</name>
+		<name xml:lang="vi">Bết Sê‑mết</name>
+		<description>Beth-shemesh 2 / Sheikh esh Shamsawi</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.525239,32.687762</coordinates>
@@ -3131,10 +3144,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Beth-shemesh 3</name>
+	<name xml:lang="vi">Bết Sê‑mết (Beth-shemesh 3)</name>
 	<description>Josh.19.38, Judg.1.33</description>
 	<Placemark>
-		<name>Beth-shemesh 3 / Tel Rosh</name>
+		<name xml:lang="vi">Bết Sê‑mết</name>
+		<description>Beth-shemesh 3 / Tel Rosh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.33275,33.041278</coordinates>
@@ -3238,11 +3252,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Bezek 1</name>
+	<name xml:lang="vi">Bê‑xéc (Bezek)</name>
 	<description>Judg.1.4, Judg.1.5</description>
 	<Placemark>
-		<name>Bezek 1 / Khirbet Ibziq</name>
-		<description>another name for Bezek 2</description>
+		<name xml:lang="vi">Bê‑xéc</name>
+		<description>Bezek / Khirbet Ibziq</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.39736,32.36884</coordinates>
@@ -3317,11 +3331,11 @@
 	
 </Folder>
 <Folder>
-	<name>Bochim (Bokim)</name>
+	<name xml:lang="vi">Bô‑kim (Bochim, Bokim)</name>
 	<description>Judg.2.1, Judg.2.5</description>
 	<Placemark>
-		<name>Bochim / Beitin</name>
-		<description>another name for Bethel 1</description>
+		<name xml:lang="vi">Bô‑kim</name>
+		<description>Bochim / Beitin, another name for Bethel 1</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.241389,31.922778</coordinates>
@@ -3329,11 +3343,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Bor-ashan (Chorashan, Chor-ashan)</name>
+	<name xml:lang="vi">Bọt‑a‑san (Bor-ashan, Chorashan, Chor-ashan)</name>
 	<description>1Sam.30.30</description>
 	<Placemark>
-		<name>Bor-ashan / Khirbet Asan</name>
-		<description>another name for Ashan</description>
+		<name xml:lang="vi">Bọt‑a‑san</name>
+		<description>Bor-ashan / Khirbet Asan, another name for Ashan</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.797404,31.281372</coordinates>
@@ -3341,10 +3355,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Bozez</name>
+	<name xml:lang="vi">Bốt‑sết (Bozez)</name>
 	<description>1Sam.14.4</description>
 	<Placemark>
-		<name>Bozez</name>
+		<name xml:lang="vi">Bốt‑sết</name>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.287147,31.857165</coordinates>

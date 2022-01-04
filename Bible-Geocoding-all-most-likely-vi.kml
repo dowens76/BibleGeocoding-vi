@@ -4273,10 +4273,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Damascus</name>
+	<name xml:lang="vi">Đa‑mách (Damascus)</name>
 	<description>Gen.14.15, Gen.15.2,2Sam.8.5, 2Sam.8.6, 1Kgs.11.24, 1Kgs.15.18, 1Kgs.19.15, 1Kgs.20.34, 2Kgs.5.12, 2Kgs.8.7, 2Kgs.8.9, 2Kgs.14.28, 2Kgs.16.9, 2Kgs.16.10, 2Kgs.16.11, 2Kgs.16.12, 1Chr.18.5, 1Chr.18.6, 2Chr.16.2, 2Chr.24.23, 2Chr.28.5, 2Chr.28.23, Song.7.4, Isa.7.8, Isa.8.4, Isa.10.9, Isa.17.1, Isa.17.3, Jer.49.23, Jer.49.24, Jer.49.27, Ezek.27.18, Ezek.47.16, Ezek.47.17, Ezek.47.18, Ezek.48.1, Amos.1.3, Amos.1.5, Amos.3.12, Amos.5.27,Zech.9.1, Zech.9.2, Acts.9.2, Acts.9.3, Acts.9.8, Acts.9.10, Acts.9.19, Acts.9.22, Acts.9.27, Acts.22.5, Acts.22.6, Acts.22.10, Acts.22.11, Acts.22.12, Acts.26.12, Acts.26.20,2Cor.11.32, Gal.1.17</description>
 	<Placemark>
-		<name>Damascus</name>
+		<name xml:lang="vi">Đa‑mách</name>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>36.30639,33.511112</coordinates>
@@ -4284,10 +4284,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Dan</name>
+	<name xml:lang="vi">Đan (Dan)</name>
 	<description>Gen.14.14, Josh.19.47, Judg.18.7, Judg.18.14, Judg.18.27, Judg.18.29, Judg.20.1, 1Sam.3.20,2Sam.3.10, 2Sam.17.11, 2Sam.24.2, 2Sam.24.6, 2Sam.24.15, 1Kgs.4.25, 1Kgs.12.29, 1Kgs.12.30, 1Kgs.15.20, 2Kgs.10.29, 1Chr.21.2, 2Chr.16.4, 2Chr.30.5, Jer.4.15, Jer.8.16, Ezek.27.19, Amos.8.14</description>
 	<Placemark>
-		<name>Dan / Tel Dan</name>
+		<name xml:lang="vi">Đan</name>
+		<description>Dan / Tel Dan</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.652,33.249</coordinates>
@@ -4306,10 +4307,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Debir 1</name>
+	<name xml:lang="vi">Đê‑bia (Debir 1)</name>
 	<description>Josh.10.38, Josh.10.39, Josh.11.21, Josh.12.13, Josh.15.15, Josh.15.16, Josh.15.49, Josh.21.15, Judg.1.11, Judg.1.12, 1Chr.6.58</description>
 	<Placemark>
-		<name>Debir 1 / Khirbet Rabud</name>
+		<name xml:lang="vi">Đê‑bia</name>
+		<description>Debir 1 / Khirbet Rabud</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.01485,31.43209</coordinates>
@@ -4317,10 +4319,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Debir 2</name>
+	<name xml:lang="vi">Đê‑bia (Debir 2)</name>
 	<description>Josh.15.7</description>
 	<Placemark>
-		<name>Debir 2 / Thoghret ed Debr</name>
+		<name xml:lang="vi">Đê‑bia</name>
+		<description>Debir 2 / Thoghret ed Debr</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.348784,31.811544</coordinates>
@@ -4328,11 +4331,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Debir 3 (Lo-debar)</name>
+	<name xml:lang="vi">Đê‑bia (Debir 3, Lo-debar)</name>
 	<description>Josh.13.26</description>
 	<Placemark>
-		<name>Debir 3 / Umm ed Debar</name>
-		<description>another name for Lo-debar</description>
+		<name xml:lang="vi">Đê‑bia</name>
+		<description>Debir 3 / Umm ed Debar, another name for Lo-debar</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.61221,32.56576</coordinates>
@@ -4509,10 +4512,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Dothan</name>
+	<name xml:lang="vi">Đô‑than (Dothan)</name>
 	<description>Gen.37.17, 2Kgs.6.13</description>
 	<Placemark>
-		<name>Dothan / Tel Dotan</name>
+		<name xml:lang="vi">Đô‑than</name>
+		<description>Dothan / Tel Dotan</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.239861,32.413528</coordinates>

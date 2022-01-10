@@ -9571,11 +9571,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Laban</name>
+	<name xml:lang="vi">La‑ban (Laban)</name>
 	<description>Deut.1.1</description>
 	<Placemark>
-		<name>Laban / along Wadi el Beidha</name>
-		<description>another name for Libnah 2</description>
+		<name xml:lang="vi">La‑ban</name>
+		<description>another name for Libnah 2, along the Wadi el Beidha</description>
 		<styleUrl>#path</styleUrl>
 		<LineString>
 			<tesselate>1</tesselate>
@@ -9584,10 +9584,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Lachish</name>
+	<name xml:lang="vi">La‑ki (Lachish)</name>
 	<description>Josh.10.3, Josh.10.5, Josh.10.23, Josh.10.31, Josh.10.32, Josh.10.33, Josh.10.34, Josh.10.35, Josh.12.11, Josh.15.39, 2Kgs.14.19, 2Kgs.18.14, 2Kgs.18.17, 2Kgs.19.8, 2Chr.11.9, 2Chr.25.27, 2Chr.32.9, Neh.11.30, Isa.36.2, Isa.37.8, Jer.34.7, Mic.1.13</description>
 	<Placemark>
-		<name>Lachish / Tell ed Duweir</name>
+		<name xml:lang="vi">La‑ki</name>
+		<description>Lachish / Tell ed Duweir</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.849167,31.565278</coordinates>
@@ -9606,10 +9607,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Laishah (Laish)</name>
+	<name xml:lang="vi">La‑ít (Laishah, Laish)</name>
 	<description>Isa.10.30</description>
 	<Placemark>
-		<name>Laishah / Isawiya</name>
+		<name xml:lang="vi">La‑ít</name>
+		<description>Laishah / Isawiya</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.248333,31.798611</coordinates>
@@ -9628,10 +9630,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Laodicea</name>
+	<name xml:lang="vi">Lao‑đi‑xê (Laodicea)</name>
 	<description>Col.2.1, Col.4.13, Col.4.15, Col.4.16,Rev.1.11, Rev.3.14</description>
 	<Placemark>
-		<name>Laodicea / Laodicea on the Lycus</name>
+		<name xml:lang="vi">Lao‑đi‑xê</name>
+		<description>Laodicea / Laodicea on the Lycus</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>29.1075,37.835833</coordinates>
@@ -9678,10 +9681,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Lebanon</name>
+	<name xml:lang="vi">Li‑ban (Lebanon)</name>
 	<description>Deut.1.7, Deut.3.25, Deut.11.24, Josh.1.4, Josh.9.1, Josh.13.5, Josh.13.6, Judg.9.15, 1Kgs.4.33, 1Kgs.5.6, 1Kgs.5.9, 1Kgs.5.14, 1Kgs.9.19, 2Kgs.14.9, 2Kgs.19.23, 2Chr.2.8, 2Chr.2.16, 2Chr.8.6, 2Chr.25.18, Ezra.3.7, Ps.29.5, Ps.29.6, Ps.37.35, Ps.72.16, Ps.92.12, Ps.104.16, Song.3.9, Song.4.8, Song.4.11, Song.4.15, Song.5.15, Song.7.4, Isa.2.13, Isa.10.34, Isa.14.8, Isa.29.17, Isa.33.9, Isa.35.2, Isa.37.24, Isa.40.16, Isa.60.13, Jer.18.14, Jer.22.6, Jer.22.20, Jer.22.23, Ezek.17.3, Ezek.27.5, Ezek.31.3, Ezek.31.15, Ezek.31.16,Hos.14.5, Hos.14.6, Hos.14.7, Nah.1.4,Hab.2.17,Zech.10.10, Zech.11.1</description>
 	<Placemark>
-	<name>Lebanon (approximate boundary)</name>
+	<name xml:lang="vi">Li‑ban</name>
 	<styleUrl>#region</styleUrl>
 	<Polygon>
 		<tesselate>1</tesselate>
@@ -9746,11 +9749,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Lehem (Jashubi-lehem)</name>
+	<name xml:lang="vi">Lê‑hem (Lehem, Jashubi-lehem)</name>
 	<description>1Chr.4.22</description>
 	<Placemark>
-		<name>Lehem / Bethlehem</name>
-		<description>another name for Bethlehem 1</description>
+		<name xml:lang="vi">Lê‑hem</name>
+		<description>Lehem / Bethlehem, another name for Bethlehem 1</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.207639,31.704306</coordinates>
@@ -9758,10 +9761,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Lehi</name>
+	<name xml:lang="vi">Lê‑chi (Lehi)</name>
 	<description>Judg.15.9, Judg.15.14, Judg.15.19,2Sam.23.11</description>
 	<Placemark>
-		<name>Lehi / Khirbet es Siyyagh</name>
+		<name xml:lang="vi">Lê‑chi</name>
+		<description>Lehi / Khirbet es Siyyagh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.001006,31.748796</coordinates>
@@ -9819,10 +9823,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Lo-debar</name>
+	<name xml:lang="vi">Lô‑đê‑ba (Lo-debar)</name>
 	<description>2Sam.9.4, 2Sam.9.5, 2Sam.17.27, Amos.6.13</description>
 	<Placemark>
-		<name>Lo-debar / Umm ed Debar</name>
+		<name xml:lang="vi">Lô‑đê‑ba</name>
+		<description>Lo-debar / Umm ed Debar</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.61221,32.56576</coordinates>
@@ -9830,10 +9835,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Lower Beth-horon (Lower)</name>
+	<name xml:lang="vi">Bết Hô‑rôn Hạ (Lower Beth-horon)</name>
 	<description>Josh.16.3, Josh.18.13, 1Kgs.9.17, 1Chr.7.24, 2Chr.8.5</description>
 	<Placemark>
-		<name>Lower Beth-horon / Beit Ur al Tahta</name>
+		<name xml:lang="vi">Bết Hô‑rôn Hạ</name>
+		<description>Lower Beth-horon / Beit Ur al Tahta</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.083611,31.895</coordinates>
@@ -9914,11 +9920,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Luz 1</name>
+	<name xml:lang="vi">Lu‑xơ (Luz 1)</name>
 	<description>Gen.28.19, Gen.35.6, Gen.48.3, Josh.16.2, Josh.18.13, Judg.1.23</description>
 	<Placemark>
-		<name>Luz 1 / Beitin</name>
-		<description>another name for Bethel 1</description>
+		<name xml:lang="vi">Lu‑xơ</name>
+		<description>Luz 1 / Beitin, another name for Bethel 1</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.241389,31.922778</coordinates>
@@ -9926,10 +9932,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Luz 2</name>
+	<name xml:lang="vi">Lu‑xơ (Luz 2)</name>
 	<description>Judg.1.26</description>
 	<Placemark>
-		<name>Luz 2 / Luweizeh</name>
+		<name xml:lang="vi">Lu‑xơ</name>
+		<description>Luz 2 / Luweizeh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.53556,33.46028</coordinates>
@@ -9953,10 +9960,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Lycia</name>
+	<name xml:lang="vi">Ly‑si‑a (Lycia)</name>
 	<description>Acts.27.5</description>
 	<Placemark>
-		<name>Lycia</name>
+		<name xml:lang="vi">Ly‑si‑a</name>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -9969,9 +9976,9 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Lydia</name>
+	<name xml:lang="vi">Ly‑đi (Lydia)</name>
 	<Placemark>
-		<name>Lydia</name>
+		<name xml:lang="vi">Ly‑đi</name>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>

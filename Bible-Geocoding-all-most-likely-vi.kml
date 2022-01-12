@@ -13030,11 +13030,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Racal (Rakal, Rachal)</name>
+	<name xml:lang="vi">Ra‑canh (Racal, Rachal, Rakal)</name>
 	<description>1Sam.30.29</description>
 	<Placemark>
-		<name>Racal / Khirbet el Kirmil</name>
-		<description>another name for Carmel 1</description>
+		<name xml:lang="vi">Ra‑canh</name>
+		<description>Racal / Khirbet el Kirmil, another name for Carmel 1</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.132952,31.422876</coordinates>
@@ -13184,11 +13184,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ramathaim-zophim (Ramathaim, Ramah)</name>
+	<name xml:lang="vi">Ra‑ma‑tha‑im Xô‑phim (Ramathaim-zophim, Ramathaim, Ramah)</name>
 	<description>1Sam.1.1</description>
 	<Placemark>
-		<name>Ramathaim-zophim / Al Ram</name>
-		<description>another name for Ramah 4</description>
+		<name xml:lang="vi">Ra‑ma‑tha‑im Xô‑phim</name>
+		<description>Ramathaim-zophim / Al Ram, another name for Ramah 4</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.23161,31.85434</coordinates>
@@ -13231,10 +13231,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ramoth 1</name>
+	<name xml:lang="vi">Ra‑mốt (Ramoth 1)</name>
 	<description>1Chr.6.73</description>
 	<Placemark>
-		<name>Ramoth 1 / Kokab el Hawa</name>
+		<name xml:lang="vi">Ra‑mốt</name>
+		<description>Ramoth 1 / Kokab el Hawa</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.521389,32.595556</coordinates>
@@ -13242,11 +13243,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ramoth 2</name>
+	<name xml:lang="vi">Ra‑mốt (Ramoth 2)</name>
 	<description>1Sam.30.27</description>
 	<Placemark>
-		<name>Ramoth 2 / Deir el Azar</name>
-		<description>another name for Ramah 6</description>
+		<name xml:lang="vi">Ra‑mốt</name>
+		<description>Ramoth 2 / Deir el Azar, another name for Ramah 6</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.10378,31.808957</coordinates>
@@ -13254,11 +13255,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ramoth 3</name>
+	<name xml:lang="vi">Ra‑mốt (Ramoth 3)</name>
 	<description>Deut.4.43, Josh.20.8, Josh.21.38, 1Chr.6.80</description>
 	<Placemark>
-		<name>Ramoth 3 / Tall er Rumeith</name>
-		<description>another name for Ramoth-gilead</description>
+		<name xml:lang="vi">Ra‑mốt </name>
+		<description>Ramoth 3 / Tall er Rumeith, another name for Ramoth-gilead</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>36.014988,32.499852</coordinates>
@@ -13266,10 +13267,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ramoth-gilead</name>
+	<name xml:lang="vi">Ra‑mốt Ga‑la‑át (Ramoth-gilead)</name>
 	<description>1Kgs.4.13, 1Kgs.22.3, 1Kgs.22.4, 1Kgs.22.6, 1Kgs.22.12, 1Kgs.22.15, 1Kgs.22.20, 1Kgs.22.29, 2Kgs.8.28, 2Kgs.9.1, 2Kgs.9.4, 2Kgs.9.14, 2Chr.18.2, 2Chr.18.3, 2Chr.18.5, 2Chr.18.11, 2Chr.18.14, 2Chr.18.19, 2Chr.18.28, 2Chr.22.5</description>
 	<Placemark>
-		<name>Ramoth-gilead / Tall er Rumeith</name>
+		<name xml:lang="vi">Ra‑mốt Ga‑la‑át</name>
+		<description>Ramoth-gilead / Tall er Rumeith</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>36.014988,32.499852</coordinates>
@@ -13576,11 +13578,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Rimmono (Rimmon)</name>
+	<name xml:lang="vi">Ri‑mô‑nô (Rimmono, Rimmon)</name>
 	<description>1Chr.6.77</description>
 	<Placemark>
-		<name>Rimmono / Rumana</name>
-		<description>another name for Rimmon 3</description>
+		<name xml:lang="vi">Ri‑mô‑nô</name>
+		<description>Rimmono / Rumana, another name for Rimmon 3</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.310556,32.788056</coordinates>
@@ -13649,10 +13651,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Rock of Escape (Sela Hammahlekoth, Rock of Division, Rock of Separation)</name>
+	<name xml:lang="vi">Tảng Đá Phân Rẽ (Rock of Escape, Sela Hammahlekoth, Rock of Division, Rock of Separation, region)</name>
 	<description>1Sam.23.28</description>
 	<Placemark>
-		<name>Rock of Escape / along Wadi Malaqi</name>
+		<name xml:lang="vi">Tảng Đá Phân Rẽ</name>
+		<description>Rock of Escape / along the Wadi Malaqi</description>
 		<styleUrl>#path</styleUrl>
 		<LineString>
 			<tesselate>1</tesselate>
@@ -13672,10 +13675,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Rome</name>
+	<name xml:lang="vi">Rô‑ma (Rome)</name>
 	<description>Acts.2.10, Acts.18.2, Acts.19.21, Acts.19.40, Acts.23.11, Acts.25.25, Acts.25.27, Acts.28.14, Acts.28.15, Acts.28.16, Acts.28.30,Rom.1.7, Rom.1.15, Rom.15.24,2Tim.1.17</description>
 	<Placemark>
-		<name>Rome</name>
+		<name xml:lang="vi">Rô‑ma</name>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>12.4852,41.8922</coordinates>

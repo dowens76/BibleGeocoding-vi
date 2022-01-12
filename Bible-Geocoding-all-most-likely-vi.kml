@@ -12366,10 +12366,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ophir</name>
+	<name xml:lang="vi">Ô‑phia (Ophir)</name>
 	<description>1Kgs.9.28, 1Kgs.10.11, 1Kgs.22.48, 1Chr.29.4, 2Chr.8.18, 2Chr.9.10, Job.22.24, Job.28.16, Ps.45.9, Isa.13.12</description>
 	<Placemark>
-	<name>Ophir (approximate boundary)</name>
+	<name xml:lang="vi">Ô‑phia</name>
 	<styleUrl>#region</styleUrl>
 	<Polygon>
 		<tesselate>1</tesselate>
@@ -12393,10 +12393,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ophrah 1</name>
+	<name xml:lang="vi">Óp‑ra (Ophrah 1)</name>
 	<description>Josh.18.23, 1Sam.13.17</description>
 	<Placemark>
-		<name>Ophrah 1 / Taybeh</name>
+		<name xml:lang="vi">Óp‑ra</name>
+		<description>Ophrah 1 / Taybeh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.300278,31.954444</coordinates>
@@ -12404,10 +12405,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ophrah 2</name>
+	<name xml:lang="vi">Óp‑ra (Ophrah 2)</name>
 	<description>Judg.6.11, Judg.6.24, Judg.8.27, Judg.8.32, Judg.9.5</description>
 	<Placemark>
-		<name>Ophrah 2 / Afula</name>
+		<name xml:lang="vi">Óp‑ra</name>
+		<description>Ophrah 2 / Afula</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.29,32.6057</coordinates>
@@ -12417,8 +12419,7 @@
 <Folder>
 	<name>Paddan-aram (Padan Aram)</name>
 	<description>Gen.25.20, Gen.28.2, Gen.28.5, Gen.28.6, Gen.28.7, Gen.31.18, Gen.33.18, Gen.35.9, Gen.35.26, Gen.46.15, Gen.48.7</description>
-
-		<description>another name for Aram-naharaim</description>
+	<description>another name for Aram-naharaim</description>
 	<Placemark>
 	<name>Paddan-aram (approximate boundary)</name>
 	<styleUrl>#region</styleUrl>
@@ -12471,10 +12472,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Paran (Desert of Paran, Wilderness of Paran)</name>
+	<name xml:lang="vi">Hoang Mạc Pha‑ran (Wilderness of Paran)</name>
 	<description>Gen.21.21, Num.10.12, Num.12.16, Num.13.3, Num.13.26, Deut.1.1, 1Sam.25.1, 1Kgs.11.18</description>
 	<Placemark>
-	<name>Paran (approximate boundary)</name>
+	<name xml:lang="vi">Hoang Mạc Pha‑ran</name>
 	<styleUrl>#region</styleUrl>
 	<Polygon>
 		<tesselate>1</tesselate>
@@ -12591,10 +12592,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Penuel (Peniel)</name>
+	<name xml:lang="vi">Phê‑ni‑ên (Penuel, Peniel)</name>
 	<description>Gen.32.30, Gen.32.31, Judg.8.8, Judg.8.9, Judg.8.17, 1Kgs.12.25</description>
 	<Placemark>
-		<name>Penuel / Tell edh Dhahab esh Sherqiyeh</name>
+		<name xml:lang="vi">Phê‑ni‑ên</name>
+		<description>Penuel / Tell edh Dhahab esh Sherqiyeh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.69211,32.187016</coordinates>
@@ -12668,10 +12670,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Persia</name>
+	<name xml:lang="vi">Ba Tư (Persia)</name>
 	<description>2Chr.36.20, 2Chr.36.22, 2Chr.36.23, Ezra.1.1, Ezra.1.2, Ezra.1.8, Ezra.3.7, Ezra.4.3, Ezra.4.5, Ezra.4.7, Ezra.4.9, Ezra.4.24, Ezra.6.14, Ezra.7.1, Ezra.9.9, Esth.1.3, Esth.1.14, Esth.1.18, Esth.1.19, Esth.10.2, Ezek.27.10, Ezek.38.5, Dan.8.20, Dan.10.1, Dan.10.13, Dan.10.20, Dan.11.2</description>
 	<Placemark>
-		<name>Persia</name>
+		<name xml:lang="vi">Ba Tư</name>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -12731,10 +12733,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Philistia</name>
+	<name xml:lang="vi">Phi‑li‑tin (Philistia)</name>
 	<description>Exod.15.14, Judg.10.6, 1Sam.31.9,2Sam.8.12, 1Chr.10.9, 1Chr.18.11, 2Chr.26.6, Ps.60.8, Ps.83.7, Ps.87.4, Ps.108.9, Isa.9.12, Isa.11.14, Isa.14.29, Isa.14.31, Jer.47.5, Ezek.16.57, Ezek.25.15, Joel.3.4, Amos.6.2,Obad.1.19,Zech.9.6</description>
 	<Placemark>
-	<name>Philistia (approximate boundary)</name>
+	<name xml:lang="vi">Phi‑li‑tin</name>
 	<styleUrl>#region</styleUrl>
 	<Polygon>
 		<tesselate>1</tesselate>
@@ -12868,10 +12870,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Pithom</name>
+	<name xml:lang="vi">Phi‑thom (Pithom)</name>
 	<description>Exod.1.11</description>
 	<Placemark>
-		<name>Pithom / Tell er Retaba</name>
+		<name xml:lang="vi">Phi‑thom</name>
+		<description>Pithom / Tell er Retaba</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>31.963611,30.5475</coordinates>

@@ -16119,21 +16119,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ur 1</name>
+	<name xml:lang="vi">U-rơ (Ur 1)</name>
 	<description>Gen.11.28, Gen.11.31, Gen.15.7, Neh.9.7</description>
 	<Placemark>
-		<name>Ur 1 / Tell el Muqayyar</name>
-		<description>another name for Ur 2</description>
-		<styleUrl>#landpoint</styleUrl>
-		<Point>
-			<coordinates>46.104444,30.962222</coordinates>
-		</Point>
-	</Placemark>
-</Folder>
-<Folder>
-	<name>Ur 2</name>
-	<Placemark>
-		<name>Ur 2 / Tell el Muqayyar</name>
+		<name xml:lang="vi">U-rơ</name>
+		<description>Ur / Tell el Muqayyar</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>46.104444,30.962222</coordinates>
@@ -16156,19 +16146,19 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Uz</name>
+	<name xml:lang="vi">Út‑xơ (Uz)</name>
 	<description>Job.1.1, Jer.25.20,Lam.4.21</description>
 	<Placemark>
-	<name>Uz (approximate boundary)</name>
-	<styleUrl>#region</styleUrl>
-	<Polygon>
-		<tesselate>1</tesselate>
-		<outerBoundaryIs>
-			<LinearRing>
-				<coordinates>34.47046,30.53394 34.40298,30.47512 34.87535,29.53393 34.94283,29.47511 35.01032,29.47511 35.0778,29.47511 35.41521,29.65158 36.15751,30.41629 36.29247,30.76924 36.29247,30.82806 36.22499,31.00453 35.75262,31.06336 35.68513,31.06336 35.61765,31.06336 35.55017,31.06336 35.48269,31.06336 35.41521,31.06336 35.28024,31.00453 35.14528,30.94571 34.87535,30.82806 34.47046,30.53394</coordinates>
-			</LinearRing>
-		</outerBoundaryIs>
-	</Polygon>
+		<name xml:lang="vi">Út‑xơ </name>
+		<styleUrl>#region</styleUrl>
+		<Polygon>
+			<tesselate>1</tesselate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>34.47046,30.53394 34.40298,30.47512 34.87535,29.53393 34.94283,29.47511 35.01032,29.47511 35.0778,29.47511 35.41521,29.65158 36.15751,30.41629 36.29247,30.76924 36.29247,30.82806 36.22499,31.00453 35.75262,31.06336 35.68513,31.06336 35.61765,31.06336 35.55017,31.06336 35.48269,31.06336 35.41521,31.06336 35.28024,31.00453 35.14528,30.94571 34.87535,30.82806 34.47046,30.53394</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
 	</Placemark>
 </Folder>
 <Folder>
@@ -16315,10 +16305,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Valley of Elah</name>
+	<name xml:lang="vi">Thung Lũng Ê‑la (Valley of Elah)</name>
 	<description>1Sam.17.2, 1Sam.17.19, 1Sam.21.9</description>
 	<Placemark>
-		<name>Valley of Elah</name>
+		<name xml:lang="vi">Thung Lũng Ê‑la</name>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -16331,11 +16321,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Valley of Eshcol (Valley of Eshkol, Wadi Eshcol, Eshcol Valley, Eshcol)</name>
+	<name xml:lang="vi">Lòng Sông Cạn Ếch‑côn (Valley of Eshcol, Valley of Eshkol, Wadi Eshcol, Eshcol Valley, Eshcol)</name>
 	<description>Num.13.23, Num.13.24, Num.32.9, Deut.1.24</description>
 	<Placemark>
-		<name>Valley of Eshcol / within 5 km of Tel Rumeida</name>
-		<description>within 5 km of Hebron</description>
+		<name xml:lang="vi">Lòng Sông Cạn Ếch‑côn</name>
+		<description>Valley of Eshcol / within 5 km of Tel Rumeida/Hebron</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -16619,11 +16609,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Valley of the Arnon (Arnon Gorge, Valley of Arnon, Wadi Arnon, Arnon Valley, River Arnon, Arnon)</name>
+	<name xml:lang="vi">Sông Ạt‑nôn (Arnon Gorge, Valley of Arnon, Wadi Arnon, Arnon Valley, River Arnon, Arnon)</name>
 	<description>Deut.2.24, Deut.2.36, Deut.3.8, Deut.3.12, Deut.3.16, Deut.4.48, Josh.12.1, Josh.12.2, Josh.13.9, Josh.13.16, 2Kgs.10.33</description>
 	<Placemark>
-		<name>Valley of the Arnon / Wadi Mujib</name>
-		<description>another name for the Arnon</description>
+		<name xml:lang="vi">Sông Ạt‑nôn</name>
+		<description>Valley of the Arnon / Wadi Mujib, another name for the Arnon</description>
 		<styleUrl>#path</styleUrl>
 		<LineString>
 			<tesselate>1</tesselate>
@@ -16792,11 +16782,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Wilderness of Sinai (Desert of Sinai)</name>
+	<name xml:lang="vi">Hoang Mạc Si‑na‑i (Wilderness of Sinai, Desert of Sinai)</name>
 	<description>Exod.19.1, Exod.19.2,Lev.7.38, Num.1.1, Num.1.19, Num.3.4, Num.3.14, Num.9.1, Num.9.5, Num.10.12, Num.26.64, Num.33.15, Num.33.16</description>
 	<Placemark>
-		<name>Wilderness of Sinai / about 50 km around Jebel Musa</name>
-		<description>about 50 km around Mount Sinai</description>
+		<name xml:lang="vi">Hoang Mạc Si‑na‑i</name>
+		<description>Wilderness of Sinai / about 50 km around Jebel Musa/Mount Sinai</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -16825,11 +16815,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Wildgoats’ Rocks (Crags of the Wild Goats, Rocks of the Mountain Goats, Rocks of the Wild Goats)</name>
+	<name xml:lang="vi">Dê Rừng (Wildgoats' Rocks, Rocks of the Wild Goats, Rocks of the Mountain Goats, Crags of the Wild Goats, region)</name>
 	<description>1Sam.24.2</description>
 	<Placemark>
-		<name>Wildgoats’ Rocks / within 4 km of Ein Gedi</name>
-		<description>within 4 km of Engedi</description>
+		<name xml:lang="vi">Dê Rừng</name>
+		<description>Wildgoats' Rocks / within 4 km of Ein Gedi/Engedi</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -16988,11 +16978,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zeboiim (Zeboyim, Zeboim)</name>
+	<name xml:lang="vi">Xê‑bô‑im (Zeboiim, Zeboyim, Zeboim)</name>
 	<description>Gen.10.19, Gen.14.2, Gen.14.8, Deut.29.23,Hos.11.8</description>
 	<Placemark>
-		<name>Zeboiim / in the region south of the Lisan</name>
-		<description>in the Valley of Siddim</description>
+		<name xml:lang="vi">Xê‑bô‑im</name>
+		<description>Zeboiim / in the region south of the Lisan, in the Valley of Siddim</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -17078,11 +17068,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zephath</name>
+	<name xml:lang="vi">Xê‑phát (Zephath)</name>
 	<description>Judg.1.17</description>
 	<Placemark>
-		<name>Zephath / Tel Masos</name>
-		<description>another name for Hormah</description>
+		<name xml:lang="vi">Xê‑phát</name>
+		<description>Zephath / Tel Masos, another name for Hormah</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.958277,31.212285</coordinates>
@@ -17171,10 +17161,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ziklag</name>
-	<description>Josh.15.31, Josh.19.5, 1Sam.27.6, 1Sam.30.1, 1Sam.30.3, 1Sam.30.14, 1Sam.30.26,2Sam.1.1, 2Sam.4.10, 1Chr.4.30, 1Chr.12.1, 1Chr.12.20, Neh.11.28</description>
+	<name xml:lang="vi">Xiếc‑lác (Ziklag)</name>
+	<description>Josh.15.31, Josh.19.5, 1Sam.27.6, 1Sam.30.1, 1Sam.30.3, 1Sam.30.14, 1Sam.30.26,2Sam.1.1,2Sam.4.10, 1Chr.4.30, 1Chr.12.1, 1Chr.12.20, Neh.11.28</description>
 	<Placemark>
-		<name>Ziklag / Tell esh Sharia</name>
+		<name xml:lang="vi">Xiếc‑lác</name>
+		<description>Ziklag / Tell esh Sharia</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.6816,31.3912</coordinates>
@@ -17233,11 +17224,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zion (Jerusalem)</name>
+	<name xml:lang="vi">Si-ôn (Zion, Jerusalem)</name>
 	<description>2Sam.5.7, 1Kgs.8.1, 2Kgs.19.21, 1Chr.11.5, 2Chr.5.2, Ps.2.6, Ps.9.11, Ps.9.14, Ps.14.7, Ps.20.2, Ps.48.12, Ps.50.2, Ps.51.18, Ps.53.6, Ps.65.1, Ps.69.35, Ps.76.2, Ps.84.5, Ps.84.7, Ps.87.2, Ps.87.5, Ps.97.8, Ps.99.2, Ps.102.13, Ps.102.16, Ps.102.21, Ps.110.2, Ps.126.1, Ps.128.5, Ps.129.5, Ps.132.13, Ps.133.3, Ps.134.3, Ps.135.21, Ps.137.1, Ps.137.3, Ps.146.10, Ps.147.12, Ps.149.2, Song.3.11, Isa.1.8, Isa.1.27, Isa.2.3, Isa.3.16, Isa.3.17, Isa.3.26, Isa.4.3, Isa.4.4, Isa.10.24, Isa.10.32, Isa.12.6, Isa.14.32, Isa.16.1, Isa.28.16, Isa.30.19, Isa.31.9, Isa.33.5, Isa.33.6, Isa.33.14, Isa.33.20, Isa.33.24, Isa.34.8, Isa.35.10, Isa.37.22, Isa.40.9, Isa.41.27, Isa.46.13, Isa.49.14, Isa.51.3, Isa.51.11, Isa.51.16, Isa.52.1, Isa.52.2, Isa.52.7, Isa.52.8, Isa.59.20, Isa.60.14, Isa.61.3, Isa.62.1, Isa.62.11, Isa.64.10, Isa.66.8, Jer.3.14, Jer.4.6, Jer.4.30, Jer.4.31, Jer.6.2, Jer.6.23, Jer.8.19, Jer.9.19, Jer.14.19, Jer.26.18, Jer.30.12, Jer.30.17, Jer.31.6, Jer.31.12, Jer.50.5, Jer.50.28, Jer.51.10, Jer.51.24, Jer.51.35,Lam.1.4, Lam.1.6, Lam.1.17, Lam.2.1, Lam.2.4, Lam.2.6, Lam.2.8, Lam.2.9, Lam.2.10, Lam.2.13, Lam.2.18, Lam.4.2, Lam.4.11, Lam.4.22, Lam.5.11, Joel.2.1, Joel.2.15, Joel.2.23, Joel.3.16, Joel.3.17, Joel.3.21, Amos.1.2, Amos.6.1, Mic.1.13, Mic.3.10, Mic.3.12, Mic.4.2, Mic.4.8, Mic.4.10, Mic.4.11, Mic.4.13,Zeph.3.14, Zeph.3.16, Zeph.3.18,Zech.1.14, Zech.1.17, Zech.2.7, Zech.2.10, Zech.8.2, Zech.8.3, Zech.9.9, Zech.9.13, Matt.21.5, John.12.15,Rom.9.33, Rom.11.26, 1Pet.2.6</description>
 	<Placemark>
-		<name>Zion / Jerusalem</name>
-		<description>another name for Jerusalem</description>
+		<name xml:lang="vi">Si-ôn</name>
+		<description>Zion, another name for Jerusalem</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.234167,31.776667</coordinates>
@@ -17262,10 +17253,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ziph 1</name>
+	<name xml:lang="vi">Xíp (Ziph 1)</name>
 	<description>Josh.15.55, 1Sam.23.19, 1Sam.23.24, 1Sam.26.1, 2Chr.11.8</description>
 	<Placemark>
-		<name>Ziph 1 / Tell Zif</name>
+		<name xml:lang="vi">Xíp</name>
+		<description>Ziph 1 / Tell Zif</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.13514,31.47475</coordinates>

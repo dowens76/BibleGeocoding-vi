@@ -572,10 +572,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ahlab</name>
+	<name xml:lang="vi">Ma-ha-lép (Ahlab)</name>
 	<description>Judg.1.31</description>
 	<Placemark>
-		<name>Ahlab / Khirbet al Mahalib</name>
+		<name> xml:lang="vi">Ma-ha-lép</name>
+		<description>Ahlab / Khirbet al Mahalib</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.243368,33.317804</coordinates>

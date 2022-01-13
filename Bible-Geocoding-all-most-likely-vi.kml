@@ -220,9 +220,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Abila Lysaniou</name>
+	<name xml:lang="vi">A-by-la Ly-sa-ni (Abila Lysaniou)</name>
 	<Placemark>
-		<name>Abila Lysaniou / Souq Wadi Barada</name>
+		<name xml:lang="vi">A-by-la Ly-sa-ni</name>
+		<description>Abila Lysaniou / Souq Wadi Barada</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>36.105833,33.626667</coordinates>

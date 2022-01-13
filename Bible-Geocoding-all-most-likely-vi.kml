@@ -596,10 +596,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ai 2</name>
+	<name xml:lang="vi">A-hi (Ai 2)</name>
 	<description>Jer.49.3</description>
 	<Placemark>
-	<name>Ai 2 (approximate boundary)</name>
+	<name xml:lang="vi">A-hi</name>
+	<description>Ai 2 (approximate boundary)</description>
 	<styleUrl>#region</styleUrl>
 	<Polygon>
 		<tesselate>1</tesselate>
@@ -612,10 +613,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ai 3</name>
+	<name xml:lang="vi">A-hi(Ai 3)</name>
 	<description>Ezra.2.28, Neh.7.32</description>
 	<Placemark>
-		<name>Ai 3 / Et Tell</name>
+		<name>A-hi</name>
+		<description>Ai 3 / Et Tell</description>
 		<description>another name for Ai 1</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -624,10 +626,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Aiath</name>
+	<name xml:lang="vi">A‑giát(Aiath)</name>
 	<description>Isa.10.28</description>
 	<Placemark>
-		<name>Aiath / Et Tell</name>
+		<name xml:lang="vi">A-giát</name>
+		<description>Aiath / Et Tell</description>
 		<description>another name for Ai 1</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>

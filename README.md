@@ -15,3 +15,5 @@ OpenStreetMap data is licensed under ODbL 1.0, which is similar to CC-BY-SA.
 ## List of Contributors
 
 Daniel Owens
+
+Bui Duc Huynh

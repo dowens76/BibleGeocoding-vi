@@ -531,10 +531,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Aenon</name>
+	<name xml:lang="vi">Ạt‑nôn (Aenon)</name>
 	<description>John.3.23</description>
 	<Placemark>
-		<name>Aenon / Umm el Umdan</name>
+		<name xml:lang="vi">Ạt‑nôn</name>
+		<description>Aenon / Umm el Umdan</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.52821,32.38152</coordinates>

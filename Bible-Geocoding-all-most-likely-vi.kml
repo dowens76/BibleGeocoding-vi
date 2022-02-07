@@ -80,8 +80,7 @@
 <Folder>
 		<name xml:lang="vi">Sông A‑ba‑na (Abana River, point)</name>
 		<description>2Kgs.5.12</description>
-		<Folder>
-			<Placemark>
+		<Placemark>
 			<name xml:lang="vi">Sông A‑ba‑na</name>
 			<description>Abana / Barada River</description>
 			<styleUrl>#waterrepresentativepoint</styleUrl>
@@ -89,7 +88,7 @@
 				<coordinates>36.305,33.513542</coordinates>
 			</Point>
 		</Placemark>
-		</Folder>
+</Folder>
 <Folder>
 	<name xml:lang="vi">Sông A‑ba‑na (Abana River)</name>
 	<description>2Kgs.5.12</description>
@@ -172,7 +171,7 @@
 	<description>Gen.50.11</description>
 	<Placemark>
 		<name xml:lang="vi">A‑bên Mích‑ra‑im</name>
-		<description>Abel-mizraim / near the mouth of the Jordan River</ndescriptioname>
+		<description>Abel-mizraim / near the mouth of the Jordan River</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.530445,31.914888</coordinates>
@@ -14624,6 +14623,7 @@
 	<description>another name for Babylonia</description>
 	<Placemark>
 	<name xml:lang="vi">Si‑nê‑a</name>
+	<Polygon>
 		<tesselate>1</tesselate>
 		<outerBoundaryIs>
 			<LinearRing>

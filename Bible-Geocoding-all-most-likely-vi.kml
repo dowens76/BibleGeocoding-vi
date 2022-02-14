@@ -4718,7 +4718,7 @@
 	<name xml:lang="vi">Vườn Ê-đen (Eden 1)</name>
 	<description>Gen.2.8, Gen.2.10, Gen.2.15, Gen.3.23, Gen.3.24, Gen.4.16, Isa.51.3, Ezek.28.13, Ezek.31.9, Ezek.31.16, Ezek.31.18, Ezek.36.35, Joel.2.3</description>
 	<Placemark>
-	<name xml:lang="vi">Vườn Ê-đen?</name>
+	<name xml:lang="vi">Vườn Ê-đen (?)</name>
 	<styleUrl>#region</styleUrl>
 	<Polygon>
 		<tesselate>1</tesselate>
@@ -16143,15 +16143,44 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">U-rơ (Ur 1)</name>
+	<name xml:lang="vi">U-rơ (Ur 1, southern location)</name>
 	<description>Gen.11.28, Gen.11.31, Gen.15.7, Neh.9.7</description>
 	<Placemark>
-		<name xml:lang="vi">U-rơ</name>
+		<name xml:lang="vi">U-rơ (?)</name>
 		<description>Ur / Tell el Muqayyar</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>46.104444,30.962222</coordinates>
 		</Point>
+	</Placemark>
+</Folder>
+<Folder>
+	<name xml:lang="vi">U-rơ (Ur 1, northern location at Urfa)</name>
+	<description>Gen.11.28, Gen.11.31, Gen.15.7, Neh.9.7</description>
+	<Placemark>
+		<name xml:lang="vi">U-rơ (?)</name>
+		<description>Ur 1 / Urfa</description>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>38.784444,37.147778</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
+	<name xml:lang="vi">U-rơ (Ur 1, northern location at Ura)</name>
+	<description>Gen.11.28, Gen.11.31, Gen.15.7, Neh.9.7</description>
+	<Placemark>
+		<name xml:lang="vi">U-rơ (?)</name>
+		<description>Ur 1 / within 150 km of Bayburt, another name for Ura</description>
+		<styleUrl>#region</styleUrl>
+		<Polygon>
+			<tesselate>1</tesselate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>40.226,41.60362 40.03747,41.59608 39.85113,41.57354 39.66915,41.53628 39.49363,41.48471 39.32659,41.41944 39.16993,41.34123 39.02542,41.25097 38.89467,41.14971 38.77908,41.0386 38.67991,40.9189 38.59817,40.79196 38.53469,40.65923 38.49006,40.52217 38.46466,40.38231 38.45866,40.2412 38.47198,40.10038 38.50439,39.96138 38.55539,39.82573 38.62435,39.69487 38.71042,39.57021 38.81259,39.45308 38.92971,39.34471 39.06047,39.24626 39.20346,39.15875 39.35712,39.08311 39.51983,39.02012 39.68987,38.97043 39.86547,38.93457 40.0448,38.91291 40.226,38.90566 40.4072,38.91291 40.58653,38.93457 40.76213,38.97043 40.93217,39.02012 41.09488,39.08311 41.24854,39.15875 41.39153,39.24626 41.52229,39.34471 41.63941,39.45308 41.74158,39.57021 41.82765,39.69487 41.89661,39.82573 41.94761,39.96138 41.98002,40.10038 41.99334,40.2412 41.98734,40.38231 41.96194,40.52217 41.91731,40.65923 41.85383,40.79196 41.77209,40.9189 41.67292,41.0386 41.55733,41.14971 41.42658,41.25097 41.28207,41.34123 41.12541,41.41944 40.95837,41.48471 40.78285,41.53628 40.60087,41.57354 40.41453,41.59608 40.226,41.60362</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
 	</Placemark>
 </Folder>
 <Folder>

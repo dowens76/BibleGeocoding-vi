@@ -4718,7 +4718,7 @@
 	<name xml:lang="vi">Vườn Ê-đen (Eden 1)</name>
 	<description>Gen.2.8, Gen.2.10, Gen.2.15, Gen.3.23, Gen.3.24, Gen.4.16, Isa.51.3, Ezek.28.13, Ezek.31.9, Ezek.31.16, Ezek.31.18, Ezek.36.35, Joel.2.3</description>
 	<Placemark>
-	<name xml:lang="vi">Vườn Ê-đen (?)</name>
+	<name xml:lang="vi">Vườn Ê-đen?</name>
 	<styleUrl>#region</styleUrl>
 	<Polygon>
 		<tesselate>1</tesselate>
@@ -12895,7 +12895,7 @@
 	<name xml:lang="vi">Phi‑thom (Pithom)</name>
 	<description>Exod.1.11</description>
 	<Placemark>
-		<name xml:lang="vi">Phi‑thom</name>
+		<name xml:lang="vi">Phi‑thom?</name>
 		<description>Pithom / Tell er Retaba</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -13242,10 +13242,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Rameses</name>
+	<name xml:lang="vi">Ram‑se (Rameses, Qantir)</name>
 	<description>Gen.47.11, Exod.1.11, Exod.12.37, Num.33.3, Num.33.5</description>
 	<Placemark>
-		<name>Rameses / Qantir</name>
+		<name>Ram‑se</name>
+		<description>Rameses / Qantir</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>31.834217,30.79937</coordinates>
@@ -13468,10 +13469,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Rephidim</name>
+	<name xml:lang="vi">Rê‑phi‑đim (Rephidim)</name>
 	<description>Exod.17.1, Exod.17.8, Exod.19.2, Num.33.14, Num.33.15</description>
 	<Placemark>
-		<name>Rephidim / along Wadi Rufaiyil</name>
+		<name xml:lang="vi">Rê‑phi‑đim?</name>
+		<description>Rephidim / along Wadi Rufaiyil</description>
 		<styleUrl>#path</styleUrl>
 		<LineString>
 			<tesselate>1</tesselate>
@@ -15036,10 +15038,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Succoth 1 (Sukkoth)</name>
+	<name xml:lang="vi">Su‑cốt (Succoth 1, Sukkoth, in Gen, Josh, Judg, 1 Kgs, 2 Chr)</name>
 	<description>Gen.33.17, Josh.13.27, Judg.8.5, Judg.8.6, Judg.8.8, Judg.8.14, Judg.8.15, Judg.8.16, 1Kgs.7.46, 2Chr.4.17</description>
 	<Placemark>
-		<name>Succoth 1 / Tell Deir Alla</name>
+		<name xml:lang="vi">Su‑cốt</name>
+		<description>Succoth 1 / Tell Deir Alla</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.62118,32.1966</coordinates>
@@ -15047,10 +15050,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Succoth 2 (Sukkoth)</name>
+	<name xml:lang="vi">Su‑cốt (Succoth 2, Sukkoth, in Exod and Num)</name>
 	<description>Exod.12.37, Exod.13.20, Num.33.5, Num.33.6</description>
 	<Placemark>
-		<name>Succoth 2 / Tell el Maskhuta</name>
+		<name xml:lang="vi">Su‑cốt?</name>
+		<description>Succoth 2 / Tell el Maskhuta</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>32.099,30.5527</coordinates>
@@ -16146,7 +16150,7 @@
 	<name xml:lang="vi">U-rơ (Ur 1, southern location)</name>
 	<description>Gen.11.28, Gen.11.31, Gen.15.7, Neh.9.7</description>
 	<Placemark>
-		<name xml:lang="vi">U-rơ (?)</name>
+		<name xml:lang="vi">U-rơ?</name>
 		<description>Ur / Tell el Muqayyar</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -16158,7 +16162,7 @@
 	<name xml:lang="vi">U-rơ (Ur 1, northern location at Urfa)</name>
 	<description>Gen.11.28, Gen.11.31, Gen.15.7, Neh.9.7</description>
 	<Placemark>
-		<name xml:lang="vi">U-rơ (?)</name>
+		<name xml:lang="vi">U-rơ?</name>
 		<description>Ur 1 / Urfa</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -16170,7 +16174,7 @@
 	<name xml:lang="vi">U-rơ (Ur 1, northern location at Ura)</name>
 	<description>Gen.11.28, Gen.11.31, Gen.15.7, Neh.9.7</description>
 	<Placemark>
-		<name xml:lang="vi">U-rơ (?)</name>
+		<name xml:lang="vi">U-rơ?</name>
 		<description>Ur 1 / within 150 km of Bayburt, another name for Ura</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>

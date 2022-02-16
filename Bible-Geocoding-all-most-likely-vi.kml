@@ -612,7 +612,7 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">A-hi(Ai 3)</name>
+	<name xml:lang="vi">A-hi (Ai 3)</name>
 	<description>Ezra.2.28, Neh.7.32</description>
 	<Placemark>
 		<name>A-hi</name>
@@ -625,7 +625,7 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">A‑giát(Aiath)</name>
+	<name xml:lang="vi">A‑giát (Aiath)</name>
 	<description>Isa.10.28</description>
 	<Placemark>
 		<name xml:lang="vi">A-giát</name>
@@ -638,10 +638,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Aija</name>
+	<name xml:lang="vi">A-gia (Aija)</name>
 	<description>Neh.11.31</description>
 	<Placemark>
-		<name>Aija / Et Tell</name>
+		<name xml:lanag="vi">A-gia</name>
+		<description>Aija / Et Tell</description>
 		<description>another name for Ai 1</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -698,10 +699,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ain 3</name>
+	<name xml:lang="vi">A-in (Ain 3)</name>
 	<description>Josh.21.16</description>
 	<Placemark>
-		<name>Ain 3 / Khirbet Asan</name>
+		<name xml:lang="vi">A-in</name>
+		<description>Ain 3 / Khirbet Asan</description>
 		<description>another name for Ashan</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -710,10 +712,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Akeldama (Field of Blood, Aceldama)</name>
+	<name xml:lang="vi">Hác‑en‑đa‑ma (Akeldama (Field of Blood, Aceldama))</name>
 	<description>Matt.27.8, Acts.1.19</description>
 	<Placemark>
-		<name>Akeldama</name>
+		<name>Hác-en-đa-ma</name>
+        <description>Akeldama</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.23288,31.76841</coordinates>
@@ -721,10 +724,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Akrabbim (Scorpion Pass, Scorpion Ascent, Scorpions’ Ascent, Ascent of Akrabbim)</name>
+	<name xml:lang="vi">Ạc-ráp-bim (Akrabbim (Scorpion Pass, Scorpion Ascent, Scorpions’ Ascent, Ascent of Akrabbim))</name>
 	<description>Num.34.4, Josh.15.3, Judg.1.36</description>
 	<Placemark>
-		<name>Akrabbim / Ma’ale Akrabbim</name>
+		<name xml:lang="vi">Ạc-ráp-bim</name>
+		<description>Akrabbim / Ma’ale Akrabbim</description>
 		<styleUrl>#path</styleUrl>
 		<LineString>
 			<tesselate>1</tesselate>
@@ -733,10 +737,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Alemeth (Allemeth)</name>
+	<name xml:lang="vi">A‑lê‑mết (Alemeth (Allemeth))</name>
 	<description>1Chr.6.60</description>
 	<Placemark>
-		<name>Alemeth / Khirbet Almit</name>
+		<name xml:lang="vi">A-lê-mết</name>
+		<description>Alemeth / Khirbet Almit</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.273498,31.824903</coordinates>
@@ -744,10 +749,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Alexandria</name>
+	<name xml:lang="vi">A‑léc‑xan‑đờ‑ri‑a (Alexandria)</name>
 	<description>Acts.6.9, Acts.18.24, Acts.27.6, Acts.28.11</description>
 	<Placemark>
-		<name>Alexandria</name>
+		<name xml:lang="vi">A‑léc‑xan‑đờ‑ri‑a</name>
+		<description>A‑léc‑xan‑đờ‑ri‑a</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>29.8965,31.1825</coordinates>
@@ -755,10 +761,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Allammelech (Allammelek, Alammelech, Allamelech)</name>
+	<name xml:lang="vi">A‑lam‑mê‑léc (Allammelech (Allammelek, Alammelech, Allamelech))</name>
 	<description>Josh.19.26</description>
 	<Placemark>
-		<name>Allammelech / Tel Alil</name>
+		<name xml:lang="vi">A‑lam‑mê‑léc</name>
+		<description>Allammelech / Tel Alil</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.155668,32.771772</coordinates>

@@ -29,6 +29,6 @@ Currid, John D., and David P. Barrett. *Crossway ESV Bible Atlas*. Wheaton, IL: 
 
 ## Color Scheme
 
-Water: #a5bfdd
-Land: #fff7bc
-Routes: #800000
+- Water: #a5bfdd
+- Land: #fff7bc
+- Routes: #800000

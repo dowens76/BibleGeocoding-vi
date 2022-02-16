@@ -4928,7 +4928,7 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">Ê‑lim (Elim)</name>
+	<name xml:lang="vi">Ê‑lim (Elim, path)</name>
 	<description>Exod.15.27, Exod.16.1, Num.33.9, Num.33.10</description>
 	<Placemark>
 		<name xml:lang="vi">Ê‑lim</name>
@@ -4938,6 +4938,18 @@
 			<tesselate>1</tesselate>
 			<coordinates>33.122492,29.354125 33.121033,29.3542 33.11996,29.353452 33.119659,29.352554 33.119659,29.349711 33.119187,29.348888 33.117685,29.347841 33.115239,29.347504 33.111076,29.347691 33.108115,29.348327 33.10554,29.349487 33.103609,29.349674 33.098373,29.349374 33.096056,29.349 33.094339,29.348926 33.091979,29.348402 33.089619,29.348215 33.086958,29.348252 33.084168,29.347542 33.082838,29.347467 33.081765,29.347916 33.080564,29.349599 33.077087,29.352965 33.075929,29.353826 33.073869,29.354948 33.072238,29.355584 33.069534,29.355883 33.063784,29.354724 33.062797,29.354724 33.06181,29.354985 33.059964,29.355771 33.058033,29.35708 33.054643,29.360072 33.052626,29.361194 33.050051,29.361381 33.046875,29.360185 33.043485,29.359436 33.040652,29.359212 33.038678,29.358464 33.037477,29.357155 33.035932,29.353003 33.031039,29.348664 33.028851,29.345035 33.028121,29.34324 33.026791,29.34208 33.024817,29.341444 33.022156,29.33976 33.020997,29.338152 33.018765,29.337029 33.015847,29.335944 33.0125,29.334149 33.009839,29.333064 33.007436,29.331455 33.005676,29.329884 33.004346,29.32835 33.002028,29.326479 32.998509,29.323186 32.992759,29.318921 32.989841,29.316975 32.987652,29.315029 32.985678,29.312484 32.983918,29.309453 32.982588,29.305412 32.982845,29.298077 32.982759,29.295382 32.980957,29.291564 32.980131,29.288795 32.977411,29.28312 32.976981,29.281805 32.975893,29.279923 32.975121,29.27779 32.97452,29.27457 32.973232,29.272025 32.971687,29.270078 32.966881,29.267682 32.965336,29.266559 32.959714,29.261018 32.958984,29.260045 32.95671,29.258285 32.955379,29.257499 32.953448,29.257349 32.950702,29.257461 32.94817,29.25821 32.946496,29.259184 32.944522,29.26158 32.94302,29.262666 32.937484,29.264837 32.934051,29.266409 32.932763,29.266746 32.930832,29.266821 32.928729,29.266334 32.92697,29.265361 32.92624,29.264313 32.92521,29.260906 32.922249,29.259034 32.92109,29.25851 32.917185,29.255177 32.914352,29.254167 32.903323,29.254391 32.893796,29.253642 32.889934,29.253642 32.887273,29.254017 32.884741,29.25368 32.880836,29.251433 32.878033,29.249079</coordinates>
 		</LineString>
+	</Placemark>
+</Folder>
+<Folder>
+	<name xml:lang="vi">Ê‑lim (Elim, point)</name>
+	<description>Exod.15.27, Exod.16.1, Num.33.9, Num.33.10</description>
+	<Placemark>
+		<name xml:lang="vi">Ê‑lim</name>
+		<description>Elim / along the Wadi Gharandal</description>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>33.122492,29.354125</coordinates>
+		</Point>
 	</Placemark>
 </Folder>
 <Folder>
@@ -5509,7 +5521,7 @@
 	<name xml:lang="vi">Ê‑tam (Etham)</name>
 	<description>Exod.13.20, Num.33.6, Num.33.7, Num.33.8</description>
 	<Placemark>
-		<name xml:lang="vi">Ê‑tam</name>
+		<name xml:lang="vi">Ê‑tam?</name>
 		<description>Etham / Tell er Retaba, another name for Pithom</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -10374,11 +10386,11 @@
 	<name xml:lang="vi">Ma‑ra (Marah)</name>
 	<description>Exod.15.23, Exod.15.25, Exod.15.27, Num.33.8, Num.33.9</description>
 	<Placemark>
-		<name xml:lang="vi">Ma‑ra</name>
-		<description>Marah / Ain Hawarah</description>
+		<name xml:lang="vi">Ma‑ra?</name>
+		<description>Marah / Uyun Musa, based on ESV Bible Atlas</description>
 		<styleUrl>#waterpoint</styleUrl>
 		<Point>
-			<coordinates>32.94284,29.34604</coordinates>
+			<coordinates>32.658333,29.876944</coordinates>
 		</Point>
 	</Placemark>
 </Folder>
@@ -11470,7 +11482,7 @@
 	<name xml:lang="vi">Núi Hô‑rếp (Mount Horeb, Horeb, Mount Sinai)</name>
 	<description>Exod.3.1, Exod.17.6, Exod.33.6, Deut.1.2, Deut.1.6, Deut.1.19, Deut.4.10, Deut.4.15, Deut.5.2, Deut.9.8, Deut.18.16, Deut.29.1, 1Kgs.8.9, 1Kgs.19.8, 2Chr.5.10, Ps.106.19, Mal.4.4</description>
 	<Placemark>
-		<name xml:lang="vi">Núi Hô‑rếp</name>
+		<name xml:lang="vi">Núi Hô‑rếp (Jebel Musa)</name>
 		<description>another name for Mount Sinai, Jebel Musa</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -11601,7 +11613,7 @@
 	<name xml:lang="vi">Núi Pha‑ran (Mount Paran)</name>
 	<description>Deut.33.2,Hab.3.3</description>
 	<Placemark>
-		<name xml:lang="vi">Núi Pha‑ran</name>
+		<name xml:lang="vi">Núi Pha‑ran (Jebel Musa)</name>
 		<description>Jebel Musa; another name for Mount Sinai</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -11711,7 +11723,7 @@
 	<name xml:lang="vi">Núi Si‑na‑i (Mount Sinai, Sinai)</name>
 	<description>Exod.16.1, Exod.19.2, Exod.19.11, Exod.19.18, Exod.19.20, Exod.19.23, Exod.24.16, Exod.31.18, Exod.34.2, Exod.34.4, Exod.34.29, Exod.34.32,Lev.7.38, Lev.25.1, Lev.26.46, Lev.27.34, Num.3.1, Num.28.6, Deut.33.2, Deut.33.16, Judg.5.5, Neh.9.13, Ps.68.8, Ps.68.17, Acts.7.30, Acts.7.38, Gal.4.24, Gal.4.25,Heb.12.18, Heb.12.26</description>
 	<Placemark>
-		<name xml:lang="vi">Núi Si‑na‑i</name>
+		<name xml:lang="vi">Núi Si‑na‑i (Jebel Musa)</name>
 		<description>Mount Sinai / Jebel Musa</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -12825,10 +12837,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Pi-hahiroth</name>
+	<name xml:lang="vi">Phi Ha‑hi‑rốt (Pi-hahiroth)</name>
 	<description>Exod.14.2, Exod.14.9, Num.33.7, Num.33.8</description>
 	<Placemark>
-		<name>Pi-hahiroth / plain near Jabal Jinayfah</name>
+		<name xml:lang="vi">Phi Ha‑hi‑rốt?</name>
+		<description>Pi-hahiroth / plain near Jabal Jinayfah</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -13319,10 +13332,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Red Sea 1</name>
+	<name xml:lang="vi">Những Hồ Đắng(Red Sea 1)</name>
 	<description>Exod.13.18, Exod.15.4, Exod.15.22, Num.33.8, Deut.11.4, Josh.2.10, Josh.4.23, Josh.24.6, Neh.9.9, Ps.66.6, Ps.77.16, Ps.106.7, Ps.106.9, Ps.106.22, Ps.114.3, Ps.114.5, Ps.136.13, Ps.136.15, Isa.63.11, Acts.7.36,Heb.11.29</description>
 	<Placemark>
-		<name>Red Sea 1 / Bitter Lakes</name>
+		<name xml:lang="vi">Những Hồ Đắng</name>
+		<description>Red Sea 1 / Bitter Lakes</description>
 		<styleUrl>#water</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -13335,10 +13349,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Red Sea 2</name>
+	<name xml:lang="vi">Biển Đỏ (Red Sea 2)</name>
 	<description>Exod.23.31, Judg.11.16, 1Kgs.9.26, 2Chr.8.17, Jer.49.21</description>
 	<Placemark>
-		<name>Red Sea 2 / Gulf of Aqaba</name>
+		<name xml:lang="vi">Biển Đỏ (Vịnh Aquabah)</name>
+		<description>Red Sea 2 / Gulf of Aqaba</description>
 		<styleUrl>#water</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -13351,10 +13366,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Red Sea 3</name>
+	<name xml:lang="vi">Biển Đỏ (Red Sea 3)</name>
 	<description>Exod.10.19, Num.33.10, Num.33.11</description>
 	<Placemark>
-		<name>Red Sea 3 / Gulf of Suez</name>
+		<name xml:lang="vi">Biển Đỏ (Vịnh Suez)</name>
+		<description>Red Sea 3 / Gulf of Suez</description>
 		<styleUrl>#water</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -13468,8 +13484,9 @@
 		</Point>
 	</Placemark>
 </Folder>
+<!-- 
 <Folder>
-	<name xml:lang="vi">Rê‑phi‑đim (Rephidim)</name>
+	<name xml:lang="vi">Rê‑phi‑đim (Rephidim, path)</name>
 	<description>Exod.17.1, Exod.17.8, Exod.19.2, Num.33.14, Num.33.15</description>
 	<Placemark>
 		<name xml:lang="vi">Rê‑phi‑đim?</name>
@@ -13479,6 +13496,19 @@
 			<tesselate>1</tesselate>
 			<coordinates>33.840388,28.596009 33.841118,28.59591 33.84137,28.596061 33.843194,28.59875 33.843483,28.598934 33.843837,28.599381 33.843441,28.599881 33.843151,28.599984 33.84314,28.600074 33.843526,28.600832 33.843607,28.601289 33.843966,28.601444 33.84447,28.601529 33.845039,28.602184 33.845758,28.602466 33.846348,28.603229 33.846552,28.603309 33.846659,28.603582 33.846616,28.603804 33.847496,28.605165 33.847721,28.605292 33.848397,28.604991 33.848864,28.605622 33.84939,28.606079 33.850023,28.606215 33.850387,28.605895 33.850768,28.605377 33.851315,28.605245 33.851734,28.60541 33.851938,28.605994 33.852206,28.606013 33.85248,28.606418 33.852555,28.60694 33.852769,28.607152 33.852769,28.60735 33.853091,28.607407 33.853327,28.607218 33.853434,28.606644 33.854003,28.606719 33.854529,28.606922 33.85506,28.606851 33.855183,28.606634 33.855344,28.606634 33.855709,28.606846 33.855988,28.606785 33.857211,28.607482 33.857383,28.607426 33.85757,28.607143 33.857844,28.607171 33.858144,28.606729 33.858509,28.606917 33.85867,28.607171 33.858622,28.607444 33.859137,28.607958 33.859968,28.60825 33.860215,28.608099 33.860344,28.607157 33.860918,28.606884 33.86117,28.606291 33.861562,28.606187 33.862345,28.606427 33.862988,28.606422 33.865129,28.607218 33.865183,28.60735 33.864952,28.608499 33.865123,28.609187 33.865703,28.609672 33.866164,28.609752 33.866486,28.610124 33.867779,28.611061 33.86816,28.611466 33.868739,28.611786 33.869281,28.611867 33.869485,28.611758 33.86964,28.611918 33.870086,28.612027 33.870617,28.611852 33.871116,28.611438 33.871362,28.611452 33.871566,28.611749 33.871786,28.612408 33.872639,28.612592 33.872714,28.612747 33.873106,28.612775 33.87354,28.612639 33.8739,28.61279 33.873889,28.614033 33.874463,28.61456 33.875032,28.614777 33.875445,28.614725 33.876169,28.615022 33.87685,28.616128 33.877344,28.616246 33.878138,28.617753 33.878036,28.619933 33.878272,28.620126 33.878717,28.619924 33.878894,28.620522 33.879055,28.62047 33.879168,28.62071 33.879586,28.621068 33.879731,28.621393 33.879763,28.622566 33.880428,28.623583</coordinates>
 		</LineString>
+	</Placemark>
+</Folder>
+ -->
+<Folder>
+	<name xml:lang="vi">Rê‑phi‑đim (Rephidim, point)</name>
+	<description>Exod.17.1, Exod.17.8, Exod.19.2, Num.33.14, Num.33.15</description>
+	<Placemark>
+		<name xml:lang="vi">Rê‑phi‑đim?</name>
+		<description>Rephidim / along Wadi Rufaiyil</description>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>33.840388,28.596009</coordinates>
+		</Point>
 	</Placemark>
 </Folder>
 <Folder>
@@ -14720,10 +14750,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">Su‑rơ (Shur)</name>
+	<name xml:lang="vi">Hoang Mạc Su‑rơ (Shur)</name>
 	<description>Gen.16.7, Gen.20.1, Gen.25.18, Exod.15.22, 1Sam.15.7, 1Sam.27.8</description>
 	<Placemark>
-	<name xml:lang="vi">Su‑rơ</name>
+	<name xml:lang="vi">Hoang Mạc Su‑rơ</name>
 	<styleUrl>#region</styleUrl>
 	<Polygon>
 		<tesselate>1</tesselate>

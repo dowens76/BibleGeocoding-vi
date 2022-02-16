@@ -14,9 +14,9 @@ Precipitation Data: ©WorldClim.org
 
 # Works Consulted
 
-Currid, John D., and David P. Barrett. *Crossway ESV Bible Atlas*. Wheaton, IL: Crossway, 2010.
-
 Beitzel, Barry J, and Nick Rowland. *The New Moody Atlas of the Bible*. Chicago: Moody, 2009.
+
+Currid, John D., and David P. Barrett. *Crossway ESV Bible Atlas*. Wheaton, IL: Crossway, 2010.
 
 # Additional Notes
 

@@ -773,11 +773,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Allon</name>
+	<name xml:lang="vi">cây sồi ở Sa‑na‑nim (Allon, Oak in Zaanannim)</name>
 	<description>Josh.19.33</description>
 	<Placemark>
-		<name>Allon / in Hanot Taggarim</name>
-		<description>in Zaanannim</description>
+		<name xml:lang="vi">cây sồi ở Sa‑na‑nim</name>
+		<description>Allon in Zaanannim (KJV), in Hanot Taggarim</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.41064,32.72113</coordinates>

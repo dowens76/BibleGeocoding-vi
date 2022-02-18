@@ -814,11 +814,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Almon-diblathaim (Almon-Diblatayim)</name>
+	<name xml:lang="vi">Anh‑môn Đíp‑la‑tha‑im (Almon-diblathaim, Almon-Diblatayim)</name>
 	<description>Num.33.46, Num.33.47</description>
 	<Placemark>
-		<name>Almon-diblathaim / Duleilat esh Sharqiyeh</name>
-		<description>another name for Beth-diblathaim</description>
+		<name xml:lang="vi">Anh‑môn Đíp‑la‑tha‑im</name>
+		<description>Almon-diblathaim / Duleilat esh Sharqiyeh, another name for Beth-diblathaim</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.826578,31.638727</coordinates>
@@ -2212,10 +2212,11 @@
 	
 </Folder>
 <Folder>
-	<name>Bamoth</name>
+	<name xml:lang="vi">Ba‑mốt (Bamoth)</name>
 	<description>Num.21.19, Num.21.20</description>
 	<Placemark>
-		<name>Bamoth / Khirbet el Quweiqiyeh</name>
+		<name xml:lang="vi">Ba‑mốt</name>
+		<description>Bamoth / Khirbet el Quweiqiyeh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.740891,31.731791</coordinates>
@@ -2318,11 +2319,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Beer 1</name>
+	<name xml:lang="vi">Bê‑e (Beer 1, in Numbers, path)</name>
 	<description>Num.21.16</description>
 	<Placemark>
-		<name>Beer 1 / along Wadi eth Themed</name>
-		<description>another name for Beer-elim</description>
+		<name xml:lang="vi">Bê‑e</name>
+		<description>Beer 1 / along Wadi eth Themed, another name for Beer-elim</description>
 		<styleUrl>#path</styleUrl>
 		<LineString>
 			<tesselate>1</tesselate>
@@ -2331,10 +2332,23 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Beer 2</name>
+	<name xml:lang="vi">Bê‑e (Beer 1, in Numbers, point)</name>
+	<description>Num.21.16</description>
+	<Placemark>
+		<name xml:lang="vi">Bê‑e</name>
+		<description>Beer 1 / along Wadi eth Themed, another name for Beer-elim</description>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>35.938715,31.586423</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
+	<name xml:lang="vi">Bê‑re (Beer 2, in Judges)</name>
 	<description>Judg.9.21</description>
 	<Placemark>
-		<name>Beer 2 / El Bira</name>
+		<name xml:lang="vi">Bê‑re</name>
+		<description>Beer 2 / El Bira</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.50415,32.60823</coordinates>
@@ -2447,10 +2461,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Bene-jaakan</name>
+	<name xml:lang="vi">Bê‑nê Gia‑a‑can (Bene-jaakan)</name>
 	<description>Num.33.31, Num.33.32</description>
 	<Placemark>
-		<name>Bene-jaakan / Birein</name>
+		<name xml:lang="vi">Bê‑nê Gia‑a‑can</name>
+		<description>Bene-jaakan / Birein</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.472522,30.791764</coordinates>
@@ -4409,10 +4424,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Dibon 1</name>
+	<name xml:lang="vi">Đi‑bôn Gát (Dibon 1, Dibon-gad)</name>
 	<description>Num.21.30, Num.32.3, Num.32.34, Num.33.45, Num.33.46, Josh.13.9, Josh.13.17, Isa.15.2, Jer.48.18, Jer.48.22</description>
 	<Placemark>
-		<name>Dibon 1 / Tall Dhiban</name>
+		<name xml:lang="vi">Đi‑bôn Gát</name>
+		<description>Dibon 1 / Tall Dhiban</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.776574,31.502236</coordinates>
@@ -4420,11 +4436,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Dibon 2</name>
+	<name xml:lang="vi">Đi‑bôn (Dibon 2)</name>
 	<description>Neh.11.25</description>
 	<Placemark>
-		<name>Dibon 2 / Khirbet edh Dheiba</name>
-		<description>another name for Dimonah</description>
+		<name xml:lang="vi">Đi‑bôn</name>
+		<description>Dibon 2 / Khirbet edh Dheiba, another name for Dimonah</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.1562,31.29606</coordinates>
@@ -4432,11 +4448,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Dibon 3 (Dimon)</name>
+	<name xml:lang="vi">Đi‑môn (Dibon 3, Dimon)</name>
 	<description>Isa.15.9</description>
 	<Placemark>
-		<name>Dibon 3 / Tall Dhiban</name>
-		<description>another name for Dibon 1</description>
+		<name xml:lang="vi">Đi‑môn</name>
+		<description>Dibon 3 / Tall Dhiban, another name for Dibon 1</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.776574,31.502236</coordinates>
@@ -5642,7 +5658,7 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">Ê‑xi‑ôn Ghê‑be</name>
+	<name xml:lang="vi">Ê‑xi‑ôn Ghê‑be (Ezion-geber)</name>
 	<description>Num.33.35, Num.33.36, Deut.2.8, 1Kgs.9.26, 1Kgs.22.48, 2Chr.8.17, 2Chr.20.36</description>
 	<Placemark>
 		<name xml:lang="vi">Ê‑xi‑ôn Ghê‑be</name>
@@ -7288,15 +7304,28 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Haradah</name>
+	<name xml:lang="vi">Ha‑ra‑đa (Haradah, path)</name>
 	<description>Num.33.24, Num.33.25</description>
 	<Placemark>
-		<name>Haradah / along Wadi Lussan</name>
+		<name xml:lang="vi">Ha‑ra‑đa</name>
+		<description>Haradah / along Wadi Lussan</description>
 		<styleUrl>#path</styleUrl>
 		<LineString>
 			<tesselate>1</tesselate>
 			<coordinates>34.64918,30.49431 34.64566,30.49266 34.64145,30.49434 34.6368,30.49213 34.63433,30.49325 34.62961,30.49148 34.62815,30.4893 34.62118,30.48475 34.61794,30.48135 34.61626,30.47702 34.61304,30.47469 34.60343,30.47307 34.60051,30.47068 34.59919,30.47128 34.5995,30.47397 34.59582,30.47511 34.594,30.47209 34.59254,30.47359 34.59088,30.47284 34.59069,30.47059 34.58485,30.47088 34.58484,30.46919 34.58718,30.46872 34.58715,30.46795 34.58121,30.46644 34.58035,30.46255 34.57816,30.46215 34.57543,30.46503 34.57299,30.46298 34.5698,30.46222 34.56861,30.45861 34.56684,30.45864 34.56361,30.46244 34.56204,30.46212 34.55974,30.45957 34.5543,30.4622 34.5492,30.46323 34.5408,30.45918 34.53727,30.4594 34.53309,30.4617 34.52779,30.4605 34.5262,30.459 34.52412,30.45362 34.52133,30.45214 34.50721,30.45149 34.50257,30.4462 34.50103,30.4376 34.4933,30.4297 34.4862,30.42552 34.48058,30.42755 34.47815,30.42557 34.47755,30.42211 34.47282,30.42035 34.44305,30.42183 34.43268,30.4183 34.42171,30.4187 34.41652,30.41726 34.41244,30.41367 34.40845,30.41389 34.40373,30.41112 34.39564,30.41049 34.39178,30.41208 34.37549,30.41223 34.35262,30.42544 34.34961,30.42869 34.34489,30.43025 34.33451,30.44087 34.3203,30.44509 34.31691,30.44719 34.3085,30.44827 34.30438,30.45456 34.30305,30.45474 34.29893,30.45219 34.2952,30.45748 34.29009,30.45774 34.29043,30.46088 34.30082,30.47327 34.30245,30.481 34.30743,30.48718 34.30524,30.49739 34.30138,30.50245 34.30331,30.50974 34.29902,30.51369 34.29644,30.51876 34.29035,30.52094 34.2864,30.52541 34.28095,30.52793 34.27443,30.53314 34.25391,30.54216 34.2461,30.54674 34.22988,30.5511 34.22233,30.55724 34.21967,30.5613 34.21486,30.56492 34.21134,30.57135 34.19992,30.5868 34.19735,30.59478 34.1819,30.61007 34.17727,30.61723 34.17177,30.63562 34.16061,30.64911</coordinates>
 		</LineString>
+	</Placemark>
+</Folder>
+<Folder>
+	<name xml:lang="vi">Ha‑ra‑đa (Haradah, point)</name>
+	<description>Num.33.24, Num.33.25</description>
+	<Placemark>
+		<name xml:lang="vi">Ha‑ra‑đa</name>
+		<description>Haradah / along Wadi Lussan</description>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>34.48058,30.42755</coordinates>
+		</Point>
 	</Placemark>
 </Folder>
 <Folder>
@@ -7383,11 +7412,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Hashmonah</name>
+	<name xml:lang="vi">Hách‑mô‑na (Hashmonah)</name>
 	<description>Num.33.29, Num.33.30</description>
 	<Placemark>
-		<name>Hashmonah / within 30 km of Tel Beer Sheva</name>
-		<description>another name for Heshmon</description>
+		<name xml:lang="vi">Hách‑mô‑na</name>
+		<description>Hashmonah / within 30 km of Tel Beer Sheva, another name for Heshmon</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -8070,10 +8099,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Hor-haggidgad (Hor Hagidgad)</name>
+	<name xml:lang="vi">Hô Ghi‑gát (Hor-haggidgad, Hor Hagidgad)</name>
 	<description>Num.33.32, Num.33.33, Deut.10.7</description>
 	<Placemark>
-		<name>Hor-haggidgad / along Wadi Khadakhid</name>
+		<name xml:lang="vi">Hô Ghi‑gát</name>
+		<description>Hor-haggidgad / along Wadi Khadakhid</description>
 		<styleUrl>#path</styleUrl>
 		<LineString>
 			<tesselate>1</tesselate>
@@ -8449,10 +8479,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Iye-abarim (Ije Abarim)</name>
+	<name xml:lang="vi">Y‑giê A‑ba‑rim (Iye-abarim, Ije Abarim)</name>
 	<description>Num.21.11, Num.33.44, Num.33.45</description>
 	<Placemark>
-		<name>Iye-abarim / Medeineh</name>
+		<name xml:lang="vi">Y‑giê A‑ba‑rim</name>
+		<description>Iye-abarim / Medeineh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.77948,30.955999</coordinates>
@@ -8547,10 +8578,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Jahaz</name>
+	<name xml:lang="vi">Gia‑hát (Jahaz)</name>
 	<description>Num.21.23, Deut.2.32, Josh.13.18, Josh.21.36, Judg.11.20, 1Chr.6.78, Isa.15.4, Jer.48.21, Jer.48.34</description>
 	<Placemark>
-		<name>Jahaz / Khirbet el Medeiyineh</name>
+		<name xml:lang="vi">Gia‑hát</name>
+		<description>Jahaz / Khirbet el Medeiyineh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.907928,31.588347</coordinates>
@@ -8663,10 +8695,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Jazer</name>
+	<name xml:lang="vi">Gia‑ê‑xe (Jazer)</name>
 	<description>Num.21.24, Num.21.32, Num.32.1, Num.32.3, Num.32.35, Josh.13.25, Josh.21.39,2Sam.24.5, 1Chr.6.81, 1Chr.26.31, Isa.16.8, Isa.16.9, Jer.48.32</description>
 	<Placemark>
-		<name>Jazer / Khirbet Jazzir</name>
+		<name xml:lang="vi">Gia‑ê‑xe</name>
+		<description>Jazer / Khirbet Jazzir</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.734976,32.006398</coordinates>
@@ -8981,10 +9014,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Jotbathah</name>
+	<name xml:lang="vi">Dốt‑ba‑tha (Jotbathah)</name>
 	<description>Num.33.33, Num.33.34, Deut.10.7</description>
 	<Placemark>
-		<name>Jotbathah / Taba</name>
+		<name xml:lang="vi">Dốt‑ba‑tha</name>
+		<description>Jotbathah / Taba</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.896882,29.492468</coordinates>
@@ -9280,11 +9314,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Kehelathah</name>
+	<name xml:lang="vi">Kê‑hê‑la‑tha (Kehelathah)</name>
 	<description>Num.33.22, Num.33.23</description>
 	<Placemark>
-		<name>Kehelathah / Kuntillet Ajrud</name>
-		<description>another name for Makheloth</description>
+		<name xml:lang="vi">Kê‑hê‑la‑tha</name>
+		<description>Kehelathah / Kuntillet Ajrud, another name for Makheloth</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.421111,30.193056</coordinates>
@@ -9337,10 +9371,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Kibroth-hattaavah</name>
+	<name xml:lang="vi">Kíp‑rốt Ha‑tha‑va (Kibroth-hattaavah)</name>
 	<description>Num.11.34, Num.11.35, Num.33.16, Num.33.17, Deut.9.22</description>
 	<Placemark>
-		<name>Kibroth-hattaavah / Erweis el Ebeirig</name>
+		<name xml:lang="vi">Kíp‑rốt Ha‑tha‑va</name>
+		<description>Kibroth-hattaavah / Erweis el Ebeirig</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.275439,28.788667</coordinates>
@@ -9813,10 +9848,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Libnah 1</name>
+	<name xml:lang="vi">Líp‑na (Libnah 1, in Joshua)</name>
 	<description>Josh.10.29, Josh.10.30, Josh.10.31, Josh.10.32, Josh.10.39, Josh.12.15, Josh.15.42, Josh.21.13, 2Kgs.8.22, 2Kgs.19.8, 2Kgs.23.31, 2Kgs.24.18, 1Chr.6.57, 2Chr.21.10, Isa.37.8, Jer.52.1</description>
 	<Placemark>
-		<name>Libnah 1 / Tell Bornat</name>
+		<name xml:lang="vi">Líp‑na</name>
+		<description>Libnah 1 / Tell Bornat</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.873472,31.629897</coordinates>
@@ -9824,11 +9860,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Libnah 2</name>
+	<name xml:lang="vi">Líp‑na (Libnah 2, in Numbers)</name>
 	<description>Num.33.20, Num.33.21</description>
 	<Placemark>
-		<name>Libnah 2 / Tel Abu Seleimeh</name>
-		<description>another name for Laban</description>
+		<name xml:lang="vi">Líp‑na (Libnah 2)</name>
+		<description>Libnah 2 / Tel Abu Seleimeh, another name for Laban</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.10667,31.23194</coordinates>
@@ -10317,10 +10353,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Makheloth</name>
+	<name xml:lang="vi">Mác‑hê‑lốt (Makheloth)</name>
 	<description>Num.33.25, Num.33.26</description>
 	<Placemark>
-		<name>Makheloth / Kuntillet Ajrud</name>
+		<name xml:lang="vi">Mác‑hê‑lốt</name>
+		<description>Makheloth / Kuntillet Ajrud</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.421111,30.193056</coordinates>
@@ -10469,10 +10506,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Mattanah</name>
+	<name xml:lang="vi">Ma‑tha‑na (Mattanah)</name>
 	<description>Num.21.18, Num.21.19</description>
 	<Placemark>
-		<name>Mattanah / Khirbet el Medeiyineh</name>
+		<name xml:lang="vi">Ma‑tha‑na</name>
+		<description>Mattanah / Khirbet el Medeiyineh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.907928,31.588347</coordinates>
@@ -10588,11 +10626,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Meribah 1 (Waters of Meribah)</name>
+	<name xml:lang="vi">Mê‑ri‑ba (Meribah 1, Waters of Meribah, in Numbers, Deuteronomy, Psalms, Ezekiel)</name>
 	<description>Num.20.13, Num.20.24, Num.27.14, Deut.32.51, Deut.33.2, Ps.81.7, Ps.106.32, Ezek.47.19, Ezek.48.28</description>
 	<Placemark>
-		<name>Meribah 1 / Ain el Qudeirat</name>
-		<description>another name for Kadesh-barnea</description>
+		<name xml:lang="vi">Mê‑ri‑ba</name>
+		<description>Meribah 1 / Ain el Qudeirat, another name for Kadesh-barnea</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.422222,30.648333</coordinates>
@@ -10600,11 +10638,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Meribah 2</name>
+	<name xml:lang="vi">Mê‑ri‑ba (Meribah 2, in Exodus, Deut, and Ps)</name>
 	<description>Exod.17.7, Deut.33.8, Ps.95.8</description>
 	<Placemark>
-		<name>Meribah 2 / within 500 m of Wadi Rufaiyil</name>
-		<description>within 500 m of Rephidim</description>
+		<name xml:lang="vi">Mê‑ri‑ba</name>
+		<description>Meribah 2 / within 500 m of Wadi Rufaiyil, Rephidim</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -10962,11 +11000,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Mithkah (Mithcah)</name>
+	<name xml:lang="vi">Mít‑ga (Mithkah, Mithcah)</name>
 	<description>Num.33.28, Num.33.29</description>
 	<Placemark>
-		<name>Mithkah / within 50 km of Tel Beer Sheva</name>
-		<description>within 50 km of Hashmonah</description>
+		<name xml:lang="vi">Mít‑ga</name>
+		<description>Mithkah / within 50 km of Tel Beer Sheva and Hashmonah</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -11191,11 +11229,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Moseroth (Moserah)</name>
+	<name xml:lang="vi">Mô‑sê‑rốt (Moseroth, Moserah)</name>
 	<description>Num.33.30, Num.33.31, Deut.10.6</description>
 	<Placemark>
-		<name>Moseroth / within 50 km of Har Zin</name>
-		<description>within 50 km of Mount Hor 1</description>
+		<name xml:lang="vi">Mô‑sê‑rốt</name>
+		<description>Moseroth / within 50 km of Har Zin, Mount Hor 1</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -11462,7 +11500,7 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">Núi Hô‑rơ (Mount Hor 1, Hor)</name>
+	<name xml:lang="vi">Núi Hô‑rơ (Mount Hor 1, Hor, in Numbers, Deut)</name>
 	<description>Num.20.22, Num.20.23, Num.20.25, Num.20.27, Num.21.4, Num.33.37, Num.33.38, Num.33.39, Num.33.41, Deut.32.50</description>
 	<Placemark>
 		<name xml:lang="vi">Núi Hô‑rơ</name>
@@ -11474,7 +11512,7 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">Núi Hô‑rơ (Mount Hor 2, Hor)</name>
+	<name xml:lang="vi">Núi Hô‑rơ (Mount Hor 2, Hor, in Numbers)</name>
 	<description>Num.34.7, Num.34.8</description>
 	<Placemark>
 		<name xml:lang="vi">Núi Hô‑rơ</name>
@@ -11914,15 +11952,28 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Nahaliel</name>
+	<name xml:lang="vi">Na‑ha‑li‑ên (Nahaliel, path)</name>
 	<description>Num.21.19</description>
 	<Placemark>
-		<name>Nahaliel / along Wadi Zerqa Main</name>
+		<name xml:lang="vi">Na‑ha‑li‑ên</name>
+		<description>Nahaliel / along Wadi Zerqa Main</description>
 		<styleUrl>#path</styleUrl>
 		<LineString>
 			<tesselate>1</tesselate>
 			<coordinates>35.666734,31.606429 35.665242,31.60614 35.664645,31.605439 35.664199,31.605214 35.66125,31.604843 35.660378,31.603896 35.66006,31.603779 35.659633,31.603842 35.659532,31.604026 35.659463,31.604961 35.658935,31.605137 35.656702,31.604855 35.655691,31.60516 35.654336,31.60471 35.652594,31.605172 35.652126,31.605086 35.651882,31.60475 35.651758,31.603877 35.651483,31.603748 35.64953,31.603638 35.64771,31.603133 35.646089,31.602249 35.643686,31.601408 35.642335,31.600386 35.640911,31.600958 35.640327,31.600934 35.638586,31.599103 35.637791,31.598801 35.636532,31.598735 35.635645,31.599811 35.63565,31.60093 35.635039,31.601963 35.63316,31.60212 35.632512,31.602343 35.631211,31.602867 35.630403,31.603791 35.630031,31.603947 35.629185,31.603908 35.628244,31.603439 35.627081,31.603471 35.626686,31.60459 35.626847,31.605095 35.626544,31.605646 35.626084,31.605834 35.624316,31.60621 35.623181,31.605869 35.6224,31.606194 35.621885,31.606061 35.620773,31.607208 35.618131,31.607435 35.616805,31.608096 35.616009,31.608209 35.612107,31.607519 35.60996,31.609206 35.6036,31.608513 35.601651,31.609591 35.598475,31.610627 35.597402,31.611155 35.59634,31.610494 35.595992,31.610561 35.595837,31.61121 35.595139,31.610886 35.594245,31.611257 35.593617,31.610808 35.593387,31.610339 35.592965,31.610267 35.592826,31.611348 35.592365,31.61141 35.5919,31.611326 35.590736,31.610563 35.589581,31.610841 35.588981,31.610662 35.588178,31.61074 35.587343,31.611649 35.586202,31.611255 35.585921,31.61209 35.585274,31.612293 35.584903,31.61267 35.58433,31.612455 35.58357,31.612543 35.583818,31.613132 35.583614,31.613461 35.583174,31.613397 35.582791,31.613022 35.580423,31.613666 35.579717,31.613373 35.579407,31.613474 35.578718,31.614532 35.578142,31.614476 35.577412,31.615441 35.577792,31.616365 35.576925,31.616914 35.576997,31.617472 35.575832,31.618199 35.574584,31.61843 35.573863,31.618816 35.572046,31.618159 35.570959,31.617412 35.569394,31.617257 35.567384,31.618131</coordinates>
 		</LineString>
+	</Placemark>
+</Folder>
+<Folder>
+	<name xml:lang="vi">Na‑ha‑li‑ên (Nahaliel, point)</name>
+	<description>Num.21.19</description>
+	<Placemark>
+		<name xml:lang="vi">Na‑ha‑li‑ên</name>
+		<description>Nahaliel / along Wadi Zerqa Main</description>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>35.618131,31.607435</coordinates>
+		</Point>
 	</Placemark>
 </Folder>
 <Folder>
@@ -12362,10 +12413,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Oboth</name>
+	<name xml:lang="vi">Ô‑bốt (Oboth)</name>
 	<description>Num.21.10, Num.21.11, Num.33.43, Num.33.44</description>
 	<Placemark>
-		<name>Oboth / Ein Weibeh</name>
+		<name xml:lang="vi">Ô‑bốt</name>
+		<description>Oboth / Ein Weibeh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.19,30.616667</coordinates>
@@ -12972,10 +13024,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Punon</name>
+	<name xml:lang="vi">Phu‑nôn (Punon)</name>
 	<description>Num.33.42, Num.33.43</description>
 	<Placemark>
-		<name>Punon / Khirbet Faynan</name>
+		<name xml:lang="vi">Phu‑nôn</name>
+		<description>Punon / Khirbet Faynan</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.493647,30.62775</coordinates>
@@ -13651,10 +13704,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Rimmon-perez (Rimmon-parez)</name>
+	<name xml:lang="vi">Ri‑môn Phê‑rết (Rimmon-perez, Rimmon-parez, path)</name>
 	<description>Num.33.19, Num.33.20</description>
 	<Placemark>
-		<name>Rimmon-perez / along Naqb al Biyar</name>
+		<name xml:lang="vi">Ri‑môn Phê‑rết</name>
+		<description>Rimmon-perez / along Naqb al Biyar</description>
 		<styleUrl>#path</styleUrl>
 		<LineString>
 			<tesselate>1</tesselate>
@@ -13663,10 +13717,23 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Rissah</name>
+	<name xml:lang="vi">Ri‑môn Phê‑rết (Rimmon-perez, Rimmon-parez, point)</name>
+	<description>Num.33.19, Num.33.20</description>
+	<Placemark>
+		<name xml:lang="vi">Ri‑môn Phê‑rết</name>
+		<description>Rimmon-perez / along Naqb al Biyar</description>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>34.690651,29.491431</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
+	<name xml:lang="vi">Ri‑sa (Rissah)</name>
 	<description>Num.33.21, Num.33.22</description>
 	<Placemark>
-		<name>Rissah / Kuntilet el Jerafi</name>
+		<name xml:lang="vi">Ri‑sa</name>
+		<description>Rissah / Kuntilet el Jerafi</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.68193,30.00296</coordinates>
@@ -13674,10 +13741,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Rithmah</name>
+	<name xml:lang="vi">Rít‑ma (Rithmah, path)</name>
 	<description>Num.33.18, Num.33.19</description>
 	<Placemark>
-		<name>Rithmah / along Wadi Ratamah</name>
+		<name xml:lang="vi">Rít‑ma</name>
+		<description>Rithmah / along Wadi Ratamah</description>
 		<styleUrl>#path</styleUrl>
 		<LineString>
 			<tesselate>1</tesselate>
@@ -13685,6 +13753,19 @@
 		</LineString>
 	</Placemark>
 </Folder>
+<Folder>
+	<name xml:lang="vi">Rít‑ma (Rithmah, point)</name>
+	<description>Num.33.18, Num.33.19</description>
+	<Placemark>
+		<name xml:lang="vi">Rít‑ma</name>
+		<description>Rithmah / along Wadi Ratamah</description>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>34.039722,29.043808</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+
 <Folder>
 	<name>River 2 (Euphrates River, Euphrates)</name>
 	<description>Num.22.5</description>
@@ -15291,11 +15372,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Taberah</name>
+	<name xml:lang="vi">Tha‑bê‑ra (Taberah)</name>
 	<description>Num.11.3, Deut.9.22</description>
 	<Placemark>
-		<name>Taberah / within 50 km of Erweis el Ebeirig</name>
-		<description>within 50 km of Kibroth-hattaavah</description>
+		<name xml:lang="vi">Tha‑bê‑ra</name>
+		<description>Taberah / within 50 km of Erweis el Ebeirig, within 50 km of Kibroth-hattaavah</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -15348,11 +15429,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Tahath</name>
+	<name xml:lang="vi">Ta‑hát (Tahath)</name>
 	<description>Num.33.26, Num.33.27</description>
 	<Placemark>
-		<name>Tahath / within 50 km of Tel Beer Sheva</name>
-		<description>within 50 km of Terah</description>
+		<name xml:lang="vi">Ta‑hát</name>
+		<description>Tahath / within 50 km of Tel Beer Sheva, Terah</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -15603,11 +15684,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Terah (Tarah)</name>
+	<name xml:lang="vi">Ta‑rách (Terah, Tarah)</name>
 	<description>Num.33.27, Num.33.28</description>
 	<Placemark>
-		<name>Terah / within 50 km of Tel Beer Sheva</name>
-		<description>within 50 km of Mithkah</description>
+		<name xml:lang="vi">Ta‑rách</name>
+		<description>Terah / within 50 km of Tel Beer Sheva and Mithkah</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -16740,7 +16821,7 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">Khe Xê‑rết (Valley of Zered, Zered Valley, Wadi Zered)</name>
+	<name xml:lang="vi">Khe Xê‑rết (Valley of Zered, Zered Valley, Wadi Zered, path)</name>
 	<description>Num.21.12</description>
 	<Placemark>
 		<name xml:lang="vi">Khe Xê‑rết</name>
@@ -16750,6 +16831,18 @@
 			<tesselate>1</tesselate>
 			<coordinates>35.985014,30.810678 35.974958,30.824487 35.961596,30.830619 35.948062,30.831455 35.936363,30.839798 35.925404,30.843365 35.924527,30.849493 35.914255,30.862898 35.918338,30.871398 35.91363,30.874747 35.920791,30.876255 35.923141,30.881392 35.898857,30.884941 35.894595,30.879713 35.889742,30.879088 35.88919,30.892689 35.878455,30.896404 35.872704,30.89429 35.873895,30.886049 35.870375,30.884453 35.866435,30.886582 35.864414,30.889325 35.868412,30.904303 35.857975,30.903571 35.85031,30.905773 35.844164,30.916284 35.837905,30.921161 35.838989,30.92617 35.843509,30.92967 35.84224,30.934474 35.824074,30.93298 35.820598,30.928264 35.814437,30.927981 35.809218,30.934113 35.800143,30.933493 35.800123,30.937862 35.794499,30.938638 35.784598,30.946074 35.779887,30.944448 35.774361,30.949291 35.771153,30.946118 35.772403,30.955862 35.758905,30.955453 35.75669,30.961514 35.744462,30.960852 35.739869,30.964217 35.732629,30.96432 35.712958,30.973337 35.708703,30.979307 35.700939,30.977444 35.698125,30.980725 35.694821,30.9784 35.690746,30.979284 35.68874,30.973773 35.683085,30.970074 35.678853,30.97774 35.672596,30.976259 35.674836,30.980227 35.66296,30.98791 35.652294,30.989012 35.64867,30.98607 35.641027,30.985419 35.637777,30.988952 35.630856,30.988633 35.628087,30.992412 35.619708,30.995747 35.61802,30.990576 35.610337,30.987668 35.586751,30.990505 35.587335,30.993606 35.583834,30.993862 35.582425,30.998089 35.577205,30.994086 35.575441,30.995859 35.571312,30.994719 35.570522,30.999463 35.561021,31.002165 35.55765,30.998404 35.554082,31.001743 35.547934,30.999597 35.546192,31.003157 35.548279,31.010818 35.538774,31.014029 35.537077,31.017455 35.533831,31.015171 35.526174,31.015462 35.509818,31.006989 35.506741,31.008505 35.506098,31.005011 35.502355,31.004517 35.499689,31.008795 35.495473,31.009315 35.496458,31.014855 35.492235,31.015254 35.476261,31.028189 35.47299,31.045356 35.465225,31.050405 35.466235,31.057245 35.457299,31.069013 35.45645,31.075737</coordinates>
 		</LineString>
+	</Placemark>
+</Folder>
+<Folder>
+	<name xml:lang="vi">Khe Xê‑rết (Valley of Zered, Zered Valley, Wadi Zered, point)</name>
+	<description>Num.21.12</description>
+	<Placemark>
+		<name xml:lang="vi">Khe Xê‑rết</name>
+		<description>Valley of Zered / Wadi al Hasa, another name for the Zered</description>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>35.700939,30.977444</coordinates>
+		</Point>
 	</Placemark>
 </Folder>
 <Folder>
@@ -16994,10 +17087,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zalmonah</name>
+	<name xml:lang="vi">Xa‑mô‑na (Zalmonah)</name>
 	<description>Num.33.41, Num.33.42</description>
 	<Placemark>
-		<name>Zalmonah / along Wadi es Salmaneh</name>
+		<name xml:lang="vi">Xa‑mô‑na</name>
+		<description>Zalmonah / along Wadi es Salmaneh</description>
 		<styleUrl>#path</styleUrl>
 		<LineString>
 			<tesselate>1</tesselate>
@@ -17284,10 +17378,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zin 1 (Desert of Zin, Wilderness of Zin)</name>
+	<name xml:lang="vi">Hoang Mạc Xin (Zin 1, Desert of Zin, Wilderness of Zin)</name>
 	<description>Num.13.21, Num.20.1, Num.27.14, Num.33.36, Num.34.3, Deut.32.51, Josh.15.1, Ps.29.8</description>
 	<Placemark>
-	<name>Zin 1 (approximate boundary)</name>
+	<name xml:lang="vi">Hoang Mạc Xin</name>
+	<description>Zin 1 (approximate boundary)</description>
 	<styleUrl>#region</styleUrl>
 	<Polygon>
 		<tesselate>1</tesselate>

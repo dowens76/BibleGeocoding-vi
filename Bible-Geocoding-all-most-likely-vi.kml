@@ -8742,7 +8742,7 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">Giê‑ri‑cô (Jericho 1)</name>
+	<name xml:lang="vi">Giê‑ri‑cô (Jericho 1, OT)</name>
 	<description>Num.22.1, Num.26.3, Num.26.63, Num.31.12, Num.33.48, Num.33.50, Num.34.15, Num.35.1, Num.36.13, Deut.32.49, Deut.34.1, Deut.34.3, Josh.2.1, Josh.2.2, Josh.2.3, Josh.2.7, Josh.2.13, Josh.3.16, Josh.4.13, Josh.4.19, Josh.5.10, Josh.5.13, Josh.6.1, Josh.6.2, Josh.6.17, Josh.6.20, Josh.6.25, Josh.6.26, Josh.7.2, Josh.8.2, Josh.9.1, Josh.9.3, Josh.10.1, Josh.10.28, Josh.10.30, Josh.12.9, Josh.13.32, Josh.16.1, Josh.16.7, Josh.18.12, Josh.18.21, Josh.20.8, Josh.24.11, Judg.1.16, Judg.3.13,2Sam.10.5, 1Kgs.16.34, 2Kgs.2.4, 2Kgs.2.5, 2Kgs.2.15, 2Kgs.2.18, 2Kgs.2.19, 2Kgs.2.23, 2Kgs.25.5, 1Chr.6.78, 1Chr.19.5, 2Chr.28.15, Ezra.2.34, Neh.3.2, Neh.7.36, Jer.39.5, Jer.52.8,Heb.11.30</description>
 	<Placemark>
 		<name xml:lang="vi">Giê‑ri‑cô</name>
@@ -8754,7 +8754,7 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">Giê‑ri‑cô (Jericho 2)</name>
+	<name xml:lang="vi">Giê‑ri‑cô (Jericho 2, NT)</name>
 	<description>Matt.20.29, Mark.10.46,Luke.10.30, Luke.18.35, Luke.19.1</description>
 	<Placemark>
 		<name xml:lang="vi">Giê‑ri‑cô</name>
@@ -9814,10 +9814,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Lebo-hamath (Hamath)</name>
+	<name xml:lang="vi">Ha‑mát (Lebo-hamath, Hamath)</name>
 	<description>Num.13.21, Num.34.8, Josh.13.5, Judg.3.3, 1Kgs.8.65, 2Kgs.14.25, 1Chr.13.5, 2Chr.7.8, Ezek.47.15, Ezek.47.20, Ezek.48.1, Amos.6.14</description>
 	<Placemark>
-		<name>Lebo-hamath / Labweh</name>
+		<name xml:lang="vi">Ha‑mát</name>
+		<description>Lebo-hamath / Labweh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>36.34956,34.19491</coordinates>

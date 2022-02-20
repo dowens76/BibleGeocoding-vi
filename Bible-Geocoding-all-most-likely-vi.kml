@@ -785,10 +785,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Allon-bacuth (Allon Bakuth, Oak of Weeping, Allon Bachuth)</name>
+	<name xml:lang="vi">A‑lôn Ba‑cút (Allon-bacuth (Allon Bakuth, Oak of Weeping, Allon Bachuth))</name>
 	<description>Gen.35.8</description>
 	<Placemark>
-		<name>Allon-bacuth / within 1 km of Beitin</name>
+		<name xml:lang="vi">A‑lôn Ba‑cút</name>
+		<description>Allon-bacuth / within 1 km of Beitin</description>
 		<description>within 1 km of Bethel 1</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
@@ -802,10 +803,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Almon</name>
+	<name xml:lang="vi">Anh‑môn (Almon)</name>
 	<description>Josh.21.18</description>
 	<Placemark>
-		<name>Almon / Khirbet Almit</name>
+		<name xml:lang="vi">Anh-môn</name>
+		<description>Almon / Khirbet Almit</description>
 		<description>another name for Alemeth</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -826,10 +828,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Alush</name>
+	<name xml:lang="vi">A-lúc (Alush)</name>
 	<description>Num.33.13, Num.33.14</description>
 	<Placemark>
-		<name>Alush / along Wadi el Esh</name>
+		<name xml:lang="vi">A-lúc</name>
+		<description>Alush / along Wadi el Esh</description>
 		<styleUrl>#path</styleUrl>
 		<LineString>
 			<tesselate>1</tesselate>
@@ -850,10 +853,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Amad</name>
+	<name xml:lang="vi">A-mê-át (Amad)</name>
 	<description>Josh.19.26</description>
 	<Placemark>
-		<name>Amad / within 10 km of Mount Carmel</name>
+		<name xml:lang="vi">A-mê-át</name>
+		<description>Amad / within 10 km of Mount Carmel</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -866,10 +870,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="A‑ma‑léc">A‑ma‑léc (Amalek, region)</name>
+	<name xml:lang="vi">A‑ma‑léc (Amalek, region)</name>
 	<description>Exod.17.8, Exod.17.9, Exod.17.10, Exod.17.11, Exod.17.13, Exod.17.14, Exod.17.16, Num.13.29, Num.24.20, Num.24.24, Deut.25.17, Deut.25.19, Judg.3.13, Judg.5.14, Judg.6.3, Judg.6.33, Judg.7.12, Judg.10.12, 1Sam.15.2, 1Sam.15.3, 1Sam.15.5, 1Sam.15.8, 1Sam.15.20, 1Sam.15.32, 1Sam.28.18,2Sam.8.12, 1Chr.18.11, Ps.83.7</description>
 	<Placemark>
-	<name xml:lang="A‑ma‑léc">A‑ma‑léc</name>
+	<name xml:lang="vi">A‑ma‑léc</name>
 	<styleUrl>#region</styleUrl>
 	<Polygon>
 		<tesselate>1</tesselate>
@@ -882,10 +886,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Amam</name>
+	<name xml:lang="vi">A-mam (Amam)</name>
 	<description>Josh.15.26</description>
 	<Placemark>
-		<name>Amam / Be’er Nevatim</name>
+		<name xml:lang="vi">A-mam</name>
+		<description>Amam / Be’er Nevatim</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.90684,31.2185</coordinates>
@@ -893,10 +898,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Amana (Mount Amana)</name>
+	<name xml:lang="vi">A-ma-na (Amana (Mount Amana))</name>
 	<description>Song.4.8</description>
 	<Placemark>
-		<name>Amana / Jebel Zabadani</name>
+		<name xml:lang="vi">A-ma-na</name>
+		<description>Amana / Jebel Zabadani</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -938,10 +944,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ammah</name>
+	<name xml:lang="vi">A-ma (Ammah)</name>
 	<description>2Sam.2.24</description>
 	<Placemark>
-		<name>Ammah / in the region east of Gibeon</name>
+		<name xml:lang="vi">A-ma</name>
+		<description>Ammah / in the region east of Gibeon</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -970,10 +977,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Amphipolis</name>
+	<name xml:lang="vi">Am-phi-pô-lít (Amphipolis)</name>
 	<description>Acts.17.1</description>
 	<Placemark>
-		<name>Amphipolis</name>
+		<name xml:lang="vi">Am-phi-pô-lít</name>
+		<description>Amphipolis</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>23.847209,40.820159</coordinates>
@@ -981,10 +989,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Anab</name>
+	<name xml:lang="vi">A-náp (Anab)</name>
 	<description>Josh.11.21, Josh.15.50</description>
 	<Placemark>
-		<name>Anab / Khirbet Anab es Seghireh</name>
+		<name xml:lang="vi">A-náp</name>
+		<description>Anab / Khirbet Anab es Seghireh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.9549,31.4121</coordinates>
@@ -992,10 +1001,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Anaharath</name>
+	<name xml:lang="vi">A-na-cha-rát (Anaharath)</name>
 	<description>Josh.19.19</description>
 	<Placemark>
-		<name>Anaharath / Tell Rekhesh</name>
+		<name xml:lang="vi">A-na-cha-rát</name>
+		<description>Anaharath / Tell Rekhesh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.46614,32.653446</coordinates>
@@ -1003,10 +1013,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ananiah</name>
+	<name xml:lang="vi">A-na-nia (Ananiah)</name>
 	<description>Neh.11.32</description>
 	<Placemark>
-		<name>Ananiah / Al Eizariya</name>
+		<name xml:lang="vi">A-na-nia</name>
+		<description>Ananiah / Al Eizariya</description>
 		<description>another name for Bethany 1</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -1015,10 +1026,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Anathoth</name>
+	<name xml:lang="vi">A-na-tốt (Anathoth)</name>
 	<description>Josh.21.18,2Sam.23.27, 1Kgs.2.26, 1Chr.6.60, 1Chr.11.28, 1Chr.12.3, 1Chr.27.12, Ezra.2.23, Neh.7.27, Neh.11.32, Isa.10.30, Jer.1.1, Jer.11.21, Jer.11.23, Jer.29.27, Jer.32.7, Jer.32.8, Jer.32.9</description>
 	<Placemark>
-		<name>Anathoth / Ras el Kharruba</name>
+		<name xml:lang="vi">A-na-tốt</name>
+		<description>Anathoth / Ras el Kharruba</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.25758,31.80752</coordinates>
@@ -1026,10 +1038,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Anem</name>
+	<name xml:lang="vi">A-nem (Anem)</name>
 	<description>1Chr.6.73</description>
 	<Placemark>
-		<name>Anem / Tell Jenin</name>
+		<name xml:lang="vi">A-nem</name>
+		<description>Anem / Tell Jenin</description>
 		<description>another name for En-gannim 2</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -1038,10 +1051,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Aner</name>
+	<name xml:lang="vi">A-ne (Aner)</name>
 	<description>1Chr.6.70</description>
 	<Placemark>
-		<name>Aner / Tell Ta’anakh</name>
+		<name xml:lang="vi">A-ne</name>
+		<description>Aner / Tell Ta’anakh</description>
 		<description>another name for Taanach</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -1050,10 +1064,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Angle</name>
+	<name xml:lang="vi">góc tường (Angle)</name>
 	<description>2Chr.26.9, Neh.3.19, Neh.3.20, Neh.3.24, Neh.3.25</description>
 	<Placemark>
-		<name>Angle / in Jerusalem</name>
+		<name xml:lang="vi">góc tường</name>
+		<description>Angle / in Jerusalem</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.234167,31.776667</coordinates>
@@ -1061,10 +1076,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Anim</name>
+	<name xml:lang="vi">A-nim (Anim)</name>
 	<description>Josh.15.50</description>
 	<Placemark>
-		<name>Anim / Horbat Anim</name>
+		<name  xml:lang="vi">A-nim</name>
+		<description>Anim / Horbat Anim</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.063521,31.353601</coordinates>
@@ -1144,10 +1160,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Aphekah</name>
+	<name xml:lang="vi">A-phê-ca (Aphekah)</name>
 	<description>Josh.15.53</description>
 	<Placemark>
-		<name>Aphekah / Khirbet al Hadab</name>
+		<name xml:lang="vi">A-phê-ca</name>
+		<description>Aphekah / Khirbet al Hadab</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.9975,31.4555</coordinates>
@@ -1155,10 +1172,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Aphik (Aphek)</name>
+	<name xml:lang="vi">A-phéc (Aphik (Aphek))</name>
 	<description>Judg.1.31</description>
 	<Placemark>
-		<name>Aphik / Tel Afek</name>
+		<name xml:lang="vi">A-phéc</name>
+		<description>Aphik / Tel Afek</description>
 		<description>another name for Aphek 1</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -1167,10 +1185,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Apollonia</name>
+	<name xml:lang="vi">A-pô-lô-ni-a (Apollonia)</name>
 	<description>Acts.17.1</description>
 	<Placemark>
-		<name>Apollonia</name>
+		<name xml:lang="vi">A-pô-lô-ni-a</name>
+		<description>Apollonia</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>23.489639,40.643194</coordinates>
@@ -1190,10 +1209,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Arab</name>
+	<name xml:lang="vi">A-ráp (Arab)</name>
 	<description>Josh.15.52</description>
 	<Placemark>
-		<name>Arab / Khirbet er Rabiyeh</name>
+		<name xml:lang="vi">A-ráp</name>
+		<description>Arab / Khirbet er Rabiyeh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.02957,31.43188</coordinates>
@@ -1250,10 +1270,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Arabia 2</name>
+	<name xml:lang="vi">Miền Ả-rập (Arabia 2)</name>
 	<description>Gal.1.17, Gal.4.25</description>
 	<Placemark>
-		<name>Arabia 2 / Arabia Petraea</name>
+		<name xml:lang="vi">Miền Ả-rập</name>
+		<description>Arabia 2 / Arabia Petraea</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -1266,10 +1287,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Arad 1</name>
+	<name xml:lang="vi">A-rát (Arad 1)</name>
 	<description>Num.21.1, Num.33.40, Josh.12.14</description>
 	<Placemark>
-		<name>Arad 1 / Tel Malhata</name>
+		<name xml:lang="vi">A-rát</name>
+		<description>Arad 1 / Tel Malhata</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.0258,31.2172</coordinates>
@@ -1277,10 +1299,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Arad 2</name>
+	<name xml:lang="vi">A-rát (Arad 2)</name>
 	<description>Judg.1.16</description>
 	<Placemark>
-		<name>Arad 2 / Tel Arad</name>
+		<name xml:lang="vi">A-rát</name>
+		<description>Arad 2 / Tel Arad</description>
 		<description>another name for Arad 1</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>

@@ -5545,10 +5545,10 @@
 	<description>Exod.13.20, Num.33.6, Num.33.7, Num.33.8</description>
 	<Placemark>
 		<name xml:lang="vi">Ê‑tam?</name>
-		<description>Etham / Tell er Retaba, another name for Pithom</description>
+		<description>Etham / Ismailia</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
-			<coordinates>31.963611,30.5475</coordinates>
+			<coordinates>32.266667,30.583333</coordinates>
 		</Point>
 	</Placemark>
 </Folder>

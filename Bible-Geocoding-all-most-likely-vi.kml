@@ -7649,7 +7649,7 @@
 	<name xml:lang="vi">Hát‑sê‑rốt (Hazeroth)</name>
 	<description>Num.11.35, Num.12.1, Num.12.16, Num.33.17, Num.33.18, Deut.1.1</description>
 	<Placemark>
-		<name xml:lang="vi">Hát‑sê‑rốt</name>
+		<name xml:lang="vi">Hát‑sê‑rốt?</name>
 		<description>Hazeroth / Ain el Khadra</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -11564,7 +11564,7 @@
 	<name xml:lang="vi">Núi Hô‑rếp (Mount Horeb, Horeb, Mount Sinai)</name>
 	<description>Exod.3.1, Exod.17.6, Exod.33.6, Deut.1.2, Deut.1.6, Deut.1.19, Deut.4.10, Deut.4.15, Deut.5.2, Deut.9.8, Deut.18.16, Deut.29.1, 1Kgs.8.9, 1Kgs.19.8, 2Chr.5.10, Ps.106.19, Mal.4.4</description>
 	<Placemark>
-		<name xml:lang="vi">Núi Hô‑rếp (Jebel Musa)</name>
+		<name xml:lang="vi">Núi Hô‑rếp? (Jebel Musa)</name>
 		<description>another name for Mount Sinai, Jebel Musa</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -11805,7 +11805,7 @@
 	<name xml:lang="vi">Núi Si‑na‑i (Mount Sinai, Sinai)</name>
 	<description>Exod.16.1, Exod.19.2, Exod.19.11, Exod.19.18, Exod.19.20, Exod.19.23, Exod.24.16, Exod.31.18, Exod.34.2, Exod.34.4, Exod.34.29, Exod.34.32,Lev.7.38, Lev.25.1, Lev.26.46, Lev.27.34, Num.3.1, Num.28.6, Deut.33.2, Deut.33.16, Judg.5.5, Neh.9.13, Ps.68.8, Ps.68.17, Acts.7.30, Acts.7.38, Gal.4.24, Gal.4.25,Heb.12.18, Heb.12.26</description>
 	<Placemark>
-		<name xml:lang="vi">Núi Si‑na‑i (Jebel Musa)</name>
+		<name xml:lang="vi">Núi Si‑na‑i? (Jebel Musa)</name>
 		<description>Mount Sinai / Jebel Musa</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -13480,11 +13480,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Rehob 1</name>
-	<description>Num.13.21,2Sam.10.8</description>
+	<name xml:lang="vi">Rê‑hốp (Rehob 1)</name>
+	<description>Num.13.21, 2Sam.10.8</description>
 	<Placemark>
-		<name>Rehob 1 / in the Beqaa Valley</name>
-		<description>another name for Beth-rehob</description>
+		<name xml:lang="vi">Rê‑hốp</name>
+		<description>Rehob 1 / in the Beqaa Valley, another name for Beth-rehob</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -13497,11 +13497,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Rehob 2</name>
+	<name xml:lang="vi">Rê‑hốp (Rehob 2)</name>
 	<description>Josh.19.28</description>
 	<Placemark>
-		<name>Rehob 2 / Tell Bir el Gharbi</name>
-		<description>another name for Rehob 3</description>
+		<name xml:lang="vi">Rê‑hốp</name>
+		<description>Rehob 2 / Tell Bir el Gharbi, another name for Rehob 3</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.169444,32.901389</coordinates>
@@ -13509,10 +13509,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Rehob 3</name>
+	<name xml:lang="vi">Rê‑hốp (Rehob 3)</name>
 	<description>Josh.19.30, Josh.21.31, Judg.1.31, 1Chr.6.75</description>
 	<Placemark>
-		<name>Rehob 3 / Tell Bir el Gharbi</name>
+		<name xml:lang="vi">Rê‑hốp</name>
+		<description>Rehob 3 / Tell Bir el Gharbi</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.169444,32.901389</coordinates>

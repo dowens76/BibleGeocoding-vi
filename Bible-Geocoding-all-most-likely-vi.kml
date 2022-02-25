@@ -1100,7 +1100,7 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">A‑phéc (Aphek 1)</name>
+	<name xml:lang="vi">A‑phéc (Aphek 1, Josh 19)</name>
 	<description>Josh.19.30</description>
 	<Placemark>
 		<name xml:lang="vi">A‑phéc</name>
@@ -1112,7 +1112,7 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">A‑phéc (Aphek 2)</name>
+	<name xml:lang="vi">A‑phéc (Aphek 2, Josh 12, 1 Sam, Acts)</name>
 	<description>Josh.12.18, 1Sam.4.1, 1Sam.29.1, Acts.23.31</description>
 	<Placemark>
 		<name xml:lang="vi">A‑phéc</name>
@@ -1124,7 +1124,7 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">A‑phéc (Aphek 3)</name>
+	<name xml:lang="vi">A‑phéc (Aphek 3, 1 Kgs, 2 Kgs)</name>
 	<description>1Kgs.20.26, 1Kgs.20.30, 2Kgs.13.17</description>
 	<Placemark>
 		<name xml:lang="vi">A‑phéc</name>
@@ -1136,7 +1136,7 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">A‑phéc (Aphek 4)</name>
+	<name xml:lang="vi">A‑phéc (Aphek 4, Josh 13)</name>
 	<description>Josh.13.4</description>
 	<Placemark>
 		<name xml:lang="vi">A‑phéc</name>
@@ -4361,7 +4361,7 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">Đê‑bia (Debir 1)</name>
+	<name xml:lang="vi">Đê‑bia (Debir 1, in Josh 10, 11, 12, 15, 21, Judg)</name>
 	<description>Josh.10.38, Josh.10.39, Josh.11.21, Josh.12.13, Josh.15.15, Josh.15.16, Josh.15.49, Josh.21.15, Judg.1.11, Judg.1.12, 1Chr.6.58</description>
 	<Placemark>
 		<name xml:lang="vi">Đê‑bia</name>
@@ -4556,10 +4556,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Dor</name>
-	<description>Josh.12.23, Josh.17.11, Judg.1.27, 1Chr.7.29</description>
+	<name xml:lang="vi">Đô‑rơ (Dor)</name>
+	Josh.12.23, Josh.17.11, Judg.1.27, 1Chr.7.29</description>
 	<Placemark>
-		<name>Dor / Tel Dor</name>
+		<name xml:lang="vi">Đô‑rơ</name>
+		<description>Dor / Tel Dor</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.916364,32.617428</coordinates>
@@ -4872,10 +4873,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Eglon</name>
+	<name xml:lang="vi">Éc‑lôn (Eglon)</name>
 	<description>Josh.10.3, Josh.10.5, Josh.10.23, Josh.10.34, Josh.10.36, Josh.10.37, Josh.12.12, Josh.15.39</description>
 	<Placemark>
-		<name>Eglon / Tell Eton</name>
+		<name xml:lang="vi">Éc‑lôn</name>
+		<description>Eglon / Tell Eton</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.928055,31.491813</coordinates>
@@ -6309,10 +6311,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Gezer</name>
+	<name xml:lang="vi">Ghê‑xe (Gezer)</name>
 	<description>Josh.10.33, Josh.12.12, Josh.16.3, Josh.16.10, Josh.21.21, Judg.1.29,2Sam.5.25, 1Kgs.9.15, 1Kgs.9.16, 1Kgs.9.17, 1Chr.6.67, 1Chr.7.28, 1Chr.14.16, 1Chr.20.4</description>
 	<Placemark>
-		<name>Gezer / Tel Gezer</name>
+		<name xml:lang="vi">Ghê‑xe</name>
+		<description>Gezer / Tel Gezer</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.919167,31.859167</coordinates>
@@ -7865,10 +7868,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Hepher</name>
+	<name xml:lang="vi">Hê‑phe (Hepher)</name>
 	<description>Josh.12.17, 1Kgs.4.10</description>
 	<Placemark>
-		<name>Hepher / Tell el Muhaffar</name>
+		<name xml:lang="vi">Hê‑phe</name>
+		<description>Hepher / Tell el Muhaffar</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.21767,32.44285</coordinates>
@@ -8667,10 +8671,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Jarmuth 1</name>
+	<name xml:lang="vi">Giạt‑mút (Jarmuth 1, Josh 10, 12, 15; Neh)</name>
 	<description>Josh.10.3, Josh.10.5, Josh.10.23, Josh.12.11, Josh.15.35, Neh.11.29</description>
 	<Placemark>
-		<name>Jarmuth 1 / Tel Yarmuth</name>
+		<name xml:lang="vi">Giạt‑mút</name>
+		<description>Jarmuth 1 / Tel Yarmuth</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.975,31.7083</coordinates>
@@ -8678,11 +8683,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Jarmuth 2</name>
+	<name xml:lang="vi">Giạt‑mút (Jarmuth 2, Josh 21)</name>
 	<description>Josh.21.29</description>
 	<Placemark>
-		<name>Jarmuth 2 / Kokab el Hawa</name>
-		<description>another name for Ramoth 1</description>
+		<name xml:lang="vi">Giạt‑mút</name>
+		<description>Jarmuth 2 / Kokab el Hawa, another name for Ramoth 1</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.521389,32.595556</coordinates>
@@ -8933,10 +8938,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Jokneam</name>
+	<name xml:lang="vi">Giốc‑nê‑am (Jokneam)</name>
 	<description>Josh.12.22, Josh.19.11, Josh.21.34, 1Chr.6.77</description>
 	<Placemark>
-		<name>Jokneam / Tel Yokneam</name>
+		<name xml:lang="vi">Giốc‑nê‑am</name>
+		<description>Jokneam / Tel Yokneam</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.108266,32.664099</coordinates>
@@ -9267,10 +9273,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Kedesh 1</name>
+	<name xml:lang="vi">Kê‑đe (Kedesh 1)</name>
 	<description>Josh.12.22, Josh.21.32, 2Kgs.15.29, 1Chr.6.76</description>
 	<Placemark>
-		<name>Kedesh 1 / Tel Kedesh</name>
+		<name xml:lang="vi">Kê‑đe</name>
+		<description>Kedesh 1 / Tel Kedesh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.529517,33.111638</coordinates>
@@ -10242,10 +10249,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Madon</name>
+	<name xml:lang="vi">Ma‑đôn (Madon)</name>
 	<description>Josh.11.1, Josh.12.19</description>
 	<Placemark>
-		<name>Madon / Qarn Hattin</name>
+		<name xml:lang="vi">Ma‑đôn</name>
+		<description>Madon / Qarn Hattin</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.459722,32.799722</coordinates>
@@ -10402,10 +10410,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Makkedah</name>
+	<name xml:lang="vi">Ma‑kê‑đa (Makkedah)</name>
 	<description>Josh.10.10, Josh.10.16, Josh.10.17, Josh.10.21, Josh.10.28, Josh.10.29, Josh.12.16, Josh.15.41</description>
 	<Placemark>
-		<name>Makkedah / Khirbet el Qom</name>
+		<name xml:lang="vi">Ma‑kê‑đa</name>
+		<description>Makkedah / Khirbet el Qom</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.966564,31.534716</coordinates>
@@ -14770,10 +14779,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Shimron</name>
+	<name xml:lang="vi">Sim‑rôn (Shimron)</name>
 	<description>Josh.11.1, Josh.19.15</description>
 	<Placemark>
-		<name>Shimron / Tel Shimron</name>
+		<name xml:lang="vi">Sim‑rôn</name>
+		<description>Shimron / Tel Shimron</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.213333,32.703889</coordinates>
@@ -14781,11 +14791,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Shimron-meron</name>
+	<name xml:lang="vi">Sim‑rôn Mê‑rôn (Shimron-meron)</name>
 	<description>Josh.12.20</description>
 	<Placemark>
-		<name>Shimron-meron / Tel Shimron</name>
-		<description>another name for Shimron</description>
+		<name xml:lang="vi">Sim‑rôn Mê‑rôn</name>
+		<description>Shimron-meron / Tel Shimron, another name for Shimron</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.213333,32.703889</coordinates>
@@ -15366,10 +15376,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Taanach</name>
+	<name xml:lang="vi">Tha‑a‑nác (Taanach)</name>
 	<description>Josh.12.21, Josh.17.11, Josh.21.25, Judg.1.27, Judg.5.19, 1Kgs.4.12, 1Chr.7.29</description>
 	<Placemark>
-		<name>Taanach / Tell Ta’anakh</name>
+		<name xml:lang="vi">Tha‑a‑nác</name>
+		<description>Taanach / Tell Ta’anakh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.219122,32.521526</coordinates>
@@ -15519,10 +15530,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Tappuah 1</name>
+	<name xml:lang="vi">Tháp‑bu‑ách (Tappuah 1, Josh 12, 16, 17)</name>
 	<description>Josh.12.17, Josh.16.8, Josh.17.8</description>
 	<Placemark>
-		<name>Tappuah 1 / Tell Abu Zarad</name>
+		<name xml:lang="vi">Tháp‑bu‑ách</name>
+		<description>Tappuah 1 / Tell Abu Zarad</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.23007,32.10415</coordinates>
@@ -15530,10 +15542,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Tappuah 2</name>
+	<name xml:lang="vi">Tháp‑bu‑ách (Tappuah 2, Josh 15)</name>
 	<description>Josh.15.34</description>
 	<Placemark>
-		<name>Tappuah 2 / Bayt Nattif</name>
+		<name xml:lang="vi">Tháp‑bu‑ách</name>
+		<description>Tappuah 2 / Bayt Nattif</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.996,31.695528</coordinates>
@@ -15970,10 +15983,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Tirzah</name>
+	<name xml:lang="vi">Tiệt‑sa (Tirzah)</name>
 	<description>Josh.12.24, 1Kgs.14.17, 1Kgs.15.21, 1Kgs.15.33, 1Kgs.16.6, 1Kgs.16.8, 1Kgs.16.9, 1Kgs.16.15, 1Kgs.16.17, 1Kgs.16.23, 2Kgs.15.14, 2Kgs.15.16, Song.6.4</description>
 	<Placemark>
-		<name>Tirzah / Tell el Farah</name>
+		<name xml:lang="vi">Tiệt‑sa</name>
+		<description>Tirzah / Tell el Farah</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.3378,32.2874</coordinates>

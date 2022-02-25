@@ -31,4 +31,5 @@ Currid, John D., and David P. Barrett. *Crossway ESV Bible Atlas*. Wheaton, IL: 
 
 - Water: #a5bfdd
 - Land: #fff7bc
-- Routes: #800000
+- Main travel routes: #800000
+- Enemy travel routes: #2323bd

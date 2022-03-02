@@ -1513,10 +1513,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Arumah</name>
+	<name xml:lang="vi">A‑ru‑ma (Arumah)</name>
 	<description>Judg.9.31, Judg.9.41</description>
 	<Placemark>
-		<name>Arumah / Khirbet Urmah</name>
+		<name xml:lang="vi">A‑ru‑ma</name>
+		<description>Arumah / Khirbet Urmah</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.321583,32.147556</coordinates>
@@ -2013,10 +2014,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Baal-gad</name>
+	<name xml:lang="vi">Ba‑anh Gát (Baal-gad)</name>
 	<description>Josh.11.17, Josh.12.7, Josh.13.5</description>
 	<Placemark>
-		<name>Baal-gad / Hasbaya</name>
+		<name xml:lang="vi">Ba‑anh Gát</name>
+		<description>Baal-gad / Hasbaya</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.683333,33.383333</coordinates>
@@ -2577,10 +2579,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Beth-anath</name>
+	<name xml:lang="vi">Bết A‑nát (Beth-anath)</name>
 	<description>Josh.19.38, Judg.1.33</description>
 	<Placemark>
-		<name>Beth-anath / Safad el Battikh</name>
+		<name xml:lang="vi">Bết A‑nát</name>
+		<description>Beth-anath / Safad el Battikh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.43306,33.20028</coordinates>
@@ -2786,7 +2789,7 @@
 		</Point>
 	</Placemark>
 </Folder>
-<Folder>
+<!-- <Folder>
 	<name>Bethel 2 (Beth-el)</name>
 	<description>1Sam.30.27</description>
 	<Placemark>
@@ -2809,7 +2812,7 @@
 			<coordinates>35.241389,31.922778</coordinates>
 		</Point>
 	</Placemark>
-</Folder>
+</Folder> -->
 <Folder>
 	<name>Beth-emek (Beth Emeck)</name>
 	<description>Josh.19.27</description>
@@ -2962,10 +2965,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Beth-jeshimoth</name>
+	<name>Bết Giê‑si‑mốt (Beth-jeshimoth)</name>
 	<description>Num.33.49, Josh.12.3, Josh.13.20, Ezek.25.9</description>
 	<Placemark>
-		<name>Beth-jeshimoth / Tell Azeimeh</name>
+		<name>Bết Giê‑si‑mốt</name>
+		<description>Beth-jeshimoth / Tell Azeimeh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.62125,31.782551</coordinates>
@@ -6075,10 +6079,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Geder</name>
+	<name xml:lang="vi">Ghê‑đe (Geder)</name>
 	<description>Josh.12.13, 1Chr.27.28</description>
 	<Placemark>
-		<name>Geder / Khirbet Jedur</name>
+		<name xml:lang="vi">Ghê‑đe</name>
+		<description>Geder / Khirbet Jedur</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.092145,31.632629</coordinates>
@@ -6530,7 +6535,7 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">Vùng Ga‑la‑át (Gilead )</name>
+	<name xml:lang="vi">Vùng Ga‑la‑át (Gilead, in Hosea)</name>
 	<description>Hos.6.8</description>
 	<Placemark>
 	<name xml:lang="vi">Vùng Ga‑la‑át</name>
@@ -6714,10 +6719,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Golan</name>
+	<name xml:lang="vi">Gô‑lan (Golan)</name>
 	<description>Deut.4.43, Josh.20.8, Josh.21.27, 1Chr.6.71</description>
 	<Placemark>
-		<name>Golan / Saham al Jawlan</name>
+		<name xml:lang="vi">Gô‑lan</name>
+		<description>Golan / Saham al Jawlan</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.934722,32.781111</coordinates>
@@ -9143,10 +9149,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Kamon (Camon)</name>
+	<name xml:lang="vi">Kha‑môn (Kamon, Camon)</name>
 	<description>Judg.10.5</description>
 	<Placemark>
-		<name>Kamon / Qamm</name>
+		<name xml:lang="vi">Kha‑môn</name>
+		<description>Kamon / Qamm</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.7256,32.5876</coordinates>
@@ -9333,10 +9340,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Kedesh-naphtali (Kedesh in Naphtali)</name>
+	<name xml:lang="vi">Kê‑đe trong đất Nép‑ta‑li (Kedesh-naphtali, Kedesh in Naphtali)</name>
 	<description>Judg.4.6</description>
 	<Placemark>
-		<name>Kedesh-naphtali / Khirbet Qedish</name>
+		<name xml:lang="vi">Kê‑đe trong đất Nép‑ta‑li</name>
+		<description>Kedesh-naphtali / Khirbet Qedish</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.55555,32.735</coordinates>
@@ -9769,11 +9777,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Lasharon</name>
+	<name xml:lang="vi">Sa-rôn (Lasharon)</name>
 	<description>Josh.12.18</description>
 	<Placemark>
-		<name>Lasharon / Sharon Plain</name>
-		<description>another name for Sharon 1</description>
+		<name xml:lang="vi">Sa-rôn</name>
+		<description>Lasharon / Sharon Plain, another name for Sharon 1</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -12531,7 +12539,7 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">Óp‑ra (Ophrah 1)</name>
+	<name xml:lang="vi">Óp‑ra (Ophrah 1, Josh, 1 Sam)</name>
 	<description>Josh.18.23, 1Sam.13.17</description>
 	<Placemark>
 		<name xml:lang="vi">Óp‑ra</name>
@@ -12543,7 +12551,7 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">Óp‑ra (Ophrah 2)</name>
+	<name xml:lang="vi">Óp‑ra (Ophrah 2, Judg)</name>
 	<description>Judg.6.11, Judg.6.24, Judg.8.27, Judg.8.32, Judg.9.5</description>
 	<Placemark>
 		<name xml:lang="vi">Óp‑ra</name>
@@ -12959,10 +12967,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Pirathon</name>
+	<name xml:lang="vi">Phi‑ra‑thôn (Pirathon)</name>
 	<description>Judg.12.13, Judg.12.15,2Sam.23.30, 1Chr.11.31, 1Chr.27.14</description>
 	<Placemark>
-		<name>Pirathon / Farata</name>
+		<name xml:lang="vi">Phi‑ra‑thôn</name>
+		<description>Pirathon / Farata</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.165833,32.190556</coordinates>
@@ -13215,10 +13224,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ramah 1</name>
+	<name xml:lang="vi">Ra‑ma (Ramah 1, in Josh 18, Judg, 1 Kgs, 2 Chr, Ezra, Neh, Isa, Jer, Matt)</name>
 	<description>Josh.18.25, Judg.4.5, Judg.19.13, 1Kgs.15.17, 1Kgs.15.21, 1Kgs.15.22, 2Chr.16.1, 2Chr.16.5, 2Chr.16.6, Ezra.2.26, Neh.7.30, Isa.10.29, Jer.31.15, Jer.40.1,Hos.5.8, Matt.2.18</description>
 	<Placemark>
-		<name>Ramah 1 / Al Ram</name>
+		<name xml:lang="vi">Ra‑ma</name>
+		<description>Ramah 1 / Al Ram</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.23161,31.85434</coordinates>
@@ -13226,10 +13236,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ramah 2</name>
+	<name xml:lang="vi">Ra‑ma (Ramah 2, in Josh 19:29)</name>
 	<description>Josh.19.29</description>
 	<Placemark>
-		<name>Ramah 2 / Ramyah</name>
+		<name xml:lang="vi">Ra‑ma</name>
+		<description>Ramah 2 / Ramyah</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.3106,33.1108</coordinates>
@@ -13237,10 +13248,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ramah 3</name>
+	<name xml:lang="vi">Ra‑ma (Ramah 3, in Josh 19:36)</name>
 	<description>Josh.19.36</description>
 	<Placemark>
-		<name>Ramah 3 / Er Rameh</name>
+		<name xml:lang="vi">Ra‑ma</name>
+		<description>Ramah 3 / Er Rameh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.367114,32.93925</coordinates>
@@ -13248,11 +13260,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ramah 4</name>
+	<name xml:lang="vi">Ra‑ma (Ramah 4, in 1 Sam)</name>
 	<description>1Sam.1.19, 1Sam.2.11, 1Sam.7.17, 1Sam.8.4, 1Sam.15.34, 1Sam.16.13, 1Sam.19.18, 1Sam.19.19, 1Sam.19.22, 1Sam.19.23, 1Sam.20.1, 1Sam.25.1, 1Sam.28.3</description>
 	<Placemark>
-		<name>Ramah 4 / Al Ram</name>
-		<description>another name for Ramah 1</description>
+		<name xml:lang="vi">Ra‑ma</name>
+		<description>Ramah 4 / Al Ram, another name for Ramah 1</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.23161,31.85434</coordinates>
@@ -13260,11 +13272,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ramah 5 (Ramoth, Ramoth-gilead)</name>
+	<name xml:lang="vi">Ra‑ma (Ramah 5, Ramoth, Ramoth-gilead)</name>
 	<description>2Kgs.8.29, 2Chr.22.6</description>
 	<Placemark>
-		<name>Ramah 5 / Tall er Rumeith</name>
-		<description>another name for Ramoth-gilead</description>
+		<name xml:lang="vi">Ra‑ma</name>
+		<description>Ramah 5 / Tall er Rumeith, another name for Ramoth-gilead</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>36.014988,32.499852</coordinates>
@@ -13272,11 +13284,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ramah 6 (Ramath)</name>
+	<name xml:lang="vi">Ra‑ma (Ramah 6, Ramath, in Josh 19:8)</name>
 	<description>Josh.19.8</description>
 	<Placemark>
-		<name>Ramah 6 / Deir el Azar</name>
-		<description>another name for Baalath-beer</description>
+		<name xml:lang="vi">Ra‑ma</name>
+		<description>Ramah 6 / Deir el Azar, another name for Baalath-beer</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.10378,31.808957</coordinates>
@@ -13284,11 +13296,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ramah 7</name>
+	<name xml:lang="vi">Ra‑ma (Ramah 7, in Neh 11:33)</name>
 	<description>Neh.11.33</description>
 	<Placemark>
-		<name>Ramah 7 / Al Ram</name>
-		<description>another name for Ramah 1</description>
+		<name xml:lang="vi">Ra‑ma</name>
+		<description>Ramah 7 / Al Ram, another name for Ramah 1</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.23161,31.85434</coordinates>
@@ -13296,11 +13308,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ramah 8</name>
+	<name xml:lang="vi">Ra‑ma (Ramah 8, in 1 Sam 22:6)</name>
 	<description>1Sam.22.6</description>
 	<Placemark>
-		<name>Ramah 8 / within 1 km of Tel el Ful</name>
-		<description>within 1 km of Gibeah 1</description>
+		<name xml:lang="vi">Ra‑ma</name>
+		<description>Ramah 8 / within 1 km of Tel el Ful, within 1 km of Gibeah 1</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -13313,11 +13325,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ramah 9</name>
+	<name xml:lang="vi">Ra‑ma (Ramah 9, in 1 Chr 27:27)</name>
 	<description>1Chr.27.27</description>
 	<Placemark>
-		<name>Ramah 9 / Al Ram</name>
-		<description>another name for Ramah 1</description>
+		<name xml:lang="vi">Ra‑ma</name>
+		<description>Ramah 9 / Al Ram, another name for Ramah 1</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.23161,31.85434</coordinates>
@@ -14155,6 +14167,22 @@
 	</Placemark>
 </Folder>
 <Folder>
+	<name xml:lang="vi">Biển Ki‑nê‑rết (Sea of Galilee, Chinneroth)</name>
+	<description>Num.34.11, Josh.12.3, Josh.13.27, Matt.4.18, Matt.9.1, Matt.15.29, Mark.1.16, Mark.7.31, John.6.1, John.21.1</description>
+	<Placemark>
+		<name xml:lang="vi">Biển Ki‑nê‑rết</name>
+		<styleUrl>#water</styleUrl>
+		<Polygon>
+			<tesselate>1</tesselate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>35.52282,32.812921 35.525966,32.810717 35.528838,32.805444 35.536496,32.801376 35.540121,32.796927 35.540211,32.797825 35.541551,32.794299 35.542683,32.793712 35.543457,32.790222 35.542789,32.790599 35.543002,32.78933 35.544477,32.785255 35.543701,32.786188 35.544415,32.781724 35.544795,32.78242 35.545951,32.77928 35.546095,32.775628 35.548506,32.769929 35.55075,32.768524 35.551657,32.766857 35.554474,32.765451 35.561254,32.758378 35.56812,32.745552 35.570863,32.729987 35.572326,32.726877 35.571279,32.725639 35.571413,32.723614 35.574184,32.717332 35.578473,32.711582 35.579703,32.710401 35.581101,32.710745 35.580903,32.709402 35.583429,32.708002 35.592576,32.7078 35.596368,32.708612 35.604748,32.712778 35.613054,32.719696 35.625529,32.736106 35.630175,32.743144 35.634236,32.751524 35.63887,32.774216 35.63559,32.77902 35.63517,32.782066 35.635558,32.784794 35.63635,32.784663 35.635498,32.785203 35.635986,32.787428 35.639085,32.789575 35.640239,32.792258 35.640568,32.794269 35.639163,32.798438 35.643776,32.810955 35.645029,32.817742 35.64461,32.823277 35.64242,32.82807 35.640624,32.829822 35.639911,32.834421 35.64349,32.836448 35.647885,32.841439 35.647885,32.850068 35.645202,32.856464 35.641746,32.860254 35.642013,32.861509 35.64032,32.865468 35.63663,32.868291 35.635169,32.872062 35.629209,32.878019 35.626282,32.87868 35.619552,32.884401 35.616377,32.885817 35.613835,32.885426 35.612485,32.886075 35.611193,32.888639 35.604545,32.891397 35.599912,32.891623 35.593393,32.89057 35.59267,32.890268 35.592607,32.888049 35.591102,32.887064 35.584289,32.885451 35.576864,32.880256 35.567727,32.879388 35.565411,32.874748 35.560073,32.874118 35.559957,32.873219 35.557868,32.872138 35.556739,32.87268 35.55105,32.871636 35.548674,32.870263 35.546001,32.870577 35.541135,32.866766 35.540789,32.864786 35.53718,32.861118 35.535474,32.857025 35.529684,32.849917 35.526678,32.842566 35.523144,32.838153 35.520033,32.830807 35.518696,32.823105 35.52282,32.812921</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Folder>
+<Folder>
 	<name>Sea of Jazer (Jazer)</name>
 	<description>Jer.48.32</description>
 	<Placemark>
@@ -14463,10 +14491,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Shamir 1</name>
+	<name xml:lang="vi">Sa‑mia (Shamir 1, in Josh)</name>
 	<description>Josh.15.48</description>
 	<Placemark>
-		<name>Shamir 1 / Khirbet al Bira</name>
+		<name xml:lang="vi">Sa‑mia</name>
+		<description>Shamir 1 / Khirbet al Bira</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.9265,31.4355</coordinates>
@@ -14474,11 +14503,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Shamir 2</name>
+	<name xml:lang="vi">Sa‑mia (Shamir 2, in Judg)</name>
 	<description>Judg.10.1, Judg.10.2</description>
 	<Placemark>
-		<name>Shamir 2 / Samaria</name>
-		<description>another name for Samaria 1</description>
+		<name xml:lang="vi">Sa‑mia</name>
+		<description>Shamir 2 / Samaria, another name for Samaria 1</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.195,32.276111</coordinates>
@@ -16707,10 +16736,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Valley of Lebanon (Lebanon Valley)</name>
+	<name xml:lang="vi">Thung Lũng Li‑ban (Valley of Lebanon, Lebanon Valley)</name>
 	<description>Josh.11.17, Josh.12.7</description>
 	<Placemark>
-		<name>Valley of Lebanon / Beqaa Valley</name>
+		<name xml:lang="vi">Thung Lũng Li‑ban</name>
+		<description>Valley of Lebanon / Beqaa Valley</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -17197,10 +17227,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zaphon 1</name>
+	<name xml:lang="vi">Xa‑phôn (Zaphon 1, in Josh, Judg)</name>
 	<description>Josh.13.27, Judg.12.1</description>
 	<Placemark>
-		<name>Zaphon 1 / Tell es Sa’idiyeh</name>
+		<name xml:lang="vi">Xa‑phôn</name>
+		<description>Zaphon 1 / Tell es Sa’idiyeh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.577241,32.26769</coordinates>
@@ -17208,10 +17239,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zaphon 2</name>
+	<name xml:lang="vi">Xa‑phôn (Zaphon 2, in Job, Ps, Isa)</name>
 	<description>Job.26.7, Ps.48.2, Isa.14.13</description>
 	<Placemark>
-		<name>Zaphon 2 / Jebel Aqra</name>
+		<name xml:lang="vi">Xa‑phôn</name>
+		<description>Zaphon 2 / Jebel Aqra</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.969306,35.9525</coordinates>
@@ -17619,10 +17651,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zorah</name>
+	<name xml:lang="vi">Xô‑rê‑a (Zorah)</name>
 	<description>Josh.15.33, Josh.19.41, Judg.13.2, Judg.13.25, Judg.16.31, Judg.18.2, Judg.18.8, Judg.18.11, 1Chr.2.53, 2Chr.11.10, Neh.11.29</description>
 	<Placemark>
-		<name>Zorah / Tel Tzora</name>
+		<name xml:lang="vi">Xô‑rê‑a</name>
+		<description>Zorah / Tel Tzora</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.985289,31.773992</coordinates>

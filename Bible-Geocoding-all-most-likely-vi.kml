@@ -3179,7 +3179,7 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Beth-shemesh 1</name>
+	<name xml:lang="vi">Bết Sê‑mết (Beth-shemesh 1, in Josh, 1 Sam, 1 Kgs, 2 Kgs, 1 Chr, 2 Chr)</name>
 	<description>Josh.15.10, Josh.21.16, 1Sam.6.9, 1Sam.6.12, 1Sam.6.13, 1Sam.6.14, 1Sam.6.15, 1Sam.6.18, 1Sam.6.19, 1Sam.6.20, 1Kgs.4.9, 2Kgs.14.11, 2Kgs.14.13, 1Chr.6.59, 2Chr.25.21, 2Chr.25.23, 2Chr.28.18</description>
 	<Placemark>
 		<name xml:lang="vi">Bết Sê‑mết</name>
@@ -10351,10 +10351,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Mahanaim</name>
+	<name xml:lang="vi">Ma‑ha‑na‑im (Mahanaim)</name>
 	<description>Gen.32.2, Josh.13.26, Josh.13.30, Josh.21.38,2Sam.2.8, 2Sam.2.10, 2Sam.2.12, 2Sam.2.29, 2Sam.17.24, 2Sam.17.27, 2Sam.18.23, 2Sam.19.32, 1Kgs.2.8, 1Kgs.4.14, 1Chr.6.80, Song.6.13</description>
 	<Placemark>
-		<name>Mahanaim / Tell edh Dhahab el Gharbi</name>
+		<name xml:lang="vi">Ma‑ha‑na‑im</name>
+		<description>Mahanaim / Tell edh Dhahab el Gharbi</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.68667,32.18575</coordinates>

@@ -615,7 +615,7 @@
 	<name xml:lang="vi">A-hi (Ai 3)</name>
 	<description>Ezra.2.28, Neh.7.32</description>
 	<Placemark>
-		<name>A-hi</name>
+		<name xml:lang="vi">A-hi</name>
 		<description>Ai 3 / Et Tell</description>
 		<description>another name for Ai 1</description>
 		<styleUrl>#landpoint</styleUrl>
@@ -715,7 +715,7 @@
 	<name xml:lang="vi">Hác‑en‑đa‑ma (Akeldama (Field of Blood, Aceldama))</name>
 	<description>Matt.27.8, Acts.1.19</description>
 	<Placemark>
-		<name>Hác-en-đa-ma</name>
+		<name xml:lang="vi">Hác-en-đa-ma</name>
         <description>Akeldama</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -1404,7 +1404,7 @@
 	<name xml:lang="vi">A-ri-ma-thê (Arimathea, Arimathaea)</name>
 	<description>Matt.27.57, Mark.15.43,Luke.23.50, John.19.38</description>
 	<Placemark>
-		<name>xml:lang="vi">A-ri-ma-thê</name>
+		<name xml:lang="vi">A-ri-ma-thê</name>
 		<description>Arimathea / Rantis</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -2457,7 +2457,7 @@
 	<name xml:lang="vi">Bê‑rốt Bê‑nê Gia‑can (Beeroth Bene-jaakan)</name>
 	<description>Deut.10.6</description>
 	<Placemark>
-		<name>Bê‑rốt Bê‑nê Gia‑can</name> 
+		<name xml:lang="vi">Bê‑rốt Bê‑nê Gia‑can</name> 
 		<description>Beeroth Bene-jaakan / Birein</description>
 		<description>another name for Bene-jaakan</description>
 		<styleUrl>#landpoint</styleUrl>
@@ -3048,10 +3048,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Bết Giê‑si‑mốt (Beth-jeshimoth)</name>
+	<name xml:lang="vi">Bết Giê‑si‑mốt (Beth-jeshimoth)</name>
 	<description>Num.33.49, Josh.12.3, Josh.13.20, Ezek.25.9</description>
 	<Placemark>
-		<name>Bết Giê‑si‑mốt</name>
+		<name xml:lang="vi">Bết Giê‑si‑mốt</name>
 		<description>Beth-jeshimoth / Tell Azeimeh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -6137,11 +6137,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Gath 3</name>
+	<name xml:lang="vi">Gát (Gath 3)</name>
 	<description>2Sam.6.10, 1Chr.13.13</description>
 	<Placemark>
-		<name>Gath 3 / Tell es Safi</name>
-		<description>another name for Gath 1</description>
+		<name xml:lang="vi">Gát</name>
+		<description>Gath 3 / Tell es Safi, another name for Gath 1</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.84694,31.69972</coordinates>

@@ -1743,7 +1743,7 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<namexml:lang="vi">A-ta-rốt (Ataroth 3)</name>
+	<name xml:lang="vi">A-ta-rốt (Ataroth 3)</name>
 	<description>Josh.16.7</description>
 	<Placemark>
 		<name xml:lang="vi">A-ta-rốt</name>
@@ -3440,7 +3440,7 @@
 	<description>Deut.4.43, Josh.20.8, Josh.21.36, 1Chr.6.78</description>
 	<Placemark>
 		<name xml:lang="vi">Bết‑se</name>
-		>Bezer / Umm el Amad</name>
+		<description>Bezer / Umm el Amad</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.90168,31.78603</coordinates>

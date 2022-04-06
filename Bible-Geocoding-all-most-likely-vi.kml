@@ -5981,16 +5981,11 @@
 	<name>Gaulanitis</name>
 	<description></description>
 	<Placemark>
-	<name>Gaulanitis</name>
-	<styleUrl>#region</styleUrl>
-	<Polygon>
-		<tesselate>1</tesselate>
-		<outerBoundaryIs>
-			<LinearRing>
-				<coordinates>***</coordinates>
-			</LinearRing>
-		</outerBoundaryIs>
-	</Polygon>
+		<name>Gaulanitis</name>
+		<styleUrl>#landrepresentativepoint</styleUrl>
+		<Point>
+			<coordinates>35.75116,33.10646</coordinates>
+		</Point>
 	</Placemark>
 </Folder>
 <Folder>
@@ -8665,14 +8660,14 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">Gia‑hát (Jamnia, Jabneel)</name>
+	<name>Jamnia</name>
 	<description></description>
 	<Placemark>
-		<name xml:lang="vi"></name>
-		<description>Jahaz / Khirbet el Medeiyineh</description>
+		<name>Jamnia</name>
+		<description>Yavne</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
-			<coordinates>35.907928,31.588347</coordinates>
+			<coordinates>34.733333,31.883333</coordinates>
 		</Point>
 	</Placemark>
 </Folder>
@@ -12876,19 +12871,14 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Perea</name>
+	<name>Perea (Perea)</name>
 	<description></description>
 	<Placemark>
-	<name>Perea</name>
-	<styleUrl>#region</styleUrl>
-	<Polygon>
-		<tesselate>1</tesselate>
-		<outerBoundaryIs>
-			<LinearRing>
-				<coordinates>***</coordinates>
-			</LinearRing>
-		</outerBoundaryIs>
-	</Polygon>
+		<name>Perea</name>
+		<styleUrl>#landrepresentativepoint</styleUrl>
+		<Point>
+			<coordinates>35.6725,31.9944</coordinates>
+		</Point>
 	</Placemark>
 </Folder>
 <Folder>

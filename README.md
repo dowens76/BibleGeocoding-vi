@@ -17,3 +17,9 @@ OpenStreetMap data is licensed under ODbL 1.0, which is similar to CC-BY-SA.
 Daniel Owens
 
 Bui Duc Huynh
+
+## Validation
+
+The schema is in ./kml-schema/kml21.xsd. To validate, use the following command: 
+
+xmllint --noout --schema ./kml-schema/kml21.xsd Bible-Geocoding-all-most-likely-vi.kml

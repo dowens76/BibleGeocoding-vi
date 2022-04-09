@@ -8685,10 +8685,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ibleam</name>
+	<name xml:lang="vi">Gíp‑lê‑am (Ibleam)</name>
 	<description>Josh.17.11, Judg.1.27, 2Kgs.9.27, 2Kgs.15.10</description>
 	<Placemark>
-		<name>Ibleam / Khirbet Belameh</name>
+		<name xml:lang="vi">Gíp‑lê‑am</name>
+		<description>Ibleam / Khirbet Belameh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.292,32.4462</coordinates>
@@ -8696,10 +8697,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Iconium</name>
+	<name xml:lang="vi">I‑cô‑ni (Iconium)</name>
 	<description>Acts.13.51, Acts.14.1, Acts.14.19, Acts.14.21, Acts.16.2,2Tim.3.11</description>
 	<Placemark>
-		<name>Iconium / Konya</name>
+		<name xml:lang="vi">I‑cô‑ni</name>
+		<description>Iconium / Konya</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>32.492331,37.872202</coordinates>
@@ -8707,10 +8709,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Idalah</name>
+	<name xml:lang="vi">Di‑đê‑a‑la (Idalah)</name>
 	<description>Josh.19.15</description>
 	<Placemark>
-		<name>Idalah / Khirbet el Huwarah</name>
+		<name xml:lang="vi">Di‑đê‑a‑la</name>
+		<description>Idalah / Khirbet el Huwarah</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.183433,32.725794</coordinates>

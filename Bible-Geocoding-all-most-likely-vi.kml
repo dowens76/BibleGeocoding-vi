@@ -480,6 +480,18 @@
 	</Placemark>
 </Folder>
 <Folder>
+	<name xml:lang="vi">Biển A‑đờ‑ri‑a‑tích (Adriatic Sea, representative point)</name>
+	<description></description>
+	<Placemark>
+		<name xml:lang="vi">Biển A‑đờ‑ri‑a‑tích</name>
+		<description></description>
+		<styleUrl>#waterrepresentativepoint</styleUrl>
+		<Point>
+			<coordinates>15.604,42.862</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
 	<name xml:lang="vi">Biển A‑đờ‑ri‑a‑tích (Adriatic Sea, Sea of Adria, Adria)</name>
 	<description>Acts.27.27</description>
 	<Placemark>
@@ -527,6 +539,18 @@
 			<tesselate>1</tesselate>
 			<coordinates>35.410118,31.838305 35.409441,31.837944 35.409001,31.837026 35.408394,31.836535 35.408068,31.83558 35.408524,31.834549 35.408036,31.833939 35.407678,31.833663 35.407397,31.83362 35.406464,31.834033 35.4062,31.834023 35.40597,31.833872 35.405242,31.832648 35.404197,31.831575 35.402708,31.831427 35.402155,31.830953 35.401126,31.830503 35.401059,31.830326 35.401607,31.829446 35.401699,31.828851 35.400423,31.827713 35.399529,31.827743 35.398504,31.827147 35.397278,31.826886 35.396819,31.826899 35.396039,31.827186 35.395612,31.827065 35.395344,31.82671 35.395134,31.825156 35.394663,31.824794 35.394541,31.824339 35.393103,31.82439 35.392168,31.823982 35.390959,31.824396 35.389332,31.825754 35.38755,31.82602 35.387,31.82631 35.385665,31.826301 35.384911,31.826205 35.384455,31.825615 35.384058,31.825498 35.383683,31.82511 35.38328,31.824954 35.382345,31.825221 35.381984,31.825203 35.380806,31.824722 35.379291,31.825209 35.379011,31.825182 35.378512,31.824403 35.377847,31.823892 35.377472,31.823775 35.376934,31.824 35.376357,31.824659 35.375759,31.824972 35.374994,31.8248 35.373954,31.82422 35.372535,31.824361 35.37143,31.824888 35.370931,31.825832 35.370563,31.826144 35.370273,31.826163 35.36981,31.825498 35.369465,31.825491 35.368833,31.82465 35.368309,31.824385 35.368252,31.822966 35.367672,31.82259 35.367456,31.8221 35.366844,31.821934 35.366302,31.821312 35.365297,31.820711 35.364869,31.820566 35.364111,31.820554 35.36346,31.820097 35.363389,31.819408 35.36328,31.819318 35.362632,31.819168 35.361676,31.819267 35.361033,31.81907 35.360468,31.819335 35.360041,31.819959 35.360078,31.820892 35.359246,31.8204 35.358722,31.820495 35.35819,31.821007 35.356726,31.820919 35.356344,31.820707 35.35613,31.820106 35.355775,31.819869 35.355423,31.818661 35.355056,31.818089 35.354664,31.81754 35.353974,31.81697 35.353522,31.817039 35.352545,31.816397 35.350171,31.815896 35.350177,31.815742 35.349677,31.815423 35.349396,31.815639 35.349106,31.815666 35.348961,31.815851 35.346215,31.814942</coordinates>
 		</LineString>
+	</Placemark>
+</Folder>
+<Folder>
+	<name xml:lang="vi">Biển Aegean (Aegean Sea, representative point)</name>
+	<description></description>
+	<Placemark>
+		<name xml:lang="vi">Biển Aegean</name>
+		<description></description>
+		<styleUrl>#waterrepresentativepoint</styleUrl>
+		<Point>
+			<coordinates>24.770,39.349</coordinates>
+		</Point>
 	</Placemark>
 </Folder>
 <Folder>
@@ -615,7 +639,7 @@
 	<name xml:lang="vi">A-hi (Ai 3)</name>
 	<description>Ezra.2.28, Neh.7.32</description>
 	<Placemark>
-		<name>A-hi</name>
+		<name xml:lang="vi">A-hi</name>
 		<description>Ai 3 / Et Tell</description>
 		<description>another name for Ai 1</description>
 		<styleUrl>#landpoint</styleUrl>
@@ -715,7 +739,7 @@
 	<name xml:lang="vi">Hác‑en‑đa‑ma (Akeldama (Field of Blood, Aceldama))</name>
 	<description>Matt.27.8, Acts.1.19</description>
 	<Placemark>
-		<name>Hác-en-đa-ma</name>
+		<name xml:lang="vi">Hác-en-đa-ma</name>
         <description>Akeldama</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -1404,7 +1428,7 @@
 	<name xml:lang="vi">A-ri-ma-thê (Arimathea, Arimathaea)</name>
 	<description>Matt.27.57, Mark.15.43,Luke.23.50, John.19.38</description>
 	<Placemark>
-		<name>xml:lang="vi">A-ri-ma-thê</name>
+		<name xml:lang="vi">A-ri-ma-thê</name>
 		<description>Arimathea / Rantis</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -1647,7 +1671,7 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">A-si-a (Asia)</name>
+	<name xml:lang="vi">A-si-a (Asia, Asia Minor)</name>
 	<description>Acts.2.9, Acts.6.9, Acts.16.6, Acts.19.10, Acts.19.22, Acts.19.26, Acts.19.27, Acts.19.31, Acts.20.4, Acts.20.16, Acts.20.18, Acts.21.27, Acts.24.18, Acts.27.2,Rom.16.5,1Cor.16.19,2Cor.1.8,2Tim.1.15, 1Pet.1.1,Rev.1.4, Rev.1.11</description>
 	<Placemark>
 	<name xml:lang="vi">A-si-a</name>
@@ -2457,7 +2481,7 @@
 	<name xml:lang="vi">Bê‑rốt Bê‑nê Gia‑can (Beeroth Bene-jaakan)</name>
 	<description>Deut.10.6</description>
 	<Placemark>
-		<name>Bê‑rốt Bê‑nê Gia‑can</name> 
+		<name xml:lang="vi">Bê‑rốt Bê‑nê Gia‑can</name> 
 		<description>Beeroth Bene-jaakan / Birein</description>
 		<description>another name for Bene-jaakan</description>
 		<styleUrl>#landpoint</styleUrl>
@@ -3048,10 +3072,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Bết Giê‑si‑mốt (Beth-jeshimoth)</name>
+	<name xml:lang="vi">Bết Giê‑si‑mốt (Beth-jeshimoth)</name>
 	<description>Num.33.49, Josh.12.3, Josh.13.20, Ezek.25.9</description>
 	<Placemark>
-		<name>Bết Giê‑si‑mốt</name>
+		<name xml:lang="vi">Bết Giê‑si‑mốt</name>
 		<description>Beth-jeshimoth / Tell Azeimeh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -3440,7 +3464,7 @@
 	<description>Deut.4.43, Josh.20.8, Josh.21.36, 1Chr.6.78</description>
 	<Placemark>
 		<name xml:lang="vi">Bết‑se</name>
-		>Bezer / Umm el Amad</name>
+		<description>Bezer / Umm el Amad</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.90168,31.78603</coordinates>
@@ -3494,6 +3518,18 @@
 	<name xml:lang="vi">Bi‑sốt‑gia (Biziothiah, Bizjothjah)</name>
 	<description>Josh.15.28</description>
 	
+</Folder>
+<Folder>
+	<name xml:lang="vi">Biển Đen (Black Sea, representative point)</name>
+	<description></description>
+	<Placemark>
+		<name xml:lang="vi">Biển Đen</name>
+		<description></description>
+		<styleUrl>#waterrepresentativepoint</styleUrl>
+		<Point>
+			<coordinates>34.040,43.390</coordinates>
+		</Point>
+	</Placemark>
 </Folder>
 <Folder>
 	<name xml:lang="vi">Bô‑kim (Bochim, Bokim)</name>
@@ -4420,6 +4456,17 @@
 				</LinearRing>
 			</outerBoundaryIs>
 		</Polygon>
+	</Placemark>
+</Folder>
+<Folder>
+	<name xml:lang="vi">Cyrenaica (Cyrenaica, region)</name>
+	<description></description>
+	<Placemark>
+	<name xml:lang="vi">Cyrenaica</name>
+		<styleUrl>#landrepresentativepoint</styleUrl>
+		<Point>
+			<coordinates>22.070,31.496</coordinates>
+		</Point>
 	</Placemark>
 </Folder>
 <Folder>
@@ -6002,11 +6049,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">Ga‑la‑ti (Galatia)</name>
+	<name xml:lang="vi">Ga-la-ti (Galatia, region)</name>
 	<description>Acts.16.6, Acts.18.23,1Cor.16.1, Gal.1.2,2Tim.4.10, 1Pet.1.1</description>
 	<Placemark>
-	<name xml:lang="vi">Ga‑la‑ti</name>
-	<description>Galatia (approximate boundary)</description>
+	<name xml:lang="vi">Ga-la-ti</name>
 	<styleUrl>#region</styleUrl>
 	<Polygon>
 		<tesselate>1</tesselate>
@@ -6150,12 +6196,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">Gát (Gath 3, Gittite)</name>
+	<name xml:lang="vi">Gát (Gath 3)</name>
 	<description>2Sam.6.10, 1Chr.13.13</description>
 	<Placemark>
 		<name xml:lang="vi">Gát</name>
-		<description>Gath 3 / Tell es Safi</description>
-		<description>another name for Gath 1</description>
+		<description>Gath 3 / Tell es Safi, another name for Gath 1</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.84694,31.69972</coordinates>
@@ -6213,16 +6258,11 @@
 	<name>Gaulanitis</name>
 	<description></description>
 	<Placemark>
-	<name>Gaulanitis</name>
-	<styleUrl>#region</styleUrl>
-	<Polygon>
-		<tesselate>1</tesselate>
-		<outerBoundaryIs>
-			<LinearRing>
-				<coordinates>***</coordinates>
-			</LinearRing>
-		</outerBoundaryIs>
-	</Polygon>
+		<name>Gaulanitis</name>
+		<styleUrl>#landrepresentativepoint</styleUrl>
+		<Point>
+			<coordinates>35.75116,33.10646</coordinates>
+		</Point>
 	</Placemark>
 </Folder>
 <Folder>
@@ -6795,10 +6835,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">Vùng Ga‑la‑át (Gilead 1)</name>
+	<name xml:lang="vi">Ga‑la‑át (Gilead 1)</name>
 	<description>Gen.31.21, Gen.31.23, Gen.31.25, Gen.37.25, Num.32.1, Num.32.26, Num.32.29, Num.32.39, Num.32.40, Num.32.41, Deut.2.36, Deut.3.10, Deut.3.12, Deut.3.13, Deut.3.15, Deut.3.16, Deut.4.43, Deut.34.1, Josh.12.2, Josh.12.5, Josh.13.11, Josh.13.25, Josh.13.31, Josh.17.1, Josh.17.5, Josh.17.6, Josh.20.8, Josh.21.38, Josh.22.9, Josh.22.13, Josh.22.15, Josh.22.32, Judg.5.17, Judg.10.3, Judg.10.4, Judg.10.8, Judg.10.17, Judg.10.18, Judg.11.5, Judg.11.7, Judg.11.8, Judg.11.9, Judg.11.10, Judg.11.11, Judg.11.29, Judg.12.4, Judg.12.5, Judg.12.7, Judg.20.1, 1Sam.13.7,2Sam.2.9, 2Sam.17.26, 2Sam.17.27, 2Sam.19.31, 2Sam.24.6, 1Kgs.2.7, 1Kgs.4.13, 1Kgs.4.19, 1Kgs.17.1, 2Kgs.10.33, 2Kgs.15.25, 2Kgs.15.29, 1Chr.2.22, 1Chr.5.9, 1Chr.5.10, 1Chr.5.16, 1Chr.6.80, 1Chr.26.31, 1Chr.27.21, Ezra.2.61, Neh.7.63, Ps.60.7, Ps.108.8, Song.4.1, Song.6.5, Jer.8.22, Jer.22.6, Jer.46.11, Jer.50.19, Ezek.47.18,Hos.12.11, Amos.1.3, Amos.1.13,Obad.1.19, Mic.7.14,Zech.10.10</description>
 	<Placemark>
-	<name xml:lang="vi">Vùng Ga‑la‑át</name>
+	<name xml:lang="vi">Ga‑la‑át</name>
 	<styleUrl>#region</styleUrl>
 	<Polygon>
 		<tesselate>1</tesselate>
@@ -6905,7 +6945,18 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">Ghi‑tha‑im (Gittaim)</name>
+	<name>Gischala</name>
+	<description></description>
+	<Placemark>
+		<name>Gischala</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>35.445278,33.026111</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
+	<name>Gittaim</name>
 	<description>2Sam.4.3, Neh.11.33</description>
 	<Placemark>
 		<name xml:lang="vi">Ghi‑tha‑im</name>
@@ -8811,10 +8862,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Italy</name>
+	<name xml:lang="vi">I‑ta‑li‑a (Italy)</name>
 	<description>Acts.18.2, Acts.27.1, Acts.27.6,Heb.13.24</description>
 	<Placemark>
-		<name>Italy</name>
+		<name xml:lang="vi">I‑ta‑li‑a</name>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -8995,14 +9046,14 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">Gia‑hát (Jamnia, Jabneel)</name>
+	<name>Jamnia</name>
 	<description></description>
 	<Placemark>
-		<name xml:lang="vi"></name>
-		<description>Jahaz / Khirbet el Medeiyineh</description>
+		<name>Jamnia</name>
+		<description>Yavne</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
-			<coordinates>35.907928,31.588347</coordinates>
+			<coordinates>34.733333,31.883333</coordinates>
 		</Point>
 	</Placemark>
 </Folder>
@@ -9445,10 +9496,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">Miền Giu‑đê (Judea 1, Judaea, NT region)</name>
+	<name xml:lang="vi">Giu‑đê (Judea 1, Judaea, NT region)</name>
 	<description>Matt.2.1, Matt.2.5, Matt.2.22, Matt.3.1, Matt.3.5, Matt.4.12, Matt.4.25, Matt.19.1, Matt.24.16, Mark.1.5, Mark.3.7, Mark.10.1, Mark.13.14,Luke.1.5, Luke.1.39, Luke.1.65, Luke.2.4, Luke.3.1, Luke.4.44, Luke.5.17, Luke.6.17, Luke.7.17, Luke.21.21, Luke.23.5, Luke.23.51, John.3.22, John.4.3, John.4.47, John.4.54, John.7.1, John.7.3, John.11.7, John.11.8, John.11.54, Acts.1.8, Acts.2.9, Acts.2.14, Acts.8.1, Acts.9.31, Acts.10.37, Acts.10.39, Acts.11.1, Acts.11.29, Acts.12.19, Acts.15.1, Acts.21.10, Acts.26.20, Acts.28.21,Rom.15.31,2Cor.1.16, Gal.1.22,1Thess.2.14</description>
 	<Placemark>
-		<name xml:lang="vi">Miền Giu‑đê</name>
+		<name xml:lang="vi">Giu‑đê</name>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -9461,10 +9512,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">Xứ Giu‑đa (Judea 2, Judah, OT region)</name>
+	<name xml:lang="vi">Giu‑đa (Judea 2, Judah, OT region)</name>
 	<description>Ezra.5.8, Ezra.9.9</description>
 	<Placemark>
-	<name xml:lang="vi">Xứ Giu‑đa</name>
+	<name xml:lang="vi">Giu‑đa</name>
 	<styleUrl>#region</styleUrl>
 	<Polygon>
 		<tesselate>1</tesselate>
@@ -10831,10 +10882,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Malta (Melita)</name>
+	<name xml:lang="vi">Man‑tơ (Malta, Melita)</name>
 	<description>Acts.28.1</description>
 	<Placemark>
-		<name>Malta</name>
+		<name xml:lang="vi">Man‑tơ</name>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -11007,10 +11058,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Medeba</name>
+	<name xml:lang="vi">Mê‑đê‑ba (Medeba)</name>
 	<description>Num.21.30, Josh.13.9, Josh.13.16, 1Chr.19.7, Isa.15.2</description>
 	<Placemark>
-		<name>Medeba / Madaba</name>
+		<name xml:lang="vi">Mê‑đê‑ba</name>
+		<description>Medeba / Madaba</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.79548,31.716107</coordinates>
@@ -13008,6 +13060,22 @@
 	</Placemark>
 </Folder>
 <Folder>
+	<name xml:lang="vi">Palestine (Palestine, region)</name>
+	<description></description>
+	<Placemark>
+	<name xml:lang="vi">Palestine</name>
+	<styleUrl>#region</styleUrl>
+	<Polygon>
+		<tesselate>1</tesselate>
+		<outerBoundaryIs>
+			<LinearRing>
+				<coordinates>35.84776,34.12978 35.43871,33.42509 34.82513,32.07444 34.62061,31.54592 34.62061,31.4872 34.62061,31.42847 34.62061,31.36975 34.62061,31.31102 34.62061,31.2523 34.82513,31.19358 34.89331,31.19358 34.96148,31.19358 35.16601,31.36975 35.23418,31.4872 35.50688,32.01571 35.64323,32.48551 35.71141,32.7204 35.77958,32.9553 35.84776,33.19019 36.05228,34.1885 35.98411,34.1885 35.91593,34.1885 35.84776,34.12978</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+</Folder>
+<Folder>
 	<name>Pamphylia</name>
 	<description>Acts.2.10, Acts.13.13, Acts.14.24, Acts.15.38, Acts.27.5</description>
 	<Placemark>
@@ -13024,10 +13092,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Paphos</name>
+	<name xml:lang="vi">Pa‑phô (Paphos)</name>
 	<description>Acts.13.6, Acts.13.13</description>
 	<Placemark>
-		<name>Paphos / New Paphos</name>
+		<name xml:lang="vi">Pa‑phô</name>
+		<description>Paphos / New Paphos</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>32.404167,34.755667</coordinates>
@@ -13111,10 +13180,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Patmos</name>
+	<name xml:lang="vi">Pát‑mô (Patmos)</name>
 	<description>Rev.1.9</description>
 	<Placemark>
-		<name>Patmos</name>
+		<name xml:lang="vi">Pát‑mô</name>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -13152,6 +13221,17 @@
 			</LinearRing>
 		</outerBoundaryIs>
 	</Polygon>
+	</Placemark>
+</Folder>
+<Folder>
+	<name>Pella</name>
+	<description></description>
+	<Placemark>
+		<name>Pella</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>35.616667,32.45</coordinates>
+		</Point>
 	</Placemark>
 </Folder>
 <Folder>
@@ -13206,19 +13286,14 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Perea</name>
+	<name>Perea (Perea)</name>
 	<description></description>
 	<Placemark>
-	<name>Perea</name>
-	<styleUrl>#region</styleUrl>
-	<Polygon>
-		<tesselate>1</tesselate>
-		<outerBoundaryIs>
-			<LinearRing>
-				<coordinates>***</coordinates>
-			</LinearRing>
-		</outerBoundaryIs>
-	</Polygon>
+		<name>Perea</name>
+		<styleUrl>#landrepresentativepoint</styleUrl>
+		<Point>
+			<coordinates>35.6725,31.9944</coordinates>
+		</Point>
 	</Placemark>
 </Folder>
 <Folder>
@@ -13347,10 +13422,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Philippi</name>
+	<name xml:lang="vi">Phi-líp (Philippi)</name>
 	<description>Acts.16.12, Acts.20.6, Phil.1.1,1Thess.2.2</description>
 	<Placemark>
-		<name>Philippi</name>
+		<name xml:lang="vi">Phi-líp</name>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>24.284576,41.012072</coordinates>
@@ -13515,6 +13590,16 @@
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>38.0865,36.7014</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
+	<name>Pompeii</name>
+	<Placemark>
+		<name>Pompeii</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>14.486111,40.75</coordinates>
 		</Point>
 	</Placemark>
 </Folder>
@@ -14788,16 +14873,31 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Seleucia</name>
+	<name xml:lang="vi">Sê‑lơ‑xi (Seleucia, Acts)</name>
 	<description>Acts.13.4</description>
 	<Placemark>
-		<name>Seleucia / Seleucia Pieria</name>
+		<name xml:lang="vi">Sê‑lơ‑xi</name>
+		<description>Seleucia / Seleucia Pieria</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.922,36.124</coordinates>
 		</Point>
 	</Placemark>
 </Folder>
+<Folder>
+	<name xml:lang="vi">Sê‑lơ‑xi (Seleucia, Encountering NT)</name>
+	<description></description>
+	<Placemark>
+		<name xml:lang="vi">Sê‑lơ‑xi</name>
+		<description></description>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>35.8284,33.0080</coordinates>
+			<!-- <coordinates>35.869722,32.681111</coordinates> -->
+		</Point>
+	</Placemark>
+</Folder>
+
 <Folder>
 	<name>Senaah</name>
 	<description>Ezra.2.35, Neh.3.3, Neh.7.38</description>
@@ -16136,10 +16236,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Tarsus</name>
+	<name xml:lang="vi">Tạt‑sơ (Tarsus)</name>
 	<description>Acts.9.11, Acts.9.30, Acts.11.25, Acts.21.39, Acts.22.3</description>
 	<Placemark>
-		<name>Tarsus</name>
+		<name xml:lang="vi">Tạt‑sơ</name>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.892056,36.913028</coordinates>
@@ -16366,10 +16466,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Thessalonica</name>
+	<name xml:lang="vi">Tê-sa-lô-ni-ca (Thessalonica)</name>
 	<description>Acts.17.1, Acts.17.11, Acts.17.13, Acts.20.4, Acts.27.2, Phil.4.16,1Thess.1.1,2Thess.1.1,2Tim.4.10</description>
 	<Placemark>
-		<name>Thessalonica / Thessaloniki</name>
+		<name xml:lang="vi">Tê-sa-lô-ni-ca</name>
+		<description>Thessalonica / Thessaloniki</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>22.945767,40.637771</coordinates>

@@ -10661,10 +10661,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Maacah (Maakah)</name>
+	<name xml:lang="vi">Ma‑a‑ca (Maacah, Maakah)</name>
 	<description>Josh.12.5, Josh.13.11, Josh.13.13,2Sam.10.6, 2Sam.10.8, 2Sam.23.34, 1Chr.19.6, 1Chr.19.7</description>
 	<Placemark>
-	<name>Maacah (approximate boundary)</name>
+	<name xml:lang="vi">Ma‑a‑ca</name>
+	<description>Maacah (approximate boundary)</description>
 	<styleUrl>#region</styleUrl>
 	<Polygon>
 		<tesselate>1</tesselate>
@@ -10677,10 +10678,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Maarath</name>
+	<name xml:lang="vi">Ma‑a‑rát (Maarath)</name>
 	<description>Josh.15.59</description>
 	<Placemark>
-		<name>Maarath / Khirbet Qufin</name>
+		<name xml:lang="vi">Ma‑a‑rát</name>
+		<description>Maarath / Khirbet Qufin</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.11352,31.62071</coordinates>
@@ -10688,10 +10690,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Maareh-geba</name>
+	<name xml:lang="vi">Ghi‑bê‑a (Maareh-geba)</name>
 	<description>Judg.20.33</description>
 	<Placemark>
-		<name>Maareh-geba / within 2 km of Tel el Ful</name>
+		<name xml:lang="vi">Ghi‑bê‑a</name>
+		<description>Maareh-geba / within 2 km of Tel el Ful</description>
 		<description>within 2 km of Gibeah 1</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
@@ -10721,10 +10724,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Machbenah (Makbenah, Machbena, Macbenah)</name>
+	<name xml:lang="vi">Mác‑bê‑na (Machbenah, Makbenah, Machbena, Macbenah)</name>
 	<description>1Chr.2.49</description>
 	<Placemark>
-		<name>Machbenah / Khirbet Hebra</name>
+		<name xml:lang="vi">Mác‑bê‑na</name>
+		<description>Machbenah / Khirbet Hebra</description>
 		<description>another name for Cabbon</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -10755,10 +10759,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Madmannah</name>
+	<name xml:lang="vi">Mát‑ma‑na (Madmannah)</name>
 	<description>Josh.15.31, 1Chr.2.49</description>
 	<Placemark>
-		<name>Madmannah / Khirbet Tatrit</name>
+		<name xml:lang="vi">Mát‑ma‑na</name>
+		<description>Madmannah / Khirbet Tatrit</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.928577,31.350265</coordinates>
@@ -10766,10 +10771,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Madmen</name>
+	<name xml:lang="vi">Mát‑mên (Madmen)</name>
 	<description>Jer.48.2</description>
 	<Placemark>
-		<name>Madmen / Dimnah</name>
+		<name xml:lang="vi">Mát‑mên</name>
+		<description>Madmen / Dimnah</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.704811,31.291821</coordinates>
@@ -10777,10 +10783,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Madmenah</name>
+	<name xml:lang="vi">Mát‑mê‑na (Madmenah)</name>
 	<description>Isa.10.31</description>
 	<Placemark>
-		<name>Madmenah / Shufat</name>
+		<name xml:lang="vi">Mát‑mê‑na</name>
+		<description>Madmenah / Shufat</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.22322,31.82014</coordinates>
@@ -10800,10 +10807,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Magadan (Magdala)</name>
+	<name xml:lang="vi">Ma‑ga‑đan (Magadan, Magdala)</name>
 	<description>Matt.15.39</description>
 	<Placemark>
-		<name>Magadan / Majdal</name>
+		<name xml:lang="vi">Ma‑ga‑đan</name>
+		<description>Magadan / Majdal</description>
 		<description>another name for Magdala</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -10812,10 +10820,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Magbish</name>
+	<name xml:lang="vi">Mách‑bi (Magbish)</name>
 	<description>Ezra.2.30</description>
 	<Placemark>
-		<name>Magbish / Khirbet el Makhbiyeh</name>
+		<name xml:lang="vi">Mách‑bi</name>
+		<description>Magbish / Khirbet el Makhbiyeh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.95317,31.63816</coordinates>
@@ -10853,10 +10862,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Magog</name>
+	<name xml:lang="vi">Ma‑gốc (Magog)</name>
 	<description>Ezek.38.2, Ezek.39.6,Rev.20.8</description>
 	<Placemark>
-		<name>Magog / Lydia</name>
+		<name xml:lang="vi">Ma‑gốc</name>
+		<description>Magog / Lydia</description>
 		<description>another name for Lydia</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
@@ -10894,10 +10904,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Mahaneh-dan 1 (Camp of Dan)</name>
+	<name xml:lang="vi">Trại Đan (Mahaneh-dan 1, Camp of Dan)</name>
 	<description>Judg.13.25</description>
 	<Placemark>
-		<name>Mahaneh-dan 1 / in the region between Eshtaol and Zorah</name>
+		<name xml:lang="vi">Trại Đan</name>
+		<description>Mahaneh-dan 1 / in the region between Eshtaol and Zorah</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -10910,10 +10921,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Mahaneh-dan 2 (Camp of Dan)</name>
+	<name xml:lang="vi">Trại Quân Đan (Mahaneh-dan 2, Camp of Dan)</name>
 	<description>Judg.18.12</description>
 	<Placemark>
-		<name>Mahaneh-dan 2 / in the region between Eshtaol and Zorah</name>
+		<name xml:lang="vi">Trại Quân Đan</name>
+		<description>Mahaneh-dan 2 / in the region between Eshtaol and Zorah</description>
 		<description>another name for Mahaneh-dan 1</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
@@ -10927,10 +10939,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Makaz</name>
+	<name xml:lang="vi">Ma‑kát (Makaz)</name>
 	<description>1Kgs.4.9</description>
 	<Placemark>
-		<name>Makaz / Khirbet el Mukheizin</name>
+		<name xml:lang="vi">Ma‑kát</name>
+		<description>Makaz / Khirbet el Mukheizin</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.811181,31.803139</coordinates>
@@ -10990,10 +11003,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Manahath</name>
+	<name xml:lang="vi">Ma‑na‑hát (Manahath)</name>
 	<description>1Chr.8.6</description>
 	<Placemark>
-		<name>Manahath / El Malha</name>
+		<name xml:lang="vi">Ma‑na‑hát</name>
+		<description>Manahath / El Malha</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.18901,31.75367</coordinates>
@@ -11025,10 +11039,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Mareal (Maralah)</name>
+	<name xml:lang="vi">Ma‑rê‑a‑la (Mareal, Maralah)</name>
 	<description>Josh.19.11</description>
 	<Placemark>
-		<name>Mareal / Tell Thorah</name>
+		<name xml:lang="vi">Ma‑rê‑a‑la</name>
+		<description>Mareal / Tell Thorah</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.16869,32.65426</coordinates>
@@ -11036,10 +11051,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Mareshah</name>
+	<name xml:lang="vi">Ma‑rê‑sa (Mareshah)</name>
 	<description>Josh.15.44, 2Chr.11.8, 2Chr.14.9, 2Chr.14.10, 2Chr.20.37, Mic.1.15</description>
 	<Placemark>
-		<name>Mareshah / Tel Maresha</name>
+		<name xml:lang="vi">Ma‑rê‑sa</name>
+		<description>Mareshah / Tel Maresha</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.898241,31.592963</coordinates>
@@ -11047,10 +11063,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Maroth</name>
+	<name xml:lang="vi">Ma‑rốt (Maroth)</name>
 	<description>Mic.1.12</description>
 	<Placemark>
-		<name>Maroth / Khirbet Qufin</name>
+		<name xml:lang="vi">Ma‑rốt</name>
+		<description>Maroth / Khirbet Qufin</description>
 		<description>another name for Maarath</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -11070,10 +11087,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Masrekah</name>
+	<name xml:lang="vi">Ma‑rê‑ca (Masrekah)</name>
 	<description>Gen.36.36, 1Chr.1.47</description>
 	<Placemark>
-		<name>Masrekah / within 5 km of Jebel el Musraq</name>
+		<name xml:lang="vi">Ma‑rê‑ca</name>
+		<description>Masrekah / within 5 km of Jebel el Musraq</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -11086,10 +11104,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Massah</name>
+	<name xml:lang="vi">Ma‑sa (Massah)</name>
 	<description>Exod.17.7, Deut.6.16, Deut.9.22, Deut.33.8, Ps.95.8</description>
 	<Placemark>
-		<name>Massah / within 500 m of Wadi Rufaiyil</name>
+		<name xml:lang="vi">Ma‑sa</name>
+		<description>Massah / within 500 m of Wadi Rufaiyil</description>
 		<description>another name for Meribah 2</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>

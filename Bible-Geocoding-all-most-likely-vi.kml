@@ -12568,10 +12568,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Naamah 2</name>
+	<name xml:lang="vi">Na‑a‑ma (Naamah 2)</name>
 	<description>Job.2.11, Job.11.1, Job.20.1, Job.42.9</description>
 	<Placemark>
-		<name>Naamah 2 / Jebel el Na‘ameh</name>
+		<name xml:lang="vi">Na‑a‑ma</name>
+		<description>Naamah 2 / Jebel el Na‘ameh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>36.8975,27.8825</coordinates>
@@ -12579,10 +12580,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Naarah (Naarath)</name>
+	<name xml:lang="vi">Na‑ra‑tha (Naarah, Naarath)</name>
 	<description>Josh.16.7</description>
 	<Placemark>
-		<name>Naarah / Tell el Jisr</name>
+		<name xml:lang="vi">Na‑ra‑tha</name>
+		<description>Naarah / Tell el Jisr</description>
 		<description>another name for Naaran</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -12591,10 +12593,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Naaran</name>
+	<name xml:lang="vi">Na‑a‑ran (Naaran)</name>
 	<description>1Chr.7.28</description>
 	<Placemark>
-		<name>Naaran / Tell el Jisr</name>
+		<name xml:lang="vi">Na‑a‑ran</name>
+		<description>Naaran / Tell el Jisr</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.42475,31.893472</coordinates>
@@ -12618,10 +12621,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Nahalal</name>
+	<name xml:lang="vi">Na‑ha‑la (Nahalal)</name>
 	<description>Josh.19.15, Josh.21.35, Judg.1.30</description>
 	<Placemark>
-		<name>Nahalal / Tel Nahal</name>
+		<name xml:lang="vi">Na‑ha‑la</name>
+		<description>Nahalal / Tel Nahal</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.07006,32.7988</coordinates>
@@ -12654,10 +12658,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Nahor</name>
+	<name xml:lang="vi">Na‑cô (Nahor)</name>
 	<description>Gen.24.10</description>
 	<Placemark>
-		<name>Nahor / within 170 km of Harran</name>
+		<name xml:lang="vi">Na‑cô</name>
+		<description>Nahor / within 170 km of Harran</description>
 		<description>another name for Nahuru</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
@@ -12687,10 +12692,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Nain</name>
+	<name xml:lang="vi">Na‑in (Nain)</name>
 	<description>Luke.7.11</description>
 	<Placemark>
-		<name>Nain / Nein</name>
+		<name xml:lang="vi">Na‑in</name>
+		<description>Nain / Nein</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.350139,32.630694</coordinates>
@@ -12715,10 +12721,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Naphoth-dor (Naphath-dor, Napheth, Naphat of Dor)</name>
+	<name xml:lang="vi">Cao nguyên Đô‑rơ (Naphoth-dor, Naphath-dor, Napheth, Naphat of Dor)</name>
 	<description>Josh.11.2, Josh.12.23, Josh.17.11, 1Kgs.4.11</description>
 	<Placemark>
-		<name>Naphoth-dor / Tel Dor</name>
+		<name xml:lang="vi">Cao nguyên Đô‑rơ</name>
+		<description>Naphoth-dor / Tel Dor</description>
 		<description>another name for Dor</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -12738,10 +12745,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Neah</name>
+	<name xml:lang="vi">Nê‑a (Neah)</name>
 	<description>Josh.19.13, Josh.19.14</description>
 	<Placemark>
-		<name>Neah / Nimrin</name>
+		<name xml:lang="vi">Nê‑a</name>
+		<description>Neah / Nimrin</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.423456,32.804203</coordinates>
@@ -12749,10 +12757,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Neapolis</name>
+	<name xml:lang="vi">Nê‑a‑pô‑li (Neapolis)</name>
 	<description>Acts.16.11</description>
 	<Placemark>
-		<name>Neapolis / Kavala</name>
+		<name xml:lang="vi">Nê‑a‑pô‑li</name>
+		<description>Neapolis / Kavala</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>24.415,40.935</coordinates>
@@ -12760,10 +12769,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Neballat</name>
+	<name xml:lang="vi">Nê‑ba‑lát (Neballat)</name>
 	<description>Neh.11.34</description>
 	<Placemark>
-		<name>Neballat / Beit Nabala</name>
+		<name xml:lang="vi">Nê‑ba‑lát</name>
+		<description>Neballat / Beit Nabala</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.9589,31.986436</coordinates>
@@ -12771,10 +12781,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Nebo 1</name>
+	<name xml:lang="vi">Nê‑bô (Nebo 1)</name>
 	<description>Num.32.3, Num.32.38, Num.33.47, 1Chr.5.8, Isa.15.2, Jer.48.1, Jer.48.22</description>
 	<Placemark>
-		<name>Nebo 1 / Khirbet al Mukhayyat</name>
+		<name xml:lang="vi">Nê‑bô</name>
+		<description>Nebo 1 / Khirbet al Mukhayyat</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.74386,31.749127</coordinates>
@@ -12782,10 +12793,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Nebo 2</name>
+	<name xml:lang="vi">Nê‑bô (Nebo 2)</name>
 	<description>Ezra.2.29, Neh.7.33</description>
 	<Placemark>
-		<name>Nebo 2 / Nuba</name>
+		<name xml:lang="vi">Nê‑bô</name>
+		<description>Nebo 2 / Nuba</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.036733,31.607211</coordinates>
@@ -12793,10 +12805,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Nebo 3</name>
+	<name xml:lang="vi">Nê‑bô (Nebo 3)</name>
 	<description>Ezra.10.43</description>
 	<Placemark>
-		<name>Nebo 3 / Nuba</name>
+		<name xml:lang="vi">Nê‑bô</name>
+		<description>Nebo 3 / Nuba</description>
 		<description>another name for Nebo 2</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -12821,10 +12834,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Nehelam</name>
+	<name xml:lang="vi">Nê‑hê‑lam (Nehelam)</name>
 	<description>Jer.29.24, Jer.29.31, Jer.29.32</description>
 	<Placemark>
-		<name>Nehelam / Alma</name>
+		<name xml:lang="vi">Nê‑hê‑lam</name>
+		<description>Nehelam / Alma</description>
 		<description>another name for Helam</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -12833,10 +12847,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Neiel</name>
+	<name xml:lang="vi">Nê‑i‑ên (Neiel)</name>
 	<description>Josh.19.27</description>
 	<Placemark>
-		<name>Neiel / Khirbet Yanin</name>
+		<name xml:lang="vi">Nê‑i‑ên</name>
+		<description>Neiel / Khirbet Yanin</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.2219,32.8926</coordinates>
@@ -12844,10 +12859,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Nephtoah (Waters of Nephtoah)</name>
+	<name xml:lang="vi">Nép‑thô‑ách (Nephtoah, Waters of Nephtoah)</name>
 	<description>Josh.15.9, Josh.18.15</description>
 	<Placemark>
-		<name>Nephtoah / Lifta</name>
+		<name xml:lang="vi">Nép‑thô‑ách</name>
+		<description>Nephtoah / Lifta</description>
 		<styleUrl>#waterpoint</styleUrl>
 		<Point>
 			<coordinates>35.196606,31.794392</coordinates>
@@ -12855,10 +12871,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Netaim</name>
+	<name xml:lang="vi">Nê‑ta‑im (Netaim)</name>
 	<description>1Chr.4.23</description>
 	<Placemark>
-		<name>Netaim / Khirbet en Nuweiti</name>
+		<name xml:lang="vi">Nê‑ta‑im</name>
+		<description>Netaim / Khirbet en Nuweiti</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.933932,31.678795</coordinates>
@@ -12866,10 +12883,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Netophah</name>
+	<name xml:lang="vi">Nê‑tô‑pha (Netophah)</name>
 	<description>2Sam.23.28, 2Sam.23.29, 1Chr.9.16, 1Chr.11.30, 1Chr.27.13, 1Chr.27.15, Ezra.2.22, Neh.7.26</description>
 	<Placemark>
-		<name>Netophah / Khirbet Badd Faluh</name>
+		<name xml:lang="vi">Nê‑tô‑pha</name>
+		<description>Netophah / Khirbet Badd Faluh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.22103,31.66765</coordinates>
@@ -12877,10 +12895,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>New Gate</name>
+	<name xml:lang="vi">Cổng Mới (New Gate)</name>
 	<description>Jer.26.10, Jer.36.10</description>
 	<Placemark>
-		<name>New Gate / in Jerusalem</name>
+		<name xml:lang="vi">Cổng Mới</name>
+		<description>New Gate / in Jerusalem</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.234167,31.776667</coordinates>
@@ -12888,10 +12907,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Nezib</name>
+	<name xml:lang="vi">Nết‑síp (Nezib)</name>
 	<description>Josh.15.43</description>
 	<Placemark>
-		<name>Nezib / Khirbet Beit Nesib esh Sharqiyyeh</name>
+		<name xml:lang="vi">Nết‑síp</name>
+		<description>Nezib / Khirbet Beit Nesib esh Sharqiyyeh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.00979,31.58586</coordinates>
@@ -12899,10 +12919,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Nibshan</name>
+	<name xml:lang="vi">Níp‑san (Nibshan)</name>
 	<description>Josh.15.62</description>
 	<Placemark>
-		<name>Nibshan / Khirbet el Maqari</name>
+		<name xml:lang="vi">Níp‑san</name>
+		<description>Nibshan / Khirbet el Maqari</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.38143,31.69945</coordinates>
@@ -12910,10 +12931,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Nicopolis</name>
+	<name xml:lang="vi">Ni‑cô‑pô‑li (Nicopolis)</name>
 	<description>Titus.3.12</description>
 	<Placemark>
-		<name>Nicopolis</name>
+		<name xml:lang="vi">Ni‑cô‑pô‑li</name>
+		<description>Nicopolis</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>20.73736,39.023485</coordinates>
@@ -12933,10 +12955,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Nimrah</name>
+	<name xml:lang="vi">Nim‑ra (Nimrah)</name>
 	<description>Num.32.3</description>
 	<Placemark>
-		<name>Nimrah / Tall Bleibel</name>
+		<name xml:lang="vi">Nim‑ra</name>
+		<description>Nimrah / Tall Bleibel</description>
 		<description>another name for Beth-nimrah</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -12945,10 +12968,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Nimrim (Waters of Nimrim)</name>
+	<name xml:lang="vi">Nim‑rim (Nimrim, Waters of Nimrim)</name>
 	<description>Isa.15.6, Jer.48.34</description>
 	<Placemark>
-		<name>Nimrim / Wadi en Numeirah</name>
+		<name xml:lang="vi">Nim‑rim</name>
+		<description>Nimrim / Wadi en Numeirah</description>
 		<styleUrl>#water</styleUrl>
 		<LineString>
 			<tesselate>1</tesselate>
@@ -12957,12 +12981,13 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Nimrod</name>
+	<name xml:lang="vi">Nim‑rốt (Nimrod)</name>
 	<description>Mic.5.6</description>
 
 		<description>another name for Assyria</description>
 	<Placemark>
-	<name>Nimrod (approximate boundary)</name>
+	<name xml:lang="vi">Nim‑rốt</name>
+	<description>Nimrod (approximate boundary)</description>
 	<styleUrl>#region</styleUrl>
 	<Polygon>
 		<tesselate>1</tesselate>
@@ -12998,10 +13023,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Nobah 1</name>
+	<name xml:lang="vi">Nô‑bách (Nobah 1)</name>
 	<description>Num.32.42</description>
 	<Placemark>
-		<name>Nobah 1 / Qanawat</name>
+		<name xml:lang="vi">Nô‑bách</name>
+		<description>Nobah 1 / Qanawat</description>
 		<description>another name for Kenath</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -13010,10 +13036,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Nobah 2</name>
+	<name xml:lang="vi">Nô‑bách (Nobah 2)</name>
 	<description>Judg.8.11</description>
 	<Placemark>
-		<name>Nobah 2 / Qanawat</name>
+		<name xml:lang="vi">Nô‑bách</name>
+		<description>Nobah 2 / Qanawat</description>
 		<description>another name for Nobah 1</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -13022,7 +13049,7 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Nod</name>
+	<name xml:lang="vi">Nốt (Nod)</name>
 	<description>Gen.4.16</description>
 	
 </Folder>
@@ -13032,10 +13059,11 @@
 	
 </Folder>
 <Folder>
-	<name>Nophah</name>
+	<name xml:lang="vi">Nô‑phách (Nophah)</name>
 	<description>Num.21.30</description>
 	<Placemark>
-	<name>Nophah (approximate boundary)</name>
+	<name xml:lang="vi">Nô‑phách</name>
+	<description>Nophah (approximate boundary)</description>
 	<styleUrl>#region</styleUrl>
 	<Polygon>
 		<tesselate>1</tesselate>
@@ -13048,10 +13076,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>North</name>
+	<name xml:lang="vi">Phương Bắc (North)</name>
 	<description>Dan.11.6, Dan.11.7, Dan.11.8, Dan.11.9, Dan.11.11, Dan.11.13, Dan.11.15, Dan.11.16, Dan.11.28, Dan.11.40</description>
 	<Placemark>
-		<name>North</name>
+		<name xml:lang="vi">Phương Bắc</name>
+		<description>North</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -13064,10 +13093,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>North Gate</name>
+	<name xml:lang="vi">Cổng Bắc (North Gate)</name>
 	<description>1Chr.26.14</description>
 	<Placemark>
-		<name>North Gate / in Jerusalem</name>
+		<name xml:lang="vi">Cổng Bắc</name>
+		<description>North Gate / in Jerusalem</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.234167,31.776667</coordinates>
@@ -13102,10 +13132,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Old Pool</name>
+	<name xml:lang="vi">Ao Cũ (Old Pool)</name>
 	<description>Isa.22.11</description>
 	<Placemark>
-		<name>Old Pool / in Jerusalem</name>
+		<name xml:lang="vi">Ao Cũ</name>
+		<description>Old Pool / in Jerusalem</description>
 		<styleUrl>#waterpoint</styleUrl>
 		<Point>
 			<coordinates>35.234167,31.776667</coordinates>
@@ -13113,10 +13144,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ono</name>
+	<name xml:lang="vi">Ô‑nô (Ono)</name>
 	<description>1Chr.8.12, Ezra.2.33, Neh.6.2, Neh.7.37, Neh.11.35</description>
 	<Placemark>
-		<name>Ono / Kafr Ana</name>
+		<name xml:lang="vi">Ô‑nô</name>
+		<description>Ono / Kafr Ana</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.868056,32.027222</coordinates>
@@ -13124,10 +13156,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ophel</name>
+	<name xml:lang="vi">Ô‑phên (Ophel)</name>
 	<description>2Chr.27.3, 2Chr.33.14, Neh.3.26, Neh.3.27, Neh.11.21</description>
 	<Placemark>
-		<name>Ophel</name>
+		<name xml:lang="vi">Ô‑phên</name>
+		<description>Ophel</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.236222,31.775333</coordinates>
@@ -13151,10 +13184,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ophni</name>
+	<name xml:lang="vi">Óp‑ni (Ophni)</name>
 	<description>Josh.18.24</description>
 	<Placemark>
-		<name>Ophni / Jifna</name>
+		<name xml:lang="vi">Óp‑ni</name>
+		<description>Ophni / Jifna</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.215556,31.961944</coordinates>
@@ -13219,10 +13253,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Pamphylia</name>
+	<name xml:lang="vi">Pam‑phi‑ly (Pamphylia)</name>
 	<description>Acts.2.10, Acts.13.13, Acts.14.24, Acts.15.38, Acts.27.5</description>
 	<Placemark>
-		<name>Pamphylia</name>
+		<name xml:lang="vi">Pam‑phi‑ly</name>
+		<description>Pamphylia</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -13247,10 +13282,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Parah</name>
+	<name xml:lang="vi">Pha‑ra (Parah)</name>
 	<description>Josh.18.23</description>
 	<Placemark>
-		<name>Parah / Khirbet Ein Fara</name>
+		<name xml:lang="vi">Pha‑ra</name>
+		<description>Parah / Khirbet Ein Fara</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.31048,31.8348</coordinates>
@@ -13285,10 +13321,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Parvaim</name>
+	<name xml:lang="vi">Phạt‑va‑im (Parvaim)</name>
 	<description>2Chr.3.6</description>
 	<Placemark>
-		<name>Parvaim / Farwah</name>
+		<name xml:lang="vi">Phạt‑va‑im</name>
+		<description>Parvaim / Farwah</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>43.711389,16.871944</coordinates>
@@ -13296,10 +13333,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Patara</name>
+	<name xml:lang="vi">Pa‑ta‑ra (Patara)</name>
 	<description>Acts.21.1</description>
 	<Placemark>
-		<name>Patara</name>
+		<name xml:lang="vi">Pa‑ta‑ra</name>
+		<description>Patara</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>29.314167,36.260278</coordinates>
@@ -13307,10 +13345,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Pathros (Upper Egypt)</name>
+	<name xml:lang="vi">Pha‑trô (Pathros, Upper Egypt)</name>
 	<description>Isa.11.11, Jer.44.1, Jer.44.15, Ezek.29.14, Ezek.30.14</description>
 	<Placemark>
-		<name>Pathros / Upper Egypt</name>
+		<name xml:lang="vi">Pha‑trô</name>
+		<description>Pathros / Upper Egypt</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -13339,10 +13378,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Pau</name>
+	<name xml:lang="vi">Ba‑u (Pau)</name>
 	<description>Gen.36.39, 1Chr.1.50</description>
 	<Placemark>
-		<name>Pau / along Wadi Fai</name>
+		<name xml:lang="vi">Ba‑u</name>
+		<description>Pau / along Wadi Fai</description>
 		<styleUrl>#path</styleUrl>
 		<LineString>
 			<tesselate>1</tesselate>
@@ -13351,10 +13391,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Pekod</name>
+	<name xml:lang="vi">Phê‑cốt (Pekod)</name>
 	<description>Jer.50.21, Ezek.23.23</description>
 	<Placemark>
-	<name>Pekod (approximate boundary)</name>
+	<name xml:lang="vi">Phê‑cốt</name>
+	<description>Pekod (approximate boundary)</description>
 	<styleUrl>#region</styleUrl>
 	<Polygon>
 		<tesselate>1</tesselate>
@@ -13378,10 +13419,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Pelusium (Sin)</name>
+	<name xml:lang="vi">thành Sin (Pelusium, Sin)</name>
 	<description>Ezek.30.15, Ezek.30.16</description>
 	<Placemark>
-		<name>Pelusium / Tell el Farama</name>
+		<name xml:lang="vi">thành Sin</name>
+		<description>Pelusium / Tell el Farama</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>32.546139,31.042512</coordinates>
@@ -13401,10 +13443,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>People’s Gate (Gate of the People)</name>
+	<name xml:lang="vi">Cổng Dân Chúng (People’s Gate, Gate of the People)</name>
 	<description>Jer.17.19</description>
 	<Placemark>
-		<name>People’s Gate / in Jerusalem</name>
+		<name xml:lang="vi">Cổng Dân Chúng</name>
+		<description>People’s Gate / in Jerusalem</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.234167,31.776667</coordinates>
@@ -13412,10 +13455,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Peor</name>
+	<name xml:lang="vi">Phê‑ô (Peor)</name>
 	<description>Num.23.28, Num.25.3, Num.25.5, Num.25.18, Num.31.16, Deut.4.3, Josh.22.17, Ps.106.28</description>
 	<Placemark>
-		<name>Peor / within 1 km of Khirbet Ayun Musa</name>
+		<name xml:lang="vi">Phê‑ô</name>
+		<description>Peor / within 1 km of Khirbet Ayun Musa</description>
 		<description>within 1 km of Beth-peor</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
@@ -13440,10 +13484,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Perez-uzzah (Outburst Against Uzzah, Perez Uzza)</name>
+	<name xml:lang="vi">Pê‑rết U‑xa (Perez-uzzah, Outburst Against Uzzah, Perez Uzza)</name>
 	<description>2Sam.6.8, 1Chr.13.11</description>
 	<Placemark>
-		<name>Perez-uzzah / within 1 km of Jerusalem</name>
+		<name xml:lang="vi">Pê‑rết U‑xa</name>
+		<description>Perez-uzzah / within 1 km of Jerusalem</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -13456,10 +13501,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Perga</name>
+	<name xml:lang="vi">Pẹt‑giê (Perga)</name>
 	<description>Acts.13.13, Acts.13.14, Acts.14.25</description>
 	<Placemark>
-		<name>Perga</name>
+		<name xml:lang="vi">Pẹt‑giê</name>
+		<description>Perga</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>30.853686,36.960353</coordinates>
@@ -13517,10 +13563,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Pethor</name>
+	<name xml:lang="vi">Phê‑thô‑rơ (Pethor)</name>
 	<description>Num.22.5, Deut.23.4</description>
 	<Placemark>
-		<name>Pethor / Til Barsip</name>
+		<name xml:lang="vi">Phê‑thô‑rơ</name>
+		<description>Pethor / Til Barsip</description>
 		<description>another name for Pitru</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -13608,10 +13655,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Phoenix (Phenice)</name>
+	<name xml:lang="vi">Phê‑nít (Phoenix, Phenice)</name>
 	<description>Acts.27.12</description>
 	<Placemark>
-		<name>Phoenix / Finikas</name>
+		<name xml:lang="vi">Phê‑nít</name>
+		<description>Phoenix / Finikas</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>24.072222,35.2</coordinates>
@@ -13619,10 +13667,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Phrygia</name>
+	<name xml:lang="vi">Phi‑ri‑gi (Phrygia)</name>
 	<description>Acts.2.10, Acts.16.6, Acts.18.23</description>
 	<Placemark>
-		<name>Phrygia</name>
+		<name xml:lang="vi">Phi‑ri‑gi</name>
+		<description>Phrygia</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -13635,10 +13684,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Pi-beseth (Bubastis)</name>
+	<name xml:lang="vi">Phi Bê‑sết (Pi-beseth, Bubastis)</name>
 	<description>Ezek.30.17</description>
 	<Placemark>
-		<name>Pi-beseth / Tell Basteh</name>
+		<name xml:lang="vi">Phi Bê‑sết</name>
+		<description>Pi-beseth / Tell Basteh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>31.51,30.572778</coordinates>
@@ -13687,10 +13737,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Pishon (Pison)</name>
+	<name xml:lang="vi">Bi‑sôn (Pishon, Pison)</name>
 	<description>Gen.2.11</description>
 	<Placemark>
-		<name>Pishon / Wadi al Rummah</name>
+		<name xml:lang="vi">Bi‑sôn</name>
+		<description>Pishon / Wadi al Rummah</description>
 		<styleUrl>#water</styleUrl>
 		<LineString>
 			<tesselate>1</tesselate>
@@ -13699,10 +13750,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Pisidia</name>
+	<name xml:lang="vi">Pi‑si‑đi (Pisidia)</name>
 	<description>Acts.13.14, Acts.14.24</description>
 	<Placemark>
-	<name>Pisidia (approximate boundary)</name>
+	<name xml:lang="vi">Pi‑si‑đi</name>
+	<description>Pisidia (approximate boundary)</description>
 	<styleUrl>#region</styleUrl>
 	<Polygon>
 		<tesselate>1</tesselate>
@@ -13747,10 +13799,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Pontus</name>
+	<name xml:lang="vi">Pông (Pontus)</name>
 	<description>Acts.2.9, Acts.18.2, 1Pet.1.1</description>
 	<Placemark>
-	<name>Pontus (approximate boundary)</name>
+	<name xml:lang="vi">Pông</name>
+	<description>Pontus (approximate boundary)</description>
 	<styleUrl>#region</styleUrl>
 	<Polygon>
 		<tesselate>1</tesselate>
@@ -13763,10 +13816,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Potsherd Gate (Gate of Broken Pots, Gate of the Potsherd)</name>
+	<name xml:lang="vi">Cửa Gốm (Potsherd Gate, Gate of Broken Pots, Gate of the Potsherd)</name>
 	<description>Jer.19.2</description>
 	<Placemark>
-		<name>Potsherd Gate / in Jerusalem</name>
+		<name xml:lang="vi">Cửa Gốm</name>
+		<description>Potsherd Gate / in Jerusalem</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.234167,31.776667</coordinates>
@@ -13774,10 +13828,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ptolemais</name>
+	<name xml:lang="vi">Pê‑tô‑lê‑mai (Ptolemais)</name>
 	<description>Acts.21.7</description>
 	<Placemark>
-		<name>Ptolemais / Acre</name>
+		<name xml:lang="vi">Pê‑tô‑lê‑mai</name>
+		<description>Ptolemais / Acre</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.0692,32.9214</coordinates>
@@ -13829,10 +13884,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Puteoli</name>
+	<name xml:lang="vi">Pu‑xô‑lơ (Puteoli)</name>
 	<description>Acts.28.13</description>
 	<Placemark>
-		<name>Puteoli / Pozzuoli</name>
+		<name xml:lang="vi">Pu‑xô‑lơ</name>
+		<description>Puteoli / Pozzuoli</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>14.120556,40.826111</coordinates>

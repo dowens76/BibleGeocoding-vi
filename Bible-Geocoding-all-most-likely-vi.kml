@@ -7742,7 +7742,7 @@
 	<description>Ezra.2.32, Ezra.2.39, Ezra.10.31, Neh.3.11, Neh.7.35, Neh.7.42, Neh.10.27</description>
 	<Placemark>
 		<name xml:lang="vi">Ha‑rim</name>
-		<description>Harim / Khirbet Huran</name>
+		<description>Harim / Khirbet Huran</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.945729,31.646833</coordinates>
@@ -7979,7 +7979,7 @@
 	<description>Josh.19.5, 1Chr.4.31</description>
 	<Placemark>
 		<name xml:lang="vi">Hát‑sa Su‑sa</name>
-		>Hazar-susah / Khirbet esh Shamsaniyat</name>
+		<description>Hazar-susah / Khirbet esh Shamsaniyat</description>
 		<description>another name for Sansannah</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -8160,7 +8160,7 @@
 	<description>Ezek.27.18</description>
 	<Placemark>
 		<name xml:lang="vi">Hên‑bôn</name>
-		>Helbon / Halbun</name>
+		<description>Helbon / Halbun</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>36.25,33.6667</coordinates>
@@ -11290,8 +11290,7 @@
 	<description>1Chr.27.30, Neh.3.7</description>
 	<Placemark>
 		<name xml:lang="vi">Mê‑rô‑nốt</name>
-		>Meronoth / within 6 km of Tell en Nasbeh</name>
-		<description>within 6 km of Mizpah 3</description>
+		<description>Meronoth / within 6 km of Tell en Nasbeh, within 6 km of Mizpah 3</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>

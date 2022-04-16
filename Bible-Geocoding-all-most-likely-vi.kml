@@ -15652,10 +15652,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Shilhim</name>
+	<name xml:lang="vi">Si‑lim (Shilhim)</name>
 	<description>Josh.15.32</description>
 	<Placemark>
-		<name>Shilhim / Tall al Ajjul</name>
+		<name xml:lang="vi">Si‑lim</name>
+		<description>Shilhim / Tall al Ajjul</description>
 		<description>another name for Sharuhen</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -15664,10 +15665,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Shiloah</name>
+	<name xml:lang="vi">Si‑lô‑ê (Shiloah)</name>
 	<description>Isa.8.6</description>
 	<Placemark>
-		<name>Shiloah / Pool of Siloam</name>
+		<name xml:lang="vi">Si‑lô‑ê</name>
+		<description>Shiloah / Pool of Siloam</description>
 		<description>another name for Siloam</description>
 		<styleUrl>#waterpoint</styleUrl>
 		<Point>
@@ -15728,10 +15730,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Shion</name>
+	<name xml:lang="vi">Si‑ôn (Shion)</name>
 	<description>Josh.19.19</description>
 	<Placemark>
-		<name>Shion / Sirin</name>
+		<name xml:lang="vi">Si‑ôn
+		<description>Shion / Sirin</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.506944,32.654167</coordinates>
@@ -15751,10 +15754,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Shoa</name>
+	<name xml:lang="vi">Sô‑a (Shoa)</name>
 	<description>Ezek.23.23</description>
 	<Placemark>
-		<name>Shoa / about 100 km around the mouth of the Tigris River</name>
+		<name xml:lang="vi">Sô‑a</name>
+		<description>Shoa / about 100 km around the mouth of the Tigris River</description>
 		<description>another name for Sutu</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
@@ -15812,10 +15816,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Sibmah</name>
+	<name xml:lang="vi">Síp‑ma (Sibmah)</name>
 	<description>Num.32.3, Num.32.38, Josh.13.19, Isa.16.8, Isa.16.9, Jer.48.32</description>
 	<Placemark>
-		<name>Sibmah / Qarn al Qubish</name>
+		<name xml:lang="vi">Síp‑ma</name>
+		<description>Sibmah / Qarn al Qubish</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.761314,31.782365</coordinates>
@@ -15823,10 +15828,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Sibraim</name>
+	<name xml:lang="vi">Síp‑ra‑im (Sibraim)</name>
 	<description>Ezek.47.16</description>
 	<Placemark>
-		<name>Sibraim / in the region between Damascus and Hamath</name>
+		<name xml:lang="vi">Síp‑ra‑im</name>
+		<description>Sibraim / in the region between Damascus and Hamath</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -15851,10 +15857,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Silla</name>
+	<name xml:lang="vi">Si‑la (Silla)</name>
 	<description>2Kgs.12.20</description>
 	<Placemark>
-		<name>Silla / in Jerusalem</name>
+		<name xml:lang="vi">Si‑la</name>
+		<description>Silla / in Jerusalem</description>
 		<description>another name for the Millo</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -15863,10 +15870,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Siloam</name>
+	<name xml:lang="vi">Si‑lô‑ê (Siloam)</name>
 	<description>Neh.2.14, Neh.3.15,Luke.13.4, John.9.7, John.9.11</description>
 	<Placemark>
-		<name>Siloam / Pool of Siloam</name>
+		<name xml:lang="vi">Si‑lô‑ê</name>
+		<description>Siloam / Pool of Siloam</description>
 		<styleUrl>#waterpoint</styleUrl>
 		<Point>
 			<coordinates>35.235,31.770556</coordinates>
@@ -15908,10 +15916,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Sirah (Bor Hasirah)</name>
+	<name xml:lang="vi">Si‑ra (Sirah, Bor Hasirah)</name>
 	<description>2Sam.3.26</description>
 	<Placemark>
-		<name>Sirah / Ain Sarah</name>
+		<name xml:lang="vi">Si‑ra</name>
+		<description>Sirah / Ain Sarah</description>
 		<styleUrl>#waterpoint</styleUrl>
 		<Point>
 			<coordinates>35.098819,31.541919</coordinates>
@@ -15919,10 +15928,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Sitnah</name>
+	<name xml:lang="vi">Sít‑na (Sitnah)</name>
 	<description>Gen.26.21</description>
 	<Placemark>
-		<name>Sitnah / within 15 km of Tel Haror</name>
+		<name xml:lang="vi">Sít‑na</name>
+		<description>Sitnah / within 15 km of Tel Haror</description>
 		<description>within 15 km of Gerar</description>
 		<styleUrl>#water</styleUrl>
 		<Polygon>
@@ -16001,10 +16011,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Solomon’s Portico (Solomon’s Colonnade, Solomon’s Porch)</name>
+	<name xml:lang="vi">Hiên cửa Sa‑lô‑môn (Solomon’s Portico, Solomon’s Colonnade, Solomon’s Porch)</name>
 	<description>John.10.23, Acts.3.11, Acts.5.12</description>
 	<Placemark>
-		<name>Solomon’s Portico / in Jerusalem</name>
+		<name xml:lang="vi">Hiên cửa Sa‑lô‑môn</name>
+		<description>Solomon’s Portico / in Jerusalem</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.234167,31.776667</coordinates>
@@ -16012,12 +16023,13 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>South 1 (Negev, Negeb)</name>
+	<name xml:lang="vi">Nê‑ghép (South 1, Negev, Negeb)</name>
 	<description>Zech.7.7</description>
 
 		<description>another name for the Negeb</description>
 	<Placemark>
-	<name>South 1 (approximate boundary)</name>
+	<name xml:lang="vi">Nê‑ghép</name>
+	<description>South 1 (approximate boundary)</description>
 	<styleUrl>#region</styleUrl>
 	<Polygon>
 		<tesselate>1</tesselate>
@@ -16030,12 +16042,13 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>South 2 (Sheba)</name>
+	<name xml:lang="vi">Nam Phương (South 2, Sheba)</name>
 	<description>Matt.12.42,Luke.11.31</description>
 
 		<description>another name for Sheba 1</description>
 	<Placemark>
-	<name>South 2 (approximate boundary)</name>
+	<name xml:lang="vi">Nam Phương</name>
+	<description>South 2 (approximate boundary)</description>
 	<styleUrl>#region</styleUrl>
 	<Polygon>
 		<tesselate>1</tesselate>
@@ -16048,10 +16061,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>South 3</name>
+	<name xml:lang="vi">Phương Nam (South 3)</name>
 	<description>Dan.11.5, Dan.11.6, Dan.11.7, Dan.11.9, Dan.11.11, Dan.11.12, Dan.11.14, Dan.11.15, Dan.11.17, Dan.11.25, Dan.11.29, Dan.11.40</description>
 	<Placemark>
-		<name>South 3 / South 3</name>
+		<name xml:lang="vi">Phương Nam</name>
+		<description>South 3 / South 3</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -16064,10 +16078,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>South Gate</name>
+	<name xml:lang="vi">Cổng Nam (South Gate)</name>
 	<description>1Chr.26.15</description>
 	<Placemark>
-		<name>South Gate / in Jerusalem</name>
+		<name xml:lang="vi">Cổng Nam</name>
+		<description>South Gate / in Jerusalem</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.234167,31.776667</coordinates>
@@ -16102,10 +16117,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Straight Street (Straight)</name>
+	<name xml:lang="vi">Đường Ngay Thẳng (Straight Street, Straight)</name>
 	<description>Acts.9.11</description>
 	<Placemark>
-		<name>Straight Street</name>
+		<name xml:lang="vi">Đường Ngay Thẳng</name>
+		<description>Straight Street</description>
 		<styleUrl>#path</styleUrl>
 		<LineString>
 			<tesselate>1</tesselate>
@@ -16138,10 +16154,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Suph</name>
+	<name xml:lang="vi">Su‑phơ (Suph)</name>
 	<description>Deut.1.1</description>
 	<Placemark>
-		<name>Suph / Gulf of Aqaba</name>
+		<name xml:lang="vi">Su‑phơ</name>
+		<description>Suph / Gulf of Aqaba</description>
 		<description>another name for the Red Sea 2</description>
 		<styleUrl>#water</styleUrl>
 		<Polygon>
@@ -16155,10 +16172,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Suphah</name>
+	<name xml:lang="vi">Su‑pha (Suphah)</name>
 	<description>Num.21.14</description>
 	<Placemark>
-		<name>Suphah / Sufeh</name>
+		<name xml:lang="vi">Su‑pha<name>
+		<description>Suphah / Sufeh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.81749,31.665609</coordinates>
@@ -16166,10 +16184,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Sur (Sur Gate, Foundation Gate)</name>
+	<name xml:lang="vi">Su‑rơ (Sur, Sur Gate, Foundation Gate)</name>
 	<description>2Kgs.11.6</description>
 	<Placemark>
-		<name>Sur / in Jerusalem</name>
+		<name xml:lang="vi">Su‑rơ</name>
+		<description>Sur / in Jerusalem</description>
 		<description>another name for the Gate of the Foundation</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -16229,10 +16248,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Syracuse</name>
+	<name xml:lang="vi">Sy‑ra‑cu‑sơ (Syracuse)</name>
 	<description>Acts.28.12</description>
 	<Placemark>
-		<name>Syracuse</name>
+		<name xml:lang="vi">Sy‑ra‑cu‑sơ</name>
+		<description>Syracuse</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>15.293056,37.063889</coordinates>
@@ -16272,10 +16292,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Syrtis</name>
+	<name xml:lang="vi">Si‑rơ‑tơ (Syrtis)</name>
 	<description>Acts.27.17</description>
 	<Placemark>
-		<name>Syrtis / Sidra</name>
+		<name xml:lang="vi">Si‑rơ‑tơ</name>
+		<description>Syrtis / Sidra</description>
 		<styleUrl>#water</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -16300,10 +16321,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Taanath-shiloh</name>
+	<name xml:lang="vi">Tha‑a‑nát Si‑lô (Taanath-shiloh)</name>
 	<description>Josh.16.6</description>
 	<Placemark>
-		<name>Taanath-shiloh / Khirbet Tana el Fauqa</name>
+		<name xml:lang="vi">Tha‑a‑nát Si‑lô</name>
+		<description>Taanath-shiloh / Khirbet Tana el Fauqa</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.370933,32.176348</coordinates>
@@ -16311,10 +16333,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Tabbath</name>
+	<name xml:lang="vi">Ta‑bát (Tabbath)</name>
 	<description>Judg.7.22</description>
 	<Placemark>
-		<name>Tabbath / Ras Abu Tabat</name>
+		<name xml:lang="vi">Ta‑bát</name>
+		<description>Tabbath / Ras Abu Tabat</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.618929,32.286841</coordinates>
@@ -16380,10 +16403,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Tadmor</name>
+	<name xml:lang="vi">Tát‑mốt (Tadmor)</name>
 	<description>2Chr.8.4</description>
 	<Placemark>
-		<name>Tadmor / Palmyra</name>
+		<name xml:lang="vi">Tát‑mốt</name>
+		<description>Tadmor / Palmyra</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>38.274,34.547</coordinates>
@@ -16408,10 +16432,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Tahpanhes</name>
+	<name xml:lang="vi">Tác‑pha‑nết (Tahpanhes)</name>
 	<description>Jer.2.16, Jer.43.7, Jer.43.8, Jer.43.9, Jer.44.1, Jer.46.14, Ezek.30.18</description>
 	<Placemark>
-		<name>Tahpanhes / Tell Defenneh</name>
+		<name xml:lang="vi">Tác‑pha‑nết</name>
+		<description>Tahpanhes / Tell Defenneh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>32.171389,30.860556</coordinates>
@@ -16419,10 +16444,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Tamar 1 (Tadmor)</name>
+	<name xml:lang="vi">Tát‑mốt (Tamar 1, Tadmor)</name>
 	<description>1Kgs.9.18</description>
 	<Placemark>
-		<name>Tamar 1 / En Hazeva</name>
+		<name xml:lang="vi">Tát‑mốt</name>
+		<description>Tamar 1 / En Hazeva</description>
 		<description>another name for Tamar 2</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -16431,10 +16457,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Tamar 2</name>
+	<name xml:lang="vi">Tha‑ma (Tamar 2)</name>
 	<description>Ezek.47.18, Ezek.47.19, Ezek.48.28</description>
 	<Placemark>
-		<name>Tamar 2 / En Hazeva</name>
+		<name xml:lang="vi">Tha‑ma</name>
+		<description>Tamar 2 / En Hazeva</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.2459,30.8087</coordinates>
@@ -16466,10 +16493,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Taralah</name>
+	<name xml:lang="vi">Tha‑rê‑a‑la (Taralah)</name>
 	<description>Josh.18.27</description>
 	<Placemark>
-		<name>Taralah / Khirbet Erha</name>
+		<name xml:lang="vi">Tha‑rê‑a‑la</name>
+		<description>Taralah / Khirbet Erha</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.236,31.84746</coordinates>
@@ -16532,10 +16560,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Tekoa</name>
+	<name xml:lang="vi">Thê‑cô‑a (Tekoa)</name>
 	<description>2Sam.14.2, 2Sam.14.4, 2Sam.14.9, 2Sam.23.26, 1Chr.2.24, 1Chr.4.5, 1Chr.11.28, 1Chr.27.9, 2Chr.11.6, 2Chr.20.20, Neh.3.5, Neh.3.27, Jer.6.1, Amos.1.1</description>
 	<Placemark>
-		<name>Tekoa / Khirbet Teku’a</name>
+		<name xml:lang="vi">Thê‑cô‑a</name>
+		<description>Tekoa / Khirbet Teku’a</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.21048,31.63247</coordinates>
@@ -16543,10 +16572,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Tel-abib (Tel Aviv)</name>
+	<name xml:lang="vi">Tên A‑bíp (Tel-abib, Tel Aviv)</name>
 	<description>Ezek.3.15</description>
 	<Placemark>
-		<name>Tel-abib / within 50 km of Nippur</name>
+		<name xml:lang="vi">Tên A‑bíp</name>
+		<description>Tel-abib / within 50 km of Nippur</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -16559,10 +16589,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Telassar (Tel Assar)</name>
+	<name xml:lang="vi">Tê‑la‑sa (Telassar, Tel Assar)</name>
 	<description>2Kgs.19.12, Isa.37.12</description>
 	<Placemark>
-		<name>Telassar / Til Barsip</name>
+		<name xml:lang="vi">Tê‑la‑sa</name>
+		<description>Telassar / Til Barsip</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>38.0865,36.7014</coordinates>
@@ -16594,10 +16625,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Tel-harsha (Tel-haresha)</name>
+	<name xml:lang="vi">Tên Hạt‑sa (Tel-harsha, Tel-haresha)</name>
 	<description>Ezra.2.59, Neh.7.61</description>
 	<Placemark>
-		<name>Tel-harsha / within 50 km of Nippur</name>
+		<name xml:lang="vi">Tên Hạt‑sa</name>
+		<description>Tel-harsha / within 50 km of Nippur</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -16610,10 +16642,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Tel-melah</name>
+	<name xml:lang="vi">Tên Mê‑la (Tel-melah)</name>
 	<description>Ezra.2.59, Neh.7.61</description>
 	<Placemark>
-		<name>Tel-melah / within 50 km of Nippur</name>
+		<name xml:lang="vi">Tên Mê‑la</name>
+		<description>Tel-melah / within 50 km of Nippur</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -16626,10 +16659,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Tema</name>
+	<name xml:lang="vi">Thê‑ma (Tema)</name>
 	<description>Job.6.19, Isa.21.14, Jer.25.23</description>
 	<Placemark>
-		<name>Tema / Tayma</name>
+		<name xml:lang="vi">Thê‑ma</name>
+		<description>Tema / Tayma</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>38.551626,27.629703</coordinates>
@@ -16637,10 +16671,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Teman</name>
+	<name xml:lang="vi">Thê‑man (Teman)</name>
 	<description>Jer.49.7, Jer.49.20, Ezek.25.13, Amos.1.12,Obad.1.9,Hab.3.3</description>
 	<Placemark>
-		<name>Teman / Tawilan</name>
+		<name xml:lang="vi">Thê‑man</name>
+		<description>Teman / Tawilan</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.484847,30.330994</coordinates>
@@ -16686,10 +16721,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Thebez</name>
+	<name xml:lang="vi">Thê‑bết (Thebez)</name>
 	<description>Judg.9.50,2Sam.11.21</description>
 	<Placemark>
-		<name>Thebez / Tubas</name>
+		<name xml:lang="vi">Thê‑bết</name>
+		<description>Thebez / Tubas</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.368611,32.322222</coordinates>
@@ -16719,10 +16755,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>The Lord Will Provide (Yahweh-Yireh, Mount, Jehovah-jireh)</name>
+	<name xml:lang="vi">Giê‑hô‑va Cung Ứng (The Lord Will Provide, Yahweh-Yireh, Mount, Jehovah-jireh)</name>
 	<description>Gen.22.14</description>
 	<Placemark>
-		<name>The Lord Will Provide / Mount Moriah</name>
+		<name xml:lang="vi">Giê‑hô‑va Cung Ứng</name>
+		<description>The Lord Will Provide / Mount Moriah</description>
 		<description>another name for Mount Moriah</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -16769,10 +16806,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Three Taverns (Three Inns)</name>
+	<name xml:lang="vi">Ba Quán (Three Taverns, Three Inns)</name>
 	<description>Acts.28.15</description>
 	<Placemark>
-		<name>Three Taverns</name>
+		<name xml:lang="vi">Ba Quán</name>
+		<description>Three Taverns</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>12.873889,41.561944</coordinates>
@@ -16792,10 +16830,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Tiberias</name>
+	<name xml:lang="vi">Ti‑bê‑ri‑át (Tiberias)</name>
 	<description>John.6.23</description>
 	<Placemark>
-		<name>Tiberias</name>
+		<name xml:lang="vi">Ti‑bê‑ri‑át</name>
+		<description>Tiberias</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.544167,32.773611</coordinates>
@@ -16803,10 +16842,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Tibhath (Tebah)</name>
+	<name xml:lang="vi">Ti‑bát (Tibhath, Tebah)</name>
 	<description>2Sam.8.8, 1Chr.18.8</description>
 	<Placemark>
-		<name>Tibhath / in the Beqaa Valley</name>
+		<name xml:lang="vi">Ti‑bát</name>
+		<description>Tibhath / in the Beqaa Valley</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -16872,10 +16912,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Timnath-heres (Timnath-serah)</name>
+	<name xml:lang="vi">Thim‑nát Hê‑re (Timnath-heres, Timnath-serah)</name>
 	<description>Josh.19.50, Josh.24.30, Judg.2.9</description>
 	<Placemark>
-		<name>Timnath-heres / Khirbet Tibnah</name>
+		<name xml:lang="vi">Thim‑nát Hê‑re</name>
+		<description>Timnath-heres / Khirbet Tibnah</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.10729,32.00806</coordinates>
@@ -16883,10 +16924,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Tiphsah 1</name>
+	<name xml:lang="vi">Típ‑sắc (Tiphsah 1)</name>
 	<description>1Kgs.4.24</description>
 	<Placemark>
-		<name>Tiphsah 1 / Dibseh</name>
+		<name xml:lang="vi">Típ‑sắc</name>
+		<description>Tiphsah 1 / Dibseh</description>
 		<description>another name for Thapsacus</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -16895,10 +16937,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Tiphsah 2 (Tappuah)</name>
+	<name xml:lang="vi">Típ‑sắc (Tiphsah 2, Tappuah)</name>
 	<description>2Kgs.15.16</description>
 	<Placemark>
-		<name>Tiphsah 2 / Tell Abu Zarad</name>
+		<name xml:lang="vi">Típ‑sắc</name>
+		<description>Tiphsah 2 / Tell Abu Zarad</description>
 		<description>another name for Tappuah 1</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -16919,10 +16962,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Tishbe</name>
+	<name xml:lang="vi">Thi‑sê‑be (Tishbe)</name>
 	<description>1Kgs.17.1, 2Kgs.1.3, 2Kgs.1.8, 2Kgs.9.36</description>
 	<Placemark>
-		<name>Tishbe / in the region between Kedesh-naphtali and Hazor</name>
+		<name xml:lang="vi">Thi‑sê‑be</name>
+		<description>Tishbe / in the region between Kedesh-naphtali and Hazor</description>
 		<description>another name for Thisbe</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
@@ -16946,10 +16990,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Tob</name>
+	<name xml:lang="vi">Tóp (Tob)</name>
 	<description>Judg.11.3, Judg.11.5,2Sam.10.6, 2Sam.10.8</description>
 	<Placemark>
-		<name>Tob / Et Tayibeh</name>
+		<name xml:lang="vi">Tóp</name>
+		<description>Tob / Et Tayibeh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>36.243889,32.563333</coordinates>
@@ -16957,10 +17002,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Tochen (Token)</name>
+	<name xml:lang="vi">Tô‑ken (Tochen, Token)</name>
 	<description>1Chr.4.32</description>
 	<Placemark>
-		<name>Tochen / Khirbet el Ater</name>
+		<name xml:lang="vi">Tô‑ken</name>
+		<description>Tochen / Khirbet el Ater</description>
 		<description>another name for Ether 1</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -16981,10 +17027,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Topheth (Tophet)</name>
+	<name xml:lang="vi">Tô‑phết (Topheth, Tophet)</name>
 	<description>2Kgs.23.10, Isa.30.33, Jer.7.31, Jer.7.32, Jer.19.6, Jer.19.11, Jer.19.12, Jer.19.13, Jer.19.14</description>
 	<Placemark>
-		<name>Topheth / in the Hinnom Valley</name>
+		<name xml:lang="vi">Tô‑phết</name>
+		<description>Topheth / in the Hinnom Valley</description>
 		<description>in the Valley of Hinnom</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
@@ -16998,10 +17045,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Tower of Hananel</name>
+	<name xml:lang="vi">Tháp Ha‑na‑nê‑ên (Tower of Hananel)</name>
 	<description>Neh.3.1, Neh.12.39, Jer.31.38,Zech.14.10</description>
 	<Placemark>
-		<name>Tower of Hananel / Antonia Fortress</name>
+		<name xml:lang="vi">Tháp Ha‑na‑nê‑ên</name>
+		<description>Tower of Hananel / Antonia Fortress</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.234303,31.780094</coordinates>
@@ -17009,10 +17057,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Tower of Shechem</name>
+	<name xml:lang="vi">Tháp Si‑chem (Tower of Shechem)</name>
 	<description>Judg.9.46, Judg.9.47, Judg.9.49</description>
 	<Placemark>
-		<name>Tower of Shechem / in Tell Balatah</name>
+		<name xml:lang="vi">Tháp Si‑chem</name>
+		<description>Tower of Shechem / in Tell Balatah</description>
 		<description>in Shechem</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -17021,10 +17070,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Tower of the Hundred</name>
+	<name xml:lang="vi">tháp Mê‑a (Tower of the Hundred)</name>
 	<description>Neh.3.1, Neh.12.39</description>
 	<Placemark>
-		<name>Tower of the Hundred / within 500 m of the Antonia Fortress</name>
+		<name xml:lang="vi">tháp Mê‑a</name>
+		<description>Tower of the Hundred / within 500 m of the Antonia Fortress</description>
 		<description>within 500 m of the Tower of Hananel</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
@@ -17038,10 +17088,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Tower of the Ovens (Tower of Furnaces)</name>
+	<name xml:lang="vi">Tháp Lò (Tower of the Ovens, Tower of Furnaces)</name>
 	<description>Neh.3.11, Neh.12.38</description>
 	<Placemark>
-		<name>Tower of the Ovens / in Jerusalem</name>
+		<name xml:lang="vi">Tháp Lò</name>
+		<description>Tower of the Ovens / in Jerusalem</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.234167,31.776667</coordinates>
@@ -17049,10 +17100,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Trachonitis (Traconitis)</name>
+	<name xml:lang="vi">Tra‑cô‑nít (Trachonitis, Traconitis)</name>
 	<description>Luke.3.1</description>
 	<Placemark>
-		<name>Trachonitis / Lajat</name>
+		<name xml:lang="vi">Tra‑cô‑nít</name>
+		<description>Trachonitis / Lajat</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -17093,10 +17145,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Tubal</name>
+	<name xml:lang="vi">Tu‑banh (Tubal)</name>
 	<description>Isa.66.19, Ezek.27.13, Ezek.38.2, Ezek.38.3, Ezek.39.1</description>
 	<Placemark>
-	<name>Tubal (approximate boundary)</name>
+	<name xml:lang="vi">Tu‑banh</name>
+	<description>Tubal (approximate boundary)</description>
 	<styleUrl>#region</styleUrl>
 	<Polygon>
 		<tesselate>1</tesselate>
@@ -17132,10 +17185,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ummah (Umah)</name>
+	<name xml:lang="vi">U‑ma (Ummah, Umah)</name>
 	<description>Josh.19.30</description>
 	<Placemark>
-		<name>Ummah / Tel Akko</name>
+		<name xml:lang="vi">U‑ma</name>
+		<description>Ummah / Tel Akko</description>
 		<description>another name for Acco</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -17160,12 +17214,13 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Uphaz (Ufaz)</name>
+	<name xml:lang="vi">U‑pha (Uphaz, Ufaz)</name>
 	<description>Jer.10.9, Dan.10.5</description>
 
 		<description>another name for Ophir</description>
 	<Placemark>
-	<name>Uphaz (approximate boundary)</name>
+	<name xml:lang="vi">U‑pha</name>
+	<description>Uphaz (approximate boundary)</description>
 	<styleUrl>#region</styleUrl>
 	<Polygon>
 		<tesselate>1</tesselate>
@@ -17178,10 +17233,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Upper Beth-horon</name>
+	<name xml:lang="vi">Bết Hô‑rôn Thượng (Upper Beth-horon)</name>
 	<description>Josh.16.5, 1Chr.7.24, 2Chr.8.5</description>
 	<Placemark>
-		<name>Upper Beth-horon / Beit Ur al Fauqa</name>
+		<name xml:lang="vi">Bết Hô‑rôn Thượng</name>
+		<description>Upper Beth-horon / Beit Ur al Fauqa</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.114167,31.885833</coordinates>
@@ -17189,10 +17245,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Upper Gulloth</name>
+	<name xml:lang="vi">Suối Thượng (Upper Gulloth)</name>
 	<description>Josh.15.19, Judg.1.15</description>
 	<Placemark>
-		<name>Upper Gulloth / within 5 km of Khirbet Rabud</name>
+		<name xml:lang="vi">Suối Thượng</name>
+		<description>Upper Gulloth / within 5 km of Khirbet Rabud</description>
 		<description>another name for Gulloth-mayim</description>
 		<styleUrl>#water</styleUrl>
 		<Polygon>
@@ -17206,10 +17263,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Upper Pool</name>
+	<name xml:lang="vi">Ao Trên (Upper Pool)</name>
 	<description>2Kgs.18.17, Isa.7.3, Isa.36.2</description>
 	<Placemark>
-		<name>Upper Pool / in Jerusalem</name>
+		<name xml:lang="vi">Ao Trên</name>
+		<description>Upper Pool / in Jerusalem</description>
 		<styleUrl>#waterpoint</styleUrl>
 		<Point>
 			<coordinates>35.234167,31.776667</coordinates>
@@ -17315,10 +17373,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Uzal (Izal)</name>
+	<name xml:lang="vi">U‑dan (Uzal, Izal)</name>
 	<description>Ezek.27.19</description>
 	<Placemark>
-		<name>Uzal / Sanaa</name>
+		<name xml:lang="vi">U‑dan</name>
+		<description>Uzal / Sanaa</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>44.2145,15.3551</coordinates>
@@ -17326,10 +17385,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Uzza</name>
+	<name xml:lang="vi">U‑xa (Uzza)</name>
 	<description>2Kgs.21.18, 2Kgs.21.26</description>
 	<Placemark>
-		<name>Uzza / in Jerusalem</name>
+		<name xml:lang="vi">U‑xa</name>
+		<description>Uzza / in Jerusalem</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.234167,31.776667</coordinates>
@@ -17337,10 +17397,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Uzzen-sheerah (Uzzen-sherah)</name>
+	<name xml:lang="vi">U‑xên Sê‑ê‑ra (Uzzen-sheerah, Uzzen-sherah)</name>
 	<description>1Chr.7.24</description>
 	<Placemark>
-		<name>Uzzen-sheerah / within 5 km of Beit Ur al Tahta</name>
+		<name xml:lang="vi">U‑xên Sê‑ê‑ra</name>
+		<description>Uzzen-sheerah / within 5 km of Beit Ur al Tahta</description>
 		<description>within 5 km of Lower Beth-horon</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
@@ -17354,10 +17415,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Valley Gate</name>
+	<name xml:lang="vi">Cổng Thung Lũng (Valley Gate)</name>
 	<description>2Chr.26.9, Neh.2.13, Neh.2.15, Neh.3.13</description>
 	<Placemark>
-		<name>Valley Gate / in Jerusalem</name>
+		<name xml:lang="vi">cổng Thung Lũng</name>
+		<description>Valley Gate / in Jerusalem</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.234167,31.776667</coordinates>
@@ -17365,10 +17427,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Valley of Achor (Valley of Trouble)</name>
+	<name xml:lang="vi">Thung lũng A‑cô (Valley of Achor, Valley of Trouble)</name>
 	<description>Josh.7.24, Josh.7.26, Josh.15.7, Isa.65.10,Hos.2.15</description>
 	<Placemark>
-		<name>Valley of Achor / Al Buqay’ah</name>
+		<name xml:lang="vi">Thung lũng A‑cô</name>
+		<description>Valley of Achor / Al Buqay’ah</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -17381,10 +17444,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Valley of Aijalon (Ajalon)</name>
+	<name xml:lang="vi">Thung lũng A‑gia‑lôn (Valley of Aijalon, Ajalon)</name>
 	<description>Josh.10.12</description>
 	<Placemark>
-	<name>Valley of Aijalon (approximate boundary)</name>
+	<name xml:lang="vi">Thung lũng A‑gia‑lôn</name>
+	<description>Valley of Aijalon (approximate boundary)</description>
 	<styleUrl>#region</styleUrl>
 	<Polygon>
 		<tesselate>1</tesselate>
@@ -17397,10 +17461,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Valley of Aven (Wicked Valley, Aven)</name>
+	<name xml:lang="vi">Trũng A‑ven (Valley of Aven, Wicked Valley, Aven)</name>
 	<description>Amos.1.5</description>
 	<Placemark>
-		<name>Valley of Aven / about 12 km around Baalbek</name>
+		<name xml:lang="vi">Trũng A‑ven</name>
+		<description>Valley of Aven / about 12 km around Baalbek</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -17413,10 +17478,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Valley of Baca (Valley of Baka, Baca Valley, Valley of Weeping)</name>
+	<name xml:lang="vi">Trũng Khóc Lóc (Valley of Baca, Valley of Baka, Baca Valley, Valley of Weeping)</name>
 	<description>Ps.84.6</description>
 	<Placemark>
-		<name>Valley of Baca / within 20 km of Jerusalem</name>
+		<name xml:lang="vi">Trũng Khóc Lóc</name>
+		<description>Valley of Baca / within 20 km of Jerusalem</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -17429,10 +17495,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Valley of Beracah (Valley of Berakah, Valley of Berachah, Valley of Blessing, Berachah)</name>
+	<name xml:lang="vi">Thung Lũng Bê‑ra‑ca (Valley of Beracah, Valley of Berakah, Valley of Berachah, Valley of Blessing, Berachah)</name>
 	<description>2Chr.20.26</description>
 	<Placemark>
-		<name>Valley of Beracah / Wadi el Arrub</name>
+		<name xml:lang="vi">Thung Lũng Bê‑ra‑ca</name>
+		<description>Valley of Beracah / Wadi el Arrub</description>
 		<styleUrl>#path</styleUrl>
 		<LineString>
 			<tesselate>1</tesselate>
@@ -17441,10 +17508,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Valley of Decision</name>
+	<name xml:lang="vi">Thung Lũng Chung Thẩm (Valley of Decision)</name>
 	<description>Joel.3.14</description>
 	<Placemark>
-		<name>Valley of Decision / Valley of Jehoshaphat</name>
+		<name xml:lang="vi">Thung Lũng Chung Thẩm</name>
+		<description>Valley of Decision / Valley of Jehoshaphat</description>
 		<description>another name for the Valley of Jehoshaphat</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
@@ -17491,10 +17559,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Valley of Gerar (Gerar Valley)</name>
+	<name xml:lang="vi">Thung Lũng Ghê‑ra (Valley of Gerar, Gerar Valley)</name>
 	<description>Gen.26.17, Gen.26.19</description>
 	<Placemark>
-		<name>Valley of Gerar / about 3 km around Tel Haror</name>
+		<name xml:lang="vi">Thung Lũng Ghê‑ra</name>
+		<description>Valley of Gerar / about 3 km around Tel Haror</description>
 		<description>about 3 km around Gerar</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
@@ -17508,10 +17577,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Valley of Gibeon (Gibeon)</name>
+	<name xml:lang="vi">Thung Lũng Ga‑ba‑ôn (Valley of Gibeon, Gibeon)</name>
 	<description>Isa.28.21</description>
 	<Placemark>
-		<name>Valley of Gibeon</name>
+		<name xml:lang="vi">Thung Lũng Ga‑ba‑ôn</name>
+		<description>Valley of Gibeon</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -17524,10 +17594,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Valley of Hamon-gog (Valley of Gog’s Hordes, Hordes of Gog Valley, Hamon-gog)</name>
+	<name xml:lang="vi">Thung Lũng Ha‑môn Gót (Valley of Hamon-gog, Valley of Gog’s Hordes, Hordes of Gog Valley, Hamon-gog)</name>
 	<description>Ezek.39.11, Ezek.39.15</description>
 	<Placemark>
-		<name>Valley of Hamon-gog / in the Transjordan</name>
+		<name xml:lang="vi">Thung Lũng Ha‑môn Gót</name>
+		<description>Valley of Hamon-gog / in the Transjordan</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -17540,10 +17611,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Valley of Hebron (Hebron Valley, Hebron)</name>
+	<name xml:lang="vi">Thung Lũng Hếp‑rôn (Valley of Hebron, Hebron Valley, Hebron)</name>
 	<description>Gen.37.14</description>
 	<Placemark>
-		<name>Valley of Hebron</name>
+		<name xml:lang="vi">Thung Lũng Hếp‑rôn</name>
+		<description>Valley of Hebron</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -17556,10 +17628,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Valley of Hinnom (Valley of the Son of Hinnom, Valley of Ben Hinnom, Valley of Slaughter, Ben Hinnom Valley)</name>
+	<name xml:lang="vi">Thung Lũng Hi‑nôm (Valley of Hinnom, Valley of the Son of Hinnom, Valley of Ben Hinnom, Valley of Slaughter, Ben Hinnom Valley)</name>
 	<description>Josh.15.8, Josh.18.16, 2Kgs.23.10, 2Chr.28.3, 2Chr.33.6, Neh.11.30, Jer.2.23, Jer.7.31, Jer.7.32, Jer.19.2, Jer.19.6, Jer.32.35</description>
 	<Placemark>
-		<name>Valley of Hinnom / Hinnom Valley</name>
+		<name xml:lang="vi">Thung Lũng Hi‑nôm</name>
+		<description>Valley of Hinnom / Hinnom Valley</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -17572,10 +17645,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Valley of Iphtahel (Valley of Iphtah El, Iphtah-el Valley, Valley of Jiphthah El, Jiphthah-el)</name>
+	<name xml:lang="vi">Thung Lũng Díp‑thách Ên (Valley of Iphtahel, Valley of Iphtah El, Iphtah-el Valley, Valley of Jiphthah El, Jiphthah-el)</name>
 	<description>Josh.19.14, Josh.19.27</description>
 	<Placemark>
-		<name>Valley of Iphtahel / Wadi el Melek</name>
+		<name xml:lang="vi">Thung Lũng Díp‑thách Ên</name>
+		<description>Valley of Iphtahel / Wadi el Melek</description>
 		<styleUrl>#path</styleUrl>
 		<LineString>
 			<tesselate>1</tesselate>
@@ -17584,10 +17658,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Valley of Jehoshaphat</name>
+	<name xml:lang="vi">Thung Lũng Giô‑sa‑phát (Valley of Jehoshaphat)</name>
 	<description>Joel.3.2, Joel.3.12</description>
 	<Placemark>
-		<name>Valley of Jehoshaphat</name>
+		<name xml:lang="vi">Thung Lũng Giô‑sa‑phát</name>
+		<description>Valley of Jehoshaphat</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -17600,10 +17675,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Valley of Jericho (Plain, Jordan Valley)</name>
+	<name xml:lang="vi">Thung Lũng Giê‑ri‑cô (Valley of Jericho, Plain, Jordan Valley)</name>
 	<description>Deut.34.3</description>
 	<Placemark>
-		<name>Valley of Jericho</name>
+		<name xml:lang="vi">Thung Lũng Giê‑ri‑cô </name>
+		<description>Valley of Jericho</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -17616,10 +17692,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Valley of Jezreel (Jezreel Valley)</name>
+	<name xml:lang="vi">Thung Lũng Gít‑rê‑ên (Valley of Jezreel, Jezreel Valley)</name>
 	<description>Josh.17.16, Judg.6.33, 1Sam.31.7, 1Chr.10.7,Hos.1.5</description>
 	<Placemark>
-		<name>Valley of Jezreel / Jezreel Valley</name>
+		<name xml:lang="vi">Thung Lũng Gít‑rê‑ên</name>
+		<description>Valley of Jezreel / Jezreel Valley</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -17649,10 +17726,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Valley of Mizpeh (Valley of Mizpah, Mizpah Valley)</name>
+	<name xml:lang="vi">Thung Lũng Mích‑pê (Valley of Mizpeh, Valley of Mizpah, Mizpah Valley)</name>
 	<description>Josh.11.8</description>
 	<Placemark>
-		<name>Valley of Mizpeh / about 30 km around Mount Hermon</name>
+		<name xml:lang="vi">Thung Lũng Mích‑pê</name>
+		<description>Valley of Mizpeh / about 30 km around Mount Hermon</description>
 		<description>about 10 km around Mizpah 2</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
@@ -17666,10 +17744,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Valley of Rephaim (Rephaim Valley)</name>
+	<name xml:lang="vi">Thung Lũng Rê‑pha‑im (Valley of Rephaim, Rephaim Valley)</name>
 	<description>Josh.15.8, Josh.18.16,2Sam.5.18, 2Sam.5.22, 2Sam.23.13, 1Chr.11.15, 1Chr.14.9, Isa.17.5</description>
 	<Placemark>
-		<name>Valley of Rephaim</name>
+		<name xml:lang="vi">Thung Lũng Rê‑pha‑im</name>
+		<description>Valley of Rephaim</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -17682,10 +17761,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Valley of Salt (Salt Valley)</name>
+	<name xml:lang="vi">Thung Lũng Muối (Valley of Salt, Salt Valley)</name>
 	<description>2Sam.8.13, 2Kgs.14.7, 1Chr.18.12, 2Chr.25.11, Ps.60.1</description>
 	<Placemark>
-		<name>Valley of Salt / Wadi el Milh</name>
+		<name xml:lang="vi">Thung Lũng Muối</name>
+		<description>Valley of Salt / Wadi el Milh</description>
 		<styleUrl>#path</styleUrl>
 		<LineString>
 			<tesselate>1</tesselate>
@@ -17694,10 +17774,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Valley of Shaveh (Shaveh Valley)</name>
+	<name xml:lang="vi">Thung Lũng Sa‑ve (Valley of Shaveh, Shaveh Valley)</name>
 	<description>Gen.14.17</description>
 	<Placemark>
-		<name>Valley of Shaveh / Kidron River</name>
+		<name xml:lang="vi">Thung Lũng Sa‑ve</name>
+		<description>Valley of Shaveh / Kidron River</description>
 		<description>another name for the King's Valley</description>
 		<styleUrl>#path</styleUrl>
 		<LineString>
@@ -17707,10 +17788,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Valley of Shittim (Wadi Shittim, Valley of Acacia Trees, Valley of Acacias, Shittim)</name>
+	<name xml:lang="vi">Thung Lũng Si‑tim (Valley of Shittim, Wadi Shittim, Valley of Acacia Trees, Valley of Acacias, Shittim)</name>
 	<description>Joel.3.18</description>
 	<Placemark>
-		<name>Valley of Shittim / Wadi en Nar</name>
+		<name xml:lang="vi">Thung Lũng Si‑tim</name>
+		<description>Valley of Shittim / Wadi en Nar</description>
 		<styleUrl>#water</styleUrl>
 		<LineString>
 			<tesselate>1</tesselate>
@@ -17719,10 +17801,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Valley of Siddim (Siddim Valley, Siddim)</name>
+	<name xml:lang="vi">Thung Lũng Si‑điêm (Valley of Siddim, Siddim Valley, Siddim)</name>
 	<description>Gen.14.3, Gen.14.8, Gen.14.10</description>
 	<Placemark>
-		<name>Valley of Siddim / south of the Lisan</name>
+		<name xml:lang="vi">Thung Lũng Si‑điêm</name>
+		<description>Valley of Siddim / south of the Lisan</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -17735,10 +17818,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Valley of Sorek (Sorek Valley)</name>
+	<name xml:lang="vi">Thung Lũng Sô‑réc (Valley of Sorek, Sorek Valley)</name>
 	<description>Judg.16.4</description>
 	<Placemark>
-		<name>Valley of Sorek / Nahal Sorek</name>
+		<name xml:lang="vi">Thung Lũng Sô‑réc</name>
+		<description>Valley of Sorek / Nahal Sorek</description>
 		<styleUrl>#path</styleUrl>
 		<LineString>
 			<tesselate>1</tesselate>
@@ -17747,10 +17831,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Valley of Succoth (Valley of Sukkoth, Vale of Succoth)</name>
+	<name xml:lang="vi">Thung Lũng Su‑cốt (Valley of Succoth, Valley of Sukkoth, Vale of Succoth)</name>
 	<description>Ps.60.6, Ps.108.7</description>
 	<Placemark>
-		<name>Valley of Succoth</name>
+		<name xml:lang="vi">Thung Lũng Su‑cốt</name>
+		<description>Valley of Succoth</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -17776,10 +17861,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Valley of Zeboim (Valley of Zeboyim, Zeboim Valley)</name>
+	<name xml:lang="vi">Thung Lũng Sê‑bô‑im (Valley of Zeboim, Valley of Zeboyim, Zeboim Valley)</name>
 	<description>1Sam.13.18</description>
 	<Placemark>
-		<name>Valley of Zeboim / Wadi Abu ed Diba</name>
+		<name xml:lang="vi">Thung Lũng Sê‑bô‑im</name>
+		<description>Valley of Zeboim / Wadi Abu ed Diba</description>
 		<styleUrl>#path</styleUrl>
 		<LineString>
 			<tesselate>1</tesselate>
@@ -17788,10 +17874,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Valley of Zephathah (Zephathah Valley)</name>
+	<name xml:lang="vi">Thung Lũng Xê‑pha‑ta (Valley of Zephathah, Zephathah Valley)</name>
 	<description>2Chr.14.10</description>
 	<Placemark>
-		<name>Valley of Zephathah / Wadi Safiyeh</name>
+		<name xml:lang="vi">Thung Lũng Xê‑pha‑ta</name>
+		<description>Valley of Zephathah / Wadi Safiyeh</description>
 		<styleUrl>#path</styleUrl>
 		<LineString>
 			<tesselate>1</tesselate>
@@ -17825,10 +17912,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Waheb (Zahab)</name>
+	<name xml:lang="vi">Va‑hép (Waheb, Zahab)</name>
 	<description>Num.21.14</description>
 	<Placemark>
-		<name>Waheb / within 50 km of the Gulf of Aqaba</name>
+		<name xml:lang="vi">Va‑hép</name>
+		<description>Waheb / within 50 km of the Gulf of Aqaba</description>
 		<description>within 50 km of Suphah</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
@@ -17842,10 +17930,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Washer’s Field (Launderer’s Field, Fuller’s Field)</name>
+	<name xml:lang="vi">Cánh Đồng Thợ Giặt (Washer’s Field, Launderer’s Field, Fuller’s Field)</name>
 	<description>2Kgs.18.17, Isa.7.3, Isa.36.2</description>
 	<Placemark>
-		<name>Washer’s Field / within 500 m of Bir Ayub</name>
+		<name xml:lang="vi">Cánh Đồng Thợ Giặt</name>
+		<description>Washer’s Field / within 500 m of Bir Ayub</description>
 		<description>within 500 m of En-rogel</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
@@ -17859,10 +17948,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Water Gate</name>
+	<name xml:lang="vi">Cổng Nước (Water Gate)</name>
 	<description>Neh.3.26, Neh.8.1, Neh.8.3, Neh.8.16, Neh.12.37</description>
 	<Placemark>
-		<name>Water Gate / in Jerusalem</name>
+		<name xml:lang="vi">Cổng Nước</name>
+		<description>Water Gate / in Jerusalem</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.234167,31.776667</coordinates>
@@ -17870,10 +17960,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Waters of Jericho</name>
+	<name xml:lang="vi">Các Suối Giê‑ri‑cô (Waters of Jericho)</name>
 	<description>Josh.16.1</description>
 	<Placemark>
-		<name>Waters of Jericho / Ein as Sultan</name>
+		<name xml:lang="vi">Các Suối Giê‑ri‑cô</name>
+		<description>Waters of Jericho / Ein as Sultan</description>
 		<styleUrl>#waterpoint</styleUrl>
 		<Point>
 			<coordinates>35.444761,31.870489</coordinates>
@@ -17881,10 +17972,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Waters of Merom</name>
+	<name xml:lang="vi">Các Suối Nước Mê‑rôm (Waters of Merom)</name>
 	<description>Josh.11.5, Josh.11.7</description>
 	<Placemark>
-		<name>Waters of Merom / En Meron</name>
+		<name xml:lang="vi">Các Suối Nước Mê‑rôm</name>
+		<description>Waters of Merom / En Meron</description>
 		<styleUrl>#waterpoint</styleUrl>
 		<Point>
 			<coordinates>35.437778,32.978889</coordinates>
@@ -17892,10 +17984,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Way of Holiness (Highway of Holiness, Holy Way)</name>
+	<name xml:lang="vi">Đường Thánh (Way of Holiness, Highway of Holiness, Holy Way)</name>
 	<description>Isa.35.8</description>
 	<Placemark>
-		<name>Way of Holiness / within 10 km of Jerusalem</name>
+		<name xml:lang="vi">Đường Thánh</name>
+		<description>Way of Holiness / within 10 km of Jerusalem</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -17908,10 +18001,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Way of the Red Sea (Red Sea)</name>
+	<name xml:lang="vi">Hướng Biển Đỏ (Way of the Red Sea, Red Sea)</name>
 	<description>Num.14.25, Num.21.4, Deut.1.40, Deut.2.1</description>
 	<Placemark>
-		<name>Way of the Red Sea / road between the Dead Sea and the Gulf of Aqaba</name>
+		<name xml:lang="vi">Hướng Biển Đỏ</name>
+		<description>Way of the Red Sea / road between the Dead Sea and the Gulf of Aqaba</description>
 		<styleUrl>#path</styleUrl>
 		<LineString>
 			<tesselate>1</tesselate>
@@ -17920,10 +18014,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>West Gate</name>
+	<name xml:lang="vi">Cổng Tây (West Gate)</name>
 	<description>1Chr.26.16</description>
 	<Placemark>
-		<name>West Gate / in Jerusalem</name>
+		<name xml:lang="vi">Cổng Tây</name>
+		<description>West Gate / in Jerusalem</description>
 		<description>another name for Shallecheth</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -17932,10 +18027,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Wilderness of Maon (Desert of Maon)</name>
+	<name xml:lang="vi">Hoang Mạc Ma‑ôn (Wilderness of Maon, Desert of Maon)</name>
 	<description>1Sam.23.24, 1Sam.23.25</description>
 	<Placemark>
-	<name>Wilderness of Maon (approximate boundary)</name>
+	<name xml:lang="vi">Hoang Mạc Ma‑ôn</name>
+	<description>Wilderness of Maon (approximate boundary)</description>
 	<styleUrl>#region</styleUrl>
 	<Polygon>
 		<tesselate>1</tesselate>
@@ -17965,10 +18061,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Wilderness of Ziph (Desert of Ziph, Ziph)</name>
+	<name xml:lang="vi">Hoang Mạc Xíp (Wilderness of Ziph, Desert of Ziph, Ziph)</name>
 	<description>1Sam.23.14, 1Sam.23.15, 1Sam.26.2</description>
 	<Placemark>
-	<name>Wilderness of Ziph (approximate boundary)</name>
+	<name xml:lang="vi">Hoang Mạc Xíp</name>
+	<description>Wilderness of Ziph (approximate boundary)</description>
 	<styleUrl>#region</styleUrl>
 	<Polygon>
 		<tesselate>1</tesselate>
@@ -18008,10 +18105,11 @@
   </Placemark>
 </Folder>
 <Folder>
-	<name>Yiron (Iron)</name>
+	<name xml:lang="vi">Gi‑rê‑ôn (Yiron, Iron)</name>
 	<description>Josh.19.38</description>
 	<Placemark>
-		<name>Yiron / Yarun</name>
+		<name xml:lang="vi">Gi‑rê‑ôn</name>
+		<description>Yiron / Yarun</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.416667,33.083333</coordinates>
@@ -18019,10 +18117,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zaanan</name>
+	<name xml:lang="vi">Xa‑a‑nan (Zaanan)</name>
 	<description>Mic.1.11</description>
 	<Placemark>
-		<name>Zaanan / within 12 km of Tell ed Duweir</name>
+		<name xml:lang="vi">Xa‑a‑nan</name>
+		<description>Zaanan / within 12 km of Tell ed Duweir</description>
 		<description>another name for Zenan</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
@@ -18036,10 +18135,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zaanannim</name>
+	<name xml:lang="vi">Sa‑na‑nim (Zaanannim)</name>
 	<description>Josh.19.33, Judg.4.11</description>
 	<Placemark>
-		<name>Zaanannim / Hanot Taggarim</name>
+		<name xml:lang="vi">Sa‑na‑nim</name>
+		<description>Zaanannim / Hanot Taggarim</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.41064,32.72113</coordinates>
@@ -18047,10 +18147,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zair</name>
+	<name xml:lang="vi">Xai‑rơ (Zair)</name>
 	<description>2Kgs.8.21</description>
 	<Placemark>
-		<name>Zair / in the region south of the Lisan</name>
+		<name xml:lang="vi">Xai‑rơ</name>
+		<description>Zair / in the region south of the Lisan</description>
 		<description>another name for Zoar</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
@@ -18101,10 +18202,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zanoah 1</name>
+	<name xml:lang="vi">Xa‑nô‑ách (Zanoah 1)</name>
 	<description>Josh.15.34, Neh.3.13, Neh.11.30</description>
 	<Placemark>
-		<name>Zanoah 1 / Khirbet Zanu</name>
+		<name xml:lang="vi">Xa‑nô‑ách</name>
+		<description>Zanoah 1 / Khirbet Zanu</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.00129,31.71944</coordinates>
@@ -18112,10 +18214,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zanoah 2</name>
+	<name xml:lang="vi">Xa‑nô‑ách (Zanoah 2)</name>
 	<description>Josh.15.56</description>
 	<Placemark>
-		<name>Zanoah 2 / Khirbet Beit Amra</name>
+		<name xml:lang="vi">Xa‑nô‑ách</name>
+		<description>Zanoah 2 / Khirbet Beit Amra</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.053525,31.45015</coordinates>
@@ -18147,10 +18250,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zarephath</name>
+	<name xml:lang="vi">Sa‑rép‑ta (Zarephath)</name>
 	<description>1Kgs.17.9, 1Kgs.17.10,Obad.1.20,Luke.4.26</description>
 	<Placemark>
-		<name>Zarephath / Sarepta</name>
+		<name xml:lang="vi">Sa‑rép‑ta</name>
+		<description>Zarephath / Sarepta</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.295136,33.464227</coordinates>
@@ -18158,10 +18262,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zarethan (Zaretan)</name>
+	<name xml:lang="vi">Xát‑than (Zarethan, Zaretan)</name>
 	<description>Josh.3.16, 1Kgs.4.12, 1Kgs.7.46</description>
 	<Placemark>
-		<name>Zarethan / Tell es Sa’idiyeh</name>
+		<name xml:lang="vi">Xát‑than</name>
+		<description>Zarethan / Tell es Sa’idiyeh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.577241,32.26769</coordinates>
@@ -18186,10 +18291,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zeboim (Zeboyim)</name>
+	<name xml:lang="vi">Sê‑bô‑im (Zeboim, Zeboyim)</name>
 	<description>Neh.11.34</description>
 	<Placemark>
-		<name>Zeboim / Khirbet Sabiyeh</name>
+		<name xml:lang="vi">Sê‑bô‑im</name>
+		<description>Zeboim / Khirbet Sabiyeh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.895503,32.002953</coordinates>
@@ -18197,10 +18303,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zedad</name>
+	<name xml:lang="vi">Xê‑đát (Zedad)</name>
 	<description>Num.34.8, Ezek.47.15</description>
 	<Placemark>
-		<name>Zedad / Sadad</name>
+		<name xml:lang="vi">Xê‑đát</name>
+		<description>Zedad / Sadad</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>36.924189,34.313456</coordinates>
@@ -18208,10 +18315,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zela (Zelah)</name>
+	<name xml:lang="vi">Xê‑la (Zela, Zelah)</name>
 	<description>Josh.18.28,2Sam.21.14</description>
 	<Placemark>
-		<name>Zela / Khirbet Salah</name>
+		<name xml:lang="vi">Xê‑la</name>
+		<description>Zela / Khirbet Salah</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.209636,31.802528</coordinates>
@@ -18219,10 +18327,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zelzah</name>
+	<name xml:lang="vi">Xết‑sa (Zelzah)</name>
 	<description>1Sam.10.2</description>
 	<Placemark>
-		<name>Zelzah / Khirbet Salah</name>
+		<name xml:lang="vi">Xết‑sa</name>
+		<description>Zelzah / Khirbet Salah</description>
 		<description>another name for Zela</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -18231,10 +18340,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zemaraim</name>
+	<name xml:lang="vi">Xê‑ma‑ra‑im (Zemaraim)</name>
 	<description>Josh.18.22</description>
 	<Placemark>
-		<name>Zemaraim / Ras ez Zemara</name>
+		<name xml:lang="vi">Xê‑ma‑ra‑im</name>
+		<description>Zemaraim / Ras ez Zemara</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.295664,31.940843</coordinates>
@@ -18242,10 +18352,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zenan</name>
+	<name xml:lang="vi">Xê‑nan (Zenan)</name>
 	<description>Josh.15.37</description>
 	<Placemark>
-		<name>Zenan / within 12 km of Tell ed Duweir</name>
+		<name xml:lang="vi">Xê‑nan</name>
+		<description>Zenan / within 12 km of Tell ed Duweir</description>
 		<description>within 12 km of Lachish</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
@@ -18271,10 +18382,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zer</name>
+	<name xml:lang="vi">Xe‑rơ (Zer)</name>
 	<description>Josh.19.35</description>
 	<Placemark>
-		<name>Zer / Qarn Hattin</name>
+		<name xml:lang="vi">Xe‑rơ</name>
+		<description>Zer / Qarn Hattin</description>
 		<description>another name for Madon</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -18283,10 +18395,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zered (Zered Valley, Wadi Zered, Zered Brook, Valley of the Zered)</name>
+	<name xml:lang="vi">Xê‑rết (Zered, Zered Valley, Wadi Zered, Zered Brook, Valley of the Zered)</name>
 	<description>Deut.2.13, Deut.2.14</description>
 	<Placemark>
-		<name>Zered / Wadi al Hasa</name>
+		<name xml:lang="vi">Xê‑rết</name>
+		<description>Zered / Wadi al Hasa</description>
 		<styleUrl>#water</styleUrl>
 		<LineString>
 			<tesselate>1</tesselate>
@@ -18295,10 +18408,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zeredah 1 (Zereda)</name>
+	<name xml:lang="vi">Xê‑rê‑đa (Zeredah 1, Zereda)</name>
 	<description>1Kgs.11.26</description>
 	<Placemark>
-		<name>Zeredah 1 / Deir Ghassaneh</name>
+		<name xml:lang="vi">Xê‑rê‑đa</name>
+		<description>Zeredah 1 / Deir Ghassaneh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.09719,32.04638</coordinates>
@@ -18306,10 +18420,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zeredah 2 (Zarethan, Zeredathah)</name>
+	<name xml:lang="vi">Xê‑rê‑đa (Zeredah 2, Zarethan, Zeredathah)</name>
 	<description>2Chr.4.17</description>
 	<Placemark>
-		<name>Zeredah 2 / Tell es Sa’idiyeh</name>
+		<name xml:lang="vi">Xê‑rê‑đa</name>
+		<description>Zeredah 2 / Tell es Sa’idiyeh</description>
 		<description>another name for Zarethan</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -18318,10 +18433,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zererah (Zererath)</name>
+	<name xml:lang="vi">Xê‑rê‑đa (Zererah, Zererath)</name>
 	<description>Judg.7.22</description>
 	<Placemark>
-		<name>Zererah / Tell es Sa’idiyeh</name>
+		<name xml:lang="vi">Xê‑rê‑đa</name>
+		<description>Zererah / Tell es Sa’idiyeh</description>
 		<description>another name for Zeredah 2</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -18330,10 +18446,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zereth-shahar (Zareth-shahar)</name>
+	<name xml:lang="vi">Xê‑rết Ha‑sa‑cha (Zereth-shahar, Zareth-shahar)</name>
 	<description>Josh.13.19</description>
 	<Placemark>
-		<name>Zereth-shahar / Callirrhoe</name>
+		<name xml:lang="vi">Xê‑rết Ha‑sa‑cha</name>
+		<description>Zereth-shahar / Callirrhoe</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.559306,31.597</coordinates>
@@ -18341,10 +18458,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ziddim</name>
+	<name xml:lang="vi">Xi‑đim (Ziddim)</name>
 	<description>Josh.19.35</description>
 	<Placemark>
-		<name>Ziddim / Hattin</name>
+		<name xml:lang="vi">Xi‑đim</name>
+		<description>Ziddim / Hattin</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.45382,32.80758</coordinates>
@@ -18364,10 +18482,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zimri</name>
+	<name xml:lang="vi">Xim‑ri (Zimri)</name>
 	<description>Jer.25.25</description>
 	<Placemark>
-		<name>Zimri / within 650 km of Shush</name>
+		<name xml:lang="vi">Xim‑ri</name>
+		<description>Zimri / within 650 km of Shush</description>
 		<description>within 650 km of Elam</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
@@ -18398,12 +18517,13 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zin 2</name>
+	<name xml:lang="vi">Xin (Zin 2)</name>
 	<description>Num.34.4, Josh.15.3</description>
 
 		<description>another name for Zin 1</description>
 	<Placemark>
-	<name>Zin 2 (approximate boundary)</name>
+	<name xml:lang="vi">Xin</name>
+	<description>Zin 2 (approximate boundary)</description>
 	<styleUrl>#region</styleUrl>
 	<Polygon>
 		<tesselate>1</tesselate>
@@ -18428,10 +18548,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zior</name>
+	<name xml:lang="vi">Si‑ô (Zior)</name>
 	<description>Josh.15.54</description>
 	<Placemark>
-		<name>Zior / within 10 km of Tel Rumeida</name>
+		<name xml:lang="vi">Si‑ô</name>
+		<description>Zior / within 10 km of Tel Rumeida</description>
 		<description>within 10 km of Hebron</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
@@ -18457,10 +18578,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ziph 2</name>
+	<name xml:lang="vi">Xíp (Ziph 2)</name>
 	<description>Josh.15.24</description>
 	<Placemark>
-		<name>Ziph 2 / Khirbet ez Zeifeh</name>
+		<name xml:lang="vi">Xíp</name>
+		<description>Ziph 2 / Khirbet ez Zeifeh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.98188,30.99677</coordinates>
@@ -18468,10 +18590,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ziphron</name>
+	<name xml:lang="vi">Xíp‑rôn (Ziphron)</name>
 	<description>Num.34.9</description>
 	<Placemark>
-		<name>Ziphron / Huwwarin</name>
+		<name xml:lang="vi">Xíp‑rôn</name>
+		<description>Ziphron / Huwwarin</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>37.066667,34.266667</coordinates>
@@ -18479,10 +18602,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Ziz (Pass of Ziz, Ascent of Ziz)</name>
+	<name xml:lang="vi">Xít (Ziz, Pass of Ziz, Ascent of Ziz)</name>
 	<description>2Chr.20.16</description>
 	<Placemark>
-		<name>Ziz / Wadi Hasasah</name>
+		<name xml:lang="vi">Xít</name>
+		<description>Ziz / Wadi Hasasah</description>
 		<styleUrl>#water</styleUrl>
 		<LineString>
 			<tesselate>1</tesselate>
@@ -18491,10 +18615,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zoan</name>
+	<name xml:lang="vi">Xô‑an (Zoan)</name>
 	<description>Num.13.22, Ps.78.12, Ps.78.43, Isa.19.11, Isa.19.13, Isa.30.4, Ezek.30.14</description>
 	<Placemark>
-		<name>Zoan / Tanis</name>
+		<name xml:lang="vi">Xô‑an</name>
+		<description>Zoan / Tanis</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>31.88,30.976944</coordinates>
@@ -18502,10 +18627,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zoar</name>
+	<name xml:lang="vi">Xoa (Zoar)</name>
 	<description>Gen.13.10, Gen.14.2, Gen.14.8, Gen.19.22, Gen.19.23, Gen.19.30, Deut.34.3, Isa.15.5, Jer.48.34</description>
 	<Placemark>
-		<name>Zoar / in the region south of the Lisan</name>
+		<name xml:lang="vi">Xoa</name>
+		<description>Zoar / in the region south of the Lisan</description>
 		<description>in the Valley of Siddim</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
@@ -18519,10 +18645,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zobah</name>
+	<name xml:lang="vi">Xô‑ba (Zobah)</name>
 	<description>1Sam.14.47,2Sam.8.3, 2Sam.8.5, 2Sam.8.12, 2Sam.10.6, 2Sam.10.8, 2Sam.23.36, 1Kgs.11.23, 1Kgs.11.24, 1Chr.11.47, 1Chr.18.5, 1Chr.18.9, 1Chr.19.6, Ps.60.1</description>
 	<Placemark>
-	<name>Zobah (approximate boundary)</name>
+	<name xml:lang="vi">Xô‑ba</name>
+	<description>Zobah (approximate boundary)</description>
 	<styleUrl>#region</styleUrl>
 	<Polygon>
 		<tesselate>1</tesselate>
@@ -18535,10 +18662,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zophim (Lookout Field)</name>
+	<name xml:lang="vi">Xô‑phim (Zophim, Lookout Field)</name>
 	<description>Num.23.14</description>
 	<Placemark>
-		<name>Zophim / on Rujm Siyaghah</name>
+		<name xml:lang="vi">Xô‑phim</name>
+		<description>Zophim / on Rujm Siyaghah</description>
 		<description>on Pisgah</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -18559,10 +18687,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Zuph</name>
+	<name xml:lang="vi">Xu‑phơ (Zuph)</name>
 	<description>1Sam.9.5</description>
 	<Placemark>
-		<name>Zuph / about 10 km around Al Ram</name>
+		<name xml:lang="vi">Xu‑phơ</name>
+		<description>Zuph / about 10 km around Al Ram</description>
 		<description>about 10 km around Ramathaim-zophim</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>

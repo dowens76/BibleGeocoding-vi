@@ -15189,10 +15189,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Sepharad</name>
+	<name xml:lang="vi">Sa‑rép‑ta (Sepharad)</name>
 	<description>Obad.1.20</description>
 	<Placemark>
-		<name>Sepharad / Sardis</name>
+		<name xml:lang="vi">Sa‑rép‑ta</name>
+		<description>Sepharad / Sardis</description>
 		<description>another name for Sardis</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -15201,10 +15202,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Sepharvaim</name>
+	<name xml:lang="vi">Sê‑phạt‑va‑im (Sepharvaim)</name>
 	<description>2Kgs.17.24, 2Kgs.17.31, 2Kgs.18.34, 2Kgs.19.13, Isa.36.19, Isa.37.13</description>
 	<Placemark>
-		<name>Sepharvaim / in the region between Damascus and Hamath</name>
+		<name xml:lang="vi">Sê‑phạt‑va‑im</name>
+		<description>Sepharvaim / in the region between Damascus and Hamath</description>
 		<description>another name for Sibraim</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
@@ -15230,10 +15232,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Serpent’s Stone (Stone of Zoheleth, Zoheleth)</name>
+	<name xml:lang="vi">Tảng đá Xô‑hê‑lết (Serpent’s Stone, Stone of Zoheleth, Zoheleth)</name>
 	<description>1Kgs.1.9</description>
 	<Placemark>
-		<name>Serpent’s Stone / within 100 m of Bir Ayub</name>
+		<name xml:lang="vi">Tảng đá Xô‑hê‑lết</name>
+		<description>Serpent’s Stone / within 100 m of Bir Ayub</description>
 		<description>within 100 m of En-rogel</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
@@ -15247,10 +15250,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Shaalbim</name>
+	<name xml:lang="vi">Sa‑an‑bim (Shaalbim)</name>
 	<description>Josh.19.42, Judg.1.35, 1Kgs.4.9</description>
 	<Placemark>
-		<name>Shaalbim / Salbit</name>
+		<name xml:lang="vi">Sa‑an‑bim</name>
+		<description>Shaalbim / Salbit</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.98714,31.86981</coordinates>
@@ -15258,10 +15262,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Shaalbon</name>
+	<name xml:lang="vi">Sa‑anh‑bôn (Shaalbon)</name>
 	<description>2Sam.23.32, 1Chr.11.33</description>
 	<Placemark>
-		<name>Shaalbon / Salbit</name>
+		<name xml:lang="vi">Sa‑anh‑bôn</name>
+		<description>Shaalbon / Salbit</description>
 		<description>another name for Shaalbim</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -15311,10 +15316,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Shahazumah (Shahazimah)</name>
+	<name xml:lang="vi">Sa‑chát‑si‑ma (Shahazumah, Shahazimah)</name>
 	<description>Josh.19.22</description>
 	<Placemark>
-		<name>Shahazumah / El Karm</name>
+		<name xml:lang="vi">Sa‑chát‑si‑ma</name>
+		<description>Shahazumah / El Karm</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.3666,32.54175</coordinates>
@@ -15339,10 +15345,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Shallecheth (Shalleketh Gate, Shalleketh, Shallecheth Gate)</name>
+	<name xml:lang="vi">Sa‑lê‑kết (Shallecheth, Shalleketh Gate, Shalleketh, Shallecheth Gate)</name>
 	<description>1Chr.26.16</description>
 	<Placemark>
-		<name>Shallecheth / in Jerusalem</name>
+		<name xml:lang="vi">Sa‑lê‑kết</name>
+		<description>Shallecheth / in Jerusalem</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.234167,31.776667</coordinates>
@@ -15374,10 +15381,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Shaphir (Saphir)</name>
+	<name xml:lang="vi">Sa‑phi‑rơ (Shaphir, Saphir)</name>
 	<description>Mic.1.11</description>
 	<Placemark>
-		<name>Shaphir / Khirbet el Qom</name>
+		<name xml:lang="vi">Sa‑phi‑rơ</name>
+		<description>Shaphir / Khirbet el Qom</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.966564,31.534716</coordinates>
@@ -15385,10 +15393,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Sharon 1</name>
+	<name xml:lang="vi">Sa‑rôn (Sharon 1)</name>
 	<description>1Chr.27.29, Song.2.1, Isa.33.9, Isa.35.2, Isa.65.10, Acts.9.35</description>
 	<Placemark>
-		<name>Sharon 1 / Sharon Plain</name>
+		<name xml:lang="vi">Sa‑rôn</name>
+		<description>Sharon 1 / Sharon Plain</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -15401,10 +15410,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Sharon 2</name>
+	<name xml:lang="vi">Sa‑rôn (Sharon 2)</name>
 	<description>1Chr.5.16</description>
 	<Placemark>
-		<name>Sharon 2 / in the Transjordan</name>
+		<name xml:lang="vi">Sa‑rôn</name>
+		<description>Sharon 2 / in the Transjordan</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -15417,10 +15427,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Sharuhen</name>
+	<name xml:lang="vi">Sê‑a‑ru‑chen (Sharuhen)</name>
 	<description>Josh.19.6</description>
 	<Placemark>
-		<name>Sharuhen / Tall al Ajjul</name>
+		<name xml:lang="vi">Sê‑a‑ru‑chen</name>
+		<description>Sharuhen / Tall al Ajjul</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.4041,31.467</coordinates>
@@ -15428,10 +15439,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Shaveh-kiriathaim</name>
+	<name xml:lang="vi">đồng bằng Ki‑ri‑a‑ta‑im (Shaveh-kiriathaim)</name>
 	<description>Gen.14.5</description>
 	<Placemark>
-		<name>Shaveh-kiriathaim / within 1 km of Al Qurayyat</name>
+		<name xml:lang="vi">đồng bằng Ki‑ri‑a‑ta‑im</name>
+		<description>Shaveh-kiriathaim / within 1 km of Al Qurayyat</description>
 		<description>within 1 km of Kiriathaim 1</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
@@ -15473,10 +15485,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Shebarim</name>
+	<name xml:lang="vi">Sê‑ba‑rim (Shebarim)</name>
 	<description>Josh.7.5</description>
 	<Placemark>
-		<name>Shebarim / within 2 km of Et Tell</name>
+		<name xml:lang="vi">Sê‑ba‑rim</name>
+		<description>Shebarim / within 2 km of Et Tell</description>
 		<description>within 2 km of Ai 1</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
@@ -15502,10 +15515,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Sheep Gate</name>
+	<name xml:lang="vi">cổng Chiên (Sheep Gate)</name>
 	<description>Neh.3.1, Neh.3.32, Neh.12.39, John.5.2</description>
 	<Placemark>
-		<name>Sheep Gate / in Jerusalem</name>
+		<name xml:lang="vi">cổng Chiên</name>
+		<description>Sheep Gate / in Jerusalem</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.234167,31.776667</coordinates>
@@ -15513,10 +15527,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Shema</name>
+	<name xml:lang="vi">Sê‑ma (Shema)</name>
 	<description>Josh.15.26</description>
 	<Placemark>
-		<name>Shema / Tel Beer Sheva</name>
+		<name xml:lang="vi">Sê‑ma</name>
+		<description>Shema / Tel Beer Sheva</description>
 		<description>another name for Sheba 2</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -15537,10 +15552,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Shepham</name>
+	<name xml:lang="vi">Sê‑pham (Shepham)</name>
 	<description>Num.34.10, Num.34.11, 1Chr.27.27</description>
 	<Placemark>
-		<name>Shepham / within 100 km of Rableh</name>
+		<name xml:lang="vi">Sê‑pham</name>
+		<description>Shepham / within 100 km of Rableh</description>
 		<description>within 100 km of Riblah 2</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
@@ -15554,10 +15570,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Shephelah (Lowland)</name>
+	<name xml:lang="vi">Miền Sơ‑phê‑la (Shephelah, Lowland)</name>
 	<description>Deut.1.7, Josh.9.1, Josh.10.40, Josh.11.2, Josh.11.16, Josh.12.8, Josh.15.33, Judg.1.9, 1Kgs.10.27, 1Chr.27.28, 2Chr.1.15, 2Chr.9.27, 2Chr.26.10, 2Chr.28.18, Jer.17.26, Jer.32.44, Jer.33.13,Obad.1.19,Zech.7.7</description>
 	<Placemark>
-	<name>Shephelah (approximate boundary)</name>
+	<name xml:lang="vi">Miền Sơ‑phê‑la</name>
+	<description>Shephelah (approximate boundary)</description>
 	<styleUrl>#region</styleUrl>
 	<Polygon>
 		<tesselate>1</tesselate>
@@ -15570,10 +15587,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Sheshach (Babylon, Sheshak)</name>
+	<name xml:lang="vi">Sê‑sác (Sheshach, Babylon, Sheshak)</name>
 	<description>Jer.25.26, Jer.51.41</description>
 	<Placemark>
-		<name>Sheshach / Babylon</name>
+		<name xml:lang="vi">Sê‑sác</name>
+		<description>Sheshach / Babylon</description>
 		<description>another name for Babylon 1</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -15582,10 +15600,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Shihor 1 (Shihor River)</name>
+	<name xml:lang="vi">sông Si‑cô (Shihor 1, Shihor River)</name>
 	<description>Josh.13.3, 1Chr.13.5</description>
 	<Placemark>
-		<name>Shihor 1 / Pelusiac branch of the Nile</name>
+		<name xml:lang="vi">sông Si‑cô</name>
+		<description>Shihor 1 / Pelusiac branch of the Nile</description>
 		<styleUrl>#water</styleUrl>
 		<LineString>
 			<tesselate>1</tesselate>
@@ -15594,10 +15613,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Shihor 2 (River, Egypt, Sihor)</name>
+	<name xml:lang="vi">Si‑ho (Shihor 2, River, Egypt, Sihor)</name>
 	<description>Isa.23.3</description>
 	<Placemark>
-		<name>Shihor 2 / Wadi al Arish</name>
+		<name xml:lang="vi">Si‑ho</name>
+		<description>Shihor 2 / Wadi al Arish</description>
 		<description>another name for the Shihor 1</description>
 		<styleUrl>#water</styleUrl>
 		<LineString>
@@ -15620,10 +15640,11 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Shikkeron (Shicron)</name>
+	<name xml:lang="vi">Siếc‑rôn (Shikkeron, Shicron)</name>
 	<description>Josh.15.11</description>
 	<Placemark>
-		<name>Shikkeron / Tell el Ful</name>
+		<name xml:lang="vi">Siếc‑rôn</name>
+		<description>Shikkeron / Tell el Ful</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.812,31.821483</coordinates>

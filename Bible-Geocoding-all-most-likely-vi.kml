@@ -6571,9 +6571,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name>Gergesa</name>
+	<name>Gergesa?</name>
 	<Placemark>
-		<name>Gergesa / Kursi</name>
+		<name>Gergesa?</name>
+		<description>Gergesa / Kursi</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.650378,32.826086</coordinates>
@@ -14270,6 +14271,17 @@
 			</outerBoundaryIs>
 		</Polygon>
 	</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Biển Đỏ (Red Sea 5, main sea)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Biển Đỏ</name>
+			<styleUrl>#waterrepresentativepoint</styleUrl>
+			<Point>
+				<coordinates>34.632,26.994</coordinates>
+			</Point>
+		</Placemark>
 </Folder>
 <Folder>
 	<name xml:lang="vi">Rê‑hốp (Rehob 1, Num, 2 Sam)</name>

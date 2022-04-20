@@ -15006,10 +15006,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang>biển Gia‑ê‑xe (Sea of Jazer, Jazer)</name>
+	<name xml:lang="vi">biển Gia‑ê‑xe (Sea of Jazer, Jazer)</name>
 	<description>Jer.48.32</description>
 	<Placemark>
-		<name xml:lang>biển Gia‑ê‑xe</name>
+		<name xml:lang="vi">biển Gia‑ê‑xe</name>
 		<description>Sea of Jazer / Khirbet Jazzir</description>
 		<description>another name for Jazer</description>
 		<styleUrl>#landpoint</styleUrl>
@@ -15745,7 +15745,7 @@
 	<name xml:lang="vi">Si‑ôn (Shion)</name>
 	<description>Josh.19.19</description>
 	<Placemark>
-		<name xml:lang="vi">Si‑ôn
+		<name xml:lang="vi">Si‑ôn</name>
 		<description>Shion / Sirin</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -16187,7 +16187,7 @@
 	<name xml:lang="vi">Su‑pha (Suphah)</name>
 	<description>Num.21.14</description>
 	<Placemark>
-		<name xml:lang="vi">Su‑pha<name>
+		<name xml:lang="vi">Su‑pha</name>
 		<description>Suphah / Sufeh</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>

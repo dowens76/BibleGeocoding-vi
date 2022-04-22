@@ -282,10 +282,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">Vùng A‑chai (Achaia)</name>
+	<name xml:lang="vi">A‑chai (Achaia)</name>
 	<description>Acts.18.12, Acts.18.27, Acts.19.21,Rom.15.26,1Cor.16.15,2Cor.1.1, 2Cor.9.2, 2Cor.11.10,1Thess.1.7, 1Thess.1.8</description>
 	<Placemark>
-		<name xml:lang="vi">Vùng A‑chai</name>
+		<name xml:lang="vi">A‑chai</name>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
 			<tesselate>1</tesselate>
@@ -562,6 +562,17 @@
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.52821,32.38152</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
+	<name>Africa (region)</name>
+	<description></description>
+	<Placemark>
+		<name>Africa</name>
+		<styleUrl>#landrepresentativepoint</styleUrl>
+		<Point>
+			<coordinates>11.059,32.467</coordinates>
 		</Point>
 	</Placemark>
 </Folder>
@@ -1446,6 +1457,17 @@
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.184444,32.585278</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
+	<name>Armenia (region)</name>
+	<description></description>
+	<Placemark>
+		<name>Armenia</name>
+		<styleUrl>#landrepresentativepoint</styleUrl>
+		<Point>
+			<coordinates>46.741,39.915</coordinates>
 		</Point>
 	</Placemark>
 </Folder>
@@ -3604,6 +3626,17 @@
 	</Placemark>
 </Folder>
 <Folder>
+	<name xml:lang="vi">Britain</name>
+	<description></description>
+	<Placemark>
+	<name xml:lang="vi"> Britain (Anh)</name>
+		<styleUrl>#landrepresentativepoint</styleUrl>
+		<Point>
+			<coordinates>-1.556,51.947</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
 	<name xml:lang="vi">vách Rộng (Broad Wall)</name>
 	<description>Neh.3.8, Neh.12.38</description>
 	<Placemark>
@@ -3670,6 +3703,18 @@
 				</LinearRing>
 			</outerBoundaryIs>
 		</Polygon>
+	</Placemark>
+</Folder>
+<Folder>
+	<name>Byzantium</name>
+	<description></description>
+	<Placemark>
+		<name>Byzantium</name>
+		<description></description>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>28.955,41.013611</coordinates>
+		</Point>
 	</Placemark>
 </Folder>
 <Folder>
@@ -3872,6 +3917,18 @@
 			</LinearRing>
 		</outerBoundaryIs>
 	</Polygon>
+	</Placemark>
+</Folder>
+<Folder>
+	<name xml:lang="vi">Biển Caspi (Caspian Sea, representative point)</name>
+	<description></description>
+	<Placemark>
+		<name xml:lang="vi">Biển Caspi</name>
+		<description></description>
+		<styleUrl>#waterrepresentativepoint</styleUrl>
+		<Point>
+			<coordinates>50.222,42.490</coordinates>
+		</Point>
 	</Placemark>
 </Folder>
 <Folder>
@@ -4192,7 +4249,7 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">Si‑li‑si (Cilicia)</name>
+	<name xml:lang="vi">Si‑li‑si (Cilicia, NT region)</name>
 	<description>Acts.6.9, Acts.15.23, Acts.15.41, Acts.21.39, Acts.22.3, Acts.23.34, Acts.27.5, Gal.1.21</description>
 	<Placemark>
 	<name xml:lang="vi">Vùng Si‑li‑si</name>
@@ -4459,10 +4516,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">Cyrenaica (Cyrenaica, region)</name>
+	<name xml:lang="vi">Sy‑ren (Cyrenaica, region)</name>
 	<description></description>
 	<Placemark>
-	<name xml:lang="vi">Cyrenaica</name>
+	<name xml:lang="vi">Sy‑ren</name>
 		<styleUrl>#landrepresentativepoint</styleUrl>
 		<Point>
 			<coordinates>22.070,31.496</coordinates>
@@ -4501,6 +4558,17 @@
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.377531,32.697284</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
+	<name>Dacia (region)</name>
+	<description></description>
+	<Placemark>
+		<name>Dacia</name>
+		<styleUrl>#landrepresentativepoint</styleUrl>
+		<Point>
+			<coordinates>27.783,45.974</coordinates>
 		</Point>
 	</Placemark>
 </Folder>
@@ -6251,6 +6319,17 @@
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.292,32.4462</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
+	<name>Gaul (region)</name>
+	<description></description>
+	<Placemark>
+		<name>Gaul</name>
+		<styleUrl>#landrepresentativepoint</styleUrl>
+		<Point>
+			<coordinates>1.168,46.927</coordinates>
 		</Point>
 	</Placemark>
 </Folder>
@@ -11135,6 +11214,17 @@
 	</Placemark>
 </Folder>
 <Folder>
+	<name>Mauretania (region)</name>
+	<description></description>
+	<Placemark>
+		<name>Mauretania</name>
+		<styleUrl>#landrepresentativepoint</styleUrl>
+		<Point>
+			<coordinates>-4.979,34.619</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
 	<name xml:lang="vi">Mê‑a‑ra (Mearah, Arah)</name>
 	<description>Josh.13.4</description>
 	<Placemark>
@@ -11796,6 +11886,17 @@
 			</LinearRing>
 		</outerBoundaryIs>
 	</Polygon>
+	</Placemark>
+</Folder>
+<Folder>
+	<name>Moesia (region)</name>
+	<description></description>
+	<Placemark>
+		<name>Moesia</name>
+		<styleUrl>#landrepresentativepoint</styleUrl>
+		<Point>
+			<coordinates>25.088,44.154</coordinates>
+		</Point>
 	</Placemark>
 </Folder>
 <Folder>
@@ -13317,6 +13418,17 @@
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.234167,31.776667</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
+	<name>Parthia (point)</name>
+	<description></description>
+	<Placemark>
+		<name>Parthia</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>51.229,34.087</coordinates>
 		</Point>
 	</Placemark>
 </Folder>
@@ -14928,6 +15040,17 @@
 	</Placemark>
 </Folder>
 <Folder>
+	<name>Sarmatia (region)</name>
+	<description></description>
+	<Placemark>
+		<name>Sarmatia</name>
+		<styleUrl>#landrepresentativepoint</styleUrl>
+		<Point>
+			<coordinates>29.778,48.601</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
 	<name>Scythia</name>
 	<Placemark>
 		<name>Scythia</name>
@@ -16288,7 +16411,7 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">Sy‑ri (Syria 2)</name>
+	<name xml:lang="vi">Sy‑ri (Syria 2, NT region)</name>
 	<description>Matt.4.24,Luke.2.2, Acts.15.23, Acts.15.41, Acts.18.18, Acts.20.3, Acts.21.3, Gal.1.21</description>
 	<Placemark>
 		<name xml:lang="vi">Sy‑ri</name>

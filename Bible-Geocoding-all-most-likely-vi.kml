@@ -1276,10 +1276,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">Vùng Ả‑rập (Arabia 1)</name>
+	<name xml:lang="vi">Ả‑rập (Arabia 1)</name>
 	<description>1Kgs.10.15, 2Chr.9.14, Isa.21.13, Jer.25.24, Ezek.27.21, Ezek.30.5</description>
 	<Placemark>
-		<name xml:lang="vi">Vùng Ả‑rập</name>
+		<name xml:lang="vi">Ả‑rập</name>
 		<description>Arabia 1 / Arabian Peninsula</description>
 		<styleUrl>#region</styleUrl>
 		<Polygon>
@@ -1851,6 +1851,17 @@
 	</Placemark>
 </Folder>
 <Folder>
+		<name xml:lang="vi">Đại Tây Dương (Atlantic Ocean, point)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Đại Tây Dương</name>
+			<styleUrl>#waterrepresentativepoint</styleUrl>
+			<Point>
+				<coordinates>-11.81,47.46</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
 	<name xml:lang="vi">Ạt‑rốt Bết Giô‑áp (Atroth-beth-joab, Ataroth-Beth-Joab, Ataroth)</name>
 	<description>1Chr.2.54</description>
 	<Placemark>
@@ -2017,6 +2028,18 @@
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.384444,32.727222</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
+	<name xml:lang="vi">A-xốt (Azotus)</name>
+	<description>Acts.8.40</description>
+	<Placemark>
+		<name xml:lang="vi">A-xốt</name>
+		<description>another name for Ashdod</description>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>34.6578,31.7572</coordinates>
 		</Point>
 	</Placemark>
 </Folder>
@@ -4252,7 +4275,7 @@
 	<name xml:lang="vi">Si‑li‑si (Cilicia, NT region)</name>
 	<description>Acts.6.9, Acts.15.23, Acts.15.41, Acts.21.39, Acts.22.3, Acts.23.34, Acts.27.5, Gal.1.21</description>
 	<Placemark>
-	<name xml:lang="vi">Vùng Si‑li‑si</name>
+	<name xml:lang="vi">Si‑li‑si</name>
 	<styleUrl>#region</styleUrl>
 	<Polygon>
 		<tesselate>1</tesselate>
@@ -4372,6 +4395,17 @@
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.234167,31.776667</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
+	<name xml:lang="vi">Corse (Corsica, point)</name>
+	<description></description>
+	<Placemark>
+		<name xml:lang="vi">Corse</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>9.106,42.142</coordinates>
 		</Point>
 	</Placemark>
 </Folder>
@@ -10681,6 +10715,17 @@
 	</Placemark>
 </Folder>
 <Folder>
+	<name>Lybia</name>
+	<description></description>
+	<Placemark>
+		<name xml:lang="vi">Lybia</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>21.889,30.848</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
 	<name xml:lang="vi">Ly‑cao‑ni (Lycaonia)</name>
 	<description>Acts.14.6, Acts.14.11</description>
 	<Placemark>
@@ -13675,6 +13720,18 @@
 	</Placemark>
 </Folder>
 <Folder>
+	<name xml:lang="vi">Vịnh Ba Tư (Persian Gulf, representative point)</name>
+	<description></description>
+	<Placemark>
+		<name xml:lang="vi">Vịnh Ba Tư</name>
+		<description></description>
+		<styleUrl>#waterrepresentativepoint</styleUrl>
+		<Point>
+			<coordinates>49.411,29.046</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
 	<name xml:lang="vi">Phê‑thô‑rơ (Pethor)</name>
 	<description>Num.22.5, Deut.23.4</description>
 	<Placemark>
@@ -15017,6 +15074,17 @@
 	</Placemark>
 </Folder>
 <Folder>
+	<name xml:lang="vi">Sardegna (Sardinia)</name>
+	<description>Rev.1.11, Rev.3.1, Rev.3.4</description>
+	<Placemark>
+		<name xml:lang="vi">Sardegna</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>9.041,40.089</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
 	<name xml:lang="vi">Sạt-đe (Sardis)</name>
 	<description>Rev.1.11, Rev.3.1, Rev.3.4</description>
 	<Placemark>
@@ -15980,6 +16048,17 @@
 	</Placemark>
 </Folder>
 <Folder>
+	<name xml:lang="vi">Sicilia (Sicily, point)</name>
+	<description></description>
+	<Placemark>
+		<name xml:lang="vi">Sicilia</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>14.104,37.535</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
 	<name xml:lang="vi">Si‑đôn (Sidon, Zidon)</name>
 	<description>Gen.10.19, Gen.49.13, Josh.11.8, Josh.13.4, Josh.19.28, Judg.1.31, Judg.10.6, Judg.18.7, Judg.18.28,2Sam.24.6, 1Kgs.11.1, 1Kgs.17.9, 1Chr.22.4, Ezra.3.7, Isa.23.2, Isa.23.4, Isa.23.12, Jer.25.22, Jer.27.3, Jer.47.4, Ezek.27.8, Ezek.28.21, Ezek.28.22, Joel.3.4,Zech.9.2, Matt.11.21, Matt.11.22, Matt.15.21, Mark.3.8, Mark.7.24, Mark.7.31,Luke.4.26, Luke.6.17, Luke.10.13, Luke.10.14, Acts.12.20, Acts.27.3</description>
 	<Placemark>
@@ -16031,6 +16110,17 @@
 				</LinearRing>
 			</outerBoundaryIs>
 		</Polygon>
+	</Placemark>
+</Folder>
+<Folder>
+	<name>Sinope</name>
+	<description>2Kgs.12.20</description>
+	<Placemark>
+		<name>Sinope</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>35.151111,42.026667</coordinates>
+		</Point>
 	</Placemark>
 </Folder>
 <Folder>
@@ -17306,6 +17396,17 @@
 			<coordinates>35.196111,33.270833</coordinates>
 		</Point>
 	</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Biển Tyrrhenum (Tyrrhenium Sea, point)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Biển Tyrrhenum</name>
+			<styleUrl>#waterrepresentativepoint</styleUrl>
+			<Point>
+				<coordinates>12.173,40.014</coordinates>
+			</Point>
+		</Placemark>
 </Folder>
 <Folder>
 	<name xml:lang="vi">Sông U‑lai (Ulai River)</name>

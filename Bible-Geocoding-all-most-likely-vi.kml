@@ -1061,6 +1061,17 @@
 	</Placemark>
 </Folder>
 <Folder>
+	<name>Ancyra</name>
+	<description></description>
+	<Placemark>
+		<name>Ancyra</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>32.85,39.93</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
 	<name xml:lang="vi">A-nem (Anem)</name>
 	<description>1Chr.6.73</description>
 	<Placemark>
@@ -4375,6 +4386,17 @@
 	</Placemark>
 </Folder>
 <Folder>
+	<name>Corduba</name>
+	<description></description>
+	<Placemark>
+		<name>Corduba</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>-4.779568,37.884507</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
 	<name xml:lang="vi">Cô‑rinh‑tô (Corinth)</name>
 	<description>Acts.18.1, Acts.18.8, Acts.18.11, Acts.18.12, Acts.18.18, Acts.19.1,1Cor.1.2,2Cor.1.1, 2Cor.1.23, 2Cor.10.14,2Tim.4.20</description>
 	<Placemark>
@@ -4732,6 +4754,17 @@
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>37.91667,26.65</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
+	<name>Delphi</name>
+	<description></description>
+	<Placemark>
+		<name>Delphi</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>22.5013,38.4823</coordinates>
 		</Point>
 	</Placemark>
 </Folder>
@@ -5134,6 +5167,17 @@
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>35.125,31.280833</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
+	<name>Edessa</name>
+	<description></description>
+	<Placemark>
+		<name>Edessa</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>38.791667,37.158333</coordinates>
 		</Point>
 	</Placemark>
 </Folder>
@@ -6694,6 +6738,17 @@
 		</Point>
 	</Placemark>
 </Folder>
+<Folder>
+	<name>Germanicus</name>
+	<Placemark>
+		<name>Germanicus</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>37.7572,37.3170</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+
 <Folder>
 	<name xml:lang="vi">Ghê‑rút Kim‑ham (Geruth Chimham, Geruth Kimham, Chimham)</name>
 	<description>Jer.41.17</description>
@@ -10394,7 +10449,8 @@
 		<description>Lasea / Lasaea</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
-			<coordinates>24.811111,34.940556</coordinates>
+			<!-- Original --><!-- <coordinates>24.811111,34.940556</coordinates> -->
+			<!-- Temporary for NT Map --><coordinates>25.04877,34.95250</coordinates>
 		</Point>
 	</Placemark>
 </Folder>
@@ -10578,7 +10634,7 @@
 </Folder>
 <Folder>
 	<name xml:lang="vi">Lót (Lod)</name>
-	<description>1Chr.8.12, Ezra.2.33, Neh.7.37, Neh.11.35, Acts.9.32, Acts.9.35, Acts.9.38</description>
+	<description>1Chr.8.12, Ezra.2.33, Neh.7.37, Neh.11.35</description>
 	<Placemark>
 		<name xml:lang="vi">Lót</name>
 		<description>Lod</description>
@@ -10643,6 +10699,18 @@
 	</Placemark>
 </Folder>
 <Folder>
+	<name xml:lang="vi">Ly‑đa (Lydda)</name>
+	<description>1Chr.8.12, Ezra.2.33, Neh.7.37, Neh.11.35, Acts.9.32, Acts.9.35, Acts.9.38</description>
+	<Placemark>
+		<name xml:lang="vi">Ly‑đa</name>
+		<description>Lod</description>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>34.9,31.95</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
 	<name xml:lang="vi">Lút (Lud 1, Lydia)</name>
 	<description>Isa.66.19, Ezek.27.10</description>
 	<Placemark>
@@ -10676,6 +10744,17 @@
 				</LinearRing>
 			</outerBoundaryIs>
 		</Polygon>
+	</Placemark>
+</Folder>
+<Folder>
+	<name>Lugdunum (Lyon)</name>
+	<description></description>
+	<Placemark>
+		<name>Lugdunum (Lyon)</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>4.819444,45.759722</coordinates>
+		</Point>
 	</Placemark>
 </Folder>
 <Folder>
@@ -13077,6 +13156,17 @@
 	</Placemark>
 </Folder>
 <Folder>
+	<name>Nicomedia</name>
+	<description></description>
+	<Placemark>
+		<name>Nicomedia</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>29.9175,40.7625</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
 	<name xml:lang="vi">Ni‑cô‑pô‑li (Nicopolis)</name>
 	<description>Titus.3.12</description>
 	<Placemark>
@@ -13655,6 +13745,17 @@
 				</LinearRing>
 			</outerBoundaryIs>
 		</Polygon>
+	</Placemark>
+</Folder>
+<Folder>
+	<name>Pessinus</name>
+	<description></description>
+	<Placemark>
+		<name>Pessinus</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>31.58328,39.331448</coordinates>
+		</Point>
 	</Placemark>
 </Folder>
 <Folder>
@@ -14624,6 +14725,17 @@
 	</Placemark>
 </Folder>
 <Folder>
+	<name xml:lang="vi">Rô‑đơ (Rhodes, point)</name>
+	<description>Acts.21.1</description>
+	<Placemark>
+		<name xml:lang="vi">Rô‑đơ</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>28.216667,36.433333</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
 	<name xml:lang="vi">Rô‑đơ (Rhodes 1)</name>
 	<description>Acts.21.1</description>
 	<Placemark>
@@ -14945,6 +15057,18 @@
 	</Placemark>
 </Folder>
 <Folder>
+	<name xml:lang="vi">Sa‑môn (Salmone, point)</name>
+	<description>Acts.27.7</description>
+	<Placemark>
+		<name xml:lang="vi">Sa‑môn</name>
+		<description>Salmone / Cape Sideros</description>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>26.30759,35.31282</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
 	<name>Salona</name>
 	<Placemark>
 		<name>Salona</name>
@@ -15139,6 +15263,18 @@
 	<Placemark>
 		<name xml:lang="vi">Bết Sê‑an</name>
 		<description>Scythopolis</description>
+		<description>NT era name for Beth-shan / Tel Bet Shean</description>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>35.503056,32.503611</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
+	<name>Scythopolis</name>
+	<description></description>
+	<Placemark>
+		<name>Scythopolis</name>
 		<description>NT era name for Beth-shan / Tel Bet Shean</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -16730,6 +16866,17 @@
 	</Placemark>
 </Folder>
 <Folder>
+	<name>Tarraco</name>
+	<description></description>
+	<Placemark>
+		<name>Tarraco</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>1.255278,41.116389</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
 	<name xml:lang="vi">Ta‑rê‑si (Tarshish 1)</name>
 	<description>2Chr.9.21, 2Chr.20.36, 2Chr.20.37, Ps.72.10, Isa.23.1, Isa.23.6, Isa.23.10, Isa.23.14, Isa.66.19, Jer.10.9, Ezek.10.9, Ezek.27.12, Ezek.27.25, Ezek.38.13, Jonah.1.3, Jonah.4.2</description>
 	<Placemark>
@@ -16771,6 +16918,17 @@
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>-6.944167,37.271944</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
+	<name>Tavium</name>
+	<description></description>
+	<Placemark>
+		<name>Tavium</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>34.518886685213204,39.85877276278275</coordinates>
 		</Point>
 	</Placemark>
 </Folder>
@@ -17236,6 +17394,17 @@
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.8783,31.61593</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
+	<name>Toletum</name>
+	<description></description>
+	<Placemark>
+		<name>Toletum</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>-4.024444,39.856667</coordinates>
 		</Point>
 	</Placemark>
 </Folder>

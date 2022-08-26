@@ -784,6 +784,18 @@
 	</Placemark>
 </Folder>
 <Folder>
+	<name>Aleppo</name>
+	<description></description>
+	<Placemark>
+		<name>Aleppo</name>
+		<description></description>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>37.166667,36.216667</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
 	<name xml:lang="vi">A‑léc‑xan‑đờ‑ri‑a (Alexandria)</name>
 	<description>Acts.6.9, Acts.18.24, Acts.27.6, Acts.28.11</description>
 	<Placemark>
@@ -1393,6 +1405,17 @@
 			</LinearRing>
 		</outerBoundaryIs>
 	</Polygon>
+	</Placemark>
+</Folder>
+<Folder>
+	<name xml:lang="vi">Núi A-ra-rát (Mount Ararat)</name>
+	<description></description>
+	<Placemark>
+		<name xml:lang="vi">Núi A-ra-rát</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>44.298317,39.701883</coordinates>
+		</Point>
 	</Placemark>
 </Folder>
 <Folder>
@@ -5088,6 +5111,17 @@
 	</Placemark>
 </Folder>
 <Folder>
+	<name>Ebla</name>
+	<description></description>
+	<Placemark>
+		<name>Ebla</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>36.798,35.798</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
 	<name xml:lang="vi">Ếp‑rôn (Ebron, Abdon, Hebron)</name>
 	<description>Josh.19.28</description>
 	<Placemark>
@@ -5447,6 +5481,17 @@
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.999999,29.530676</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
+	<name>El Qantara</name>
+	<description></description>
+	<Placemark>
+		<name>El Qantara</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>32.31,30.85</coordinates>
 		</Point>
 	</Placemark>
 </Folder>
@@ -5874,6 +5919,17 @@
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>45.99583,30.81583</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
+	<name>Erzerum</name>
+	<description></description>
+	<Placemark>
+		<name>Erzerum</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>41.276944,39.908611</coordinates>
 		</Point>
 	</Placemark>
 </Folder>
@@ -7279,6 +7335,17 @@
 	</Placemark>
 </Folder>
 <Folder>
+	<name>Gordion</name>
+	<description></description>
+	<Placemark>
+		<name>Gordion</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>31.978243,39.650356</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
 	<name xml:lang="vi">Gô‑sen (Goshen 1)</name>
 	<description>Gen.45.10, Gen.46.28, Gen.46.29, Gen.46.34, Gen.47.1, Gen.47.4, Gen.47.6, Gen.47.27, Gen.50.8, Exod.8.22, Exod.9.26</description>
 	<Placemark>
@@ -8000,6 +8067,17 @@
 	</Placemark>
 </Folder>
 <Folder>
+	<name>Hattusha</name>
+	<description></description>
+	<Placemark>
+		<name>Hattusha</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>34.615278,40.019722</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
 	<name xml:lang="vi">Ha‑vơ‑ran (Hauran)</name>
 	<description>Ezek.47.16, Ezek.47.18</description>
 	<Placemark>
@@ -8367,10 +8445,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">Bết Sê‑mết (Heliopolis, On)</name>
+	<name xml:lang="vi">Ôn (Heliopolis, On)</name>
 	<description>Gen.41.45, Gen.41.50, Gen.46.20, Jer.43.13, Ezek.30.17</description>
 	<Placemark>
-		<name xml:lang="vi">Bết Sê‑mết</name>
+		<name xml:lang="vi">Ôn</name>
 		<description>Heliopolis / Ain Shams</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -8944,6 +9022,17 @@
 			</LinearRing>
 		</outerBoundaryIs>
 	</Polygon>
+	</Placemark>
+</Folder>
+<Folder>
+	<name>Imar</name>
+	<description></description>
+	<Placemark>
+		<name>Imar</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>38.111375,35.986842</coordinates>
+		</Point>
 	</Placemark>
 </Folder>
 <Folder>
@@ -9775,6 +9864,17 @@
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.422222,30.648333</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
+	<name>Kanish</name>
+	<description></description>
+	<Placemark>
+		<name>Kanish</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>35.633333,38.85</coordinates>
 		</Point>
 	</Placemark>
 </Folder>
@@ -11263,6 +11363,17 @@
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.898241,31.592963</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
+	<name>Mari</name>
+	<description></description>
+	<Placemark>
+		<name>Mari</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>40.89,34.549444</coordinates>
 		</Point>
 	</Placemark>
 </Folder>
@@ -13666,10 +13777,10 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">thành Sin (Pelusium, Sin)</name>
+	<name xml:lang="vi">Sin (Pelusium, Sin)</name>
 	<description>Ezek.30.15, Ezek.30.16</description>
 	<Placemark>
-		<name xml:lang="vi">thành Sin</name>
+		<name xml:lang="vi">Sin</name>
 		<description>Pelusium / Tell el Farama</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -13842,6 +13953,17 @@
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>38.0865,36.7014</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
+	<name>Petra</name>
+	<description></description>
+	<Placemark>
+		<name>Petra</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>35.441944,30.328611</coordinates>
 		</Point>
 	</Placemark>
 </Folder>
@@ -14162,6 +14284,17 @@
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>14.120556,40.826111</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
+	<name>Qatna</name>
+	<description></description>
+	<Placemark>
+		<name>Qatna</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>36.865833,34.835</coordinates>
 		</Point>
 	</Placemark>
 </Folder>
@@ -16307,6 +16440,17 @@
 	</Placemark>
 </Folder>
 <Folder>
+	<name>Sivas</name>
+	<description></description>
+	<Placemark>
+		<name>Sivas</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>37.016667,39.75</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
 	<name xml:lang="vi">Si‑miệc‑nơ (Smyrna)</name>
 	<description>Rev.1.11, Rev.2.8</description>
 	<Placemark>
@@ -17004,6 +17148,17 @@
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
 			<coordinates>34.965257,30.989824</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+<Folder>
+	<name>Tel Halaf</name>
+	<description></description>
+	<Placemark>
+		<name>Tel Halaf</name>
+		<styleUrl>#landpoint</styleUrl>
+		<Point>
+			<coordinates>40.0396,36.8266</coordinates>
 		</Point>
 	</Placemark>
 </Folder>

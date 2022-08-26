@@ -5575,7 +5575,18 @@
 	</Placemark>
 </Folder>
 <Folder>
-	<name xml:lang="vi">Ên‑nam (Enam)</name>
+	<name xml:lang="vi">Ên‑nam (Enam, point)</name>
+	<description>Josh.15.34</description><Placemark>
+	<name>Ên‑nam</name>
+	<description>Khirbet Beit Ika</description>
+	<styleUrl>#landpoint</styleUrl>
+	<Point>
+		<coordinates>35.012365,31.68768</coordinates>
+	</Point>
+</Placemark>
+</Folder>
+<Folder>
+	<name xml:lang="vi">Ên‑nam (Enam, area)</name>
 	<description>Josh.15.34</description>
 	<Placemark>
 		<name xml:lang="vi">Ên‑nam</name>

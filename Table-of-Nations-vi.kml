@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Table of Nations vi (Based in Beitzel)</name>
+<description>See Beitzel, Moody Atlas, p. 78</description>
+<Style id="landpoint">
+	<IconStyle>
+		<scale>0.75</scale>
+		<Icon><href>https://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+	</IconStyle>
+</Style>
+<Folder>
+		<name xml:lang="vi">Gô‑me (Gomer, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Gô‑me</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>39.346,40.512</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Ma‑gốc (Magog, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Ma‑gốc</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>34.347,40.572</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Ma‑đai (Madai, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Ma‑đai</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>49.345,36.668</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Gia‑van (Javan, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Gia‑van</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>27.365,37.837</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Tu‑banh (Tubal, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Tu‑banh?</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>36.946,39.264</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Mê‑siếc (Meshech, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Mê‑siếc</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>31.729,39.295</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Ti‑ra (Tiras, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Ti‑ra?</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>26.809,39.479</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Ách‑kê‑na (Ashkenaz, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Ách‑kê‑na</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>45.853,41.708</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Ri‑phát (Riphtath, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Ri‑phát?</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>41.489,40.391</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Tô‑ga‑ma (Togarmah, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Tô‑ga‑ma</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>39.704,39.064</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Ê‑li‑sa (Elishah, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Ê‑li‑sa</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>32.602,34.882</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Ta‑rê‑si (Tarshish, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Ta‑rê‑si?</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>-5.526,36.365</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Kít‑tim (Kittim, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Kít‑tim</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>33.554,35.174</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Rô‑đa‑nim (Rodanim, Dodanim, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Rô‑đa‑nim</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>27.920,36.158</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Cút (Cush, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Cút</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>32.312,25.770</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Ai Cập (Egypt, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Ai Cập</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>30.934,28.629</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Phút (Put, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Phút</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>28.0115,30.6608</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Ca‑na‑an (Canaan, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Ca‑na‑an</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>35.1615,32.1132</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Xê‑ba (Seba, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Xê‑ba?</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>37.917,16.935</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Ha‑vi‑la (Havila, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Ha‑vi‑la?</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>40.109,13.673</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Sáp‑ta (Sabtah, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Sáp‑ta</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>46.716,13.795</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Ra‑ê‑ma (Raamah, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Ra‑ê‑ma?</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>43.272,18.536</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Sê‑ba (Sheba, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Sê‑ba</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>44.796,14.736</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Đê‑đan (Dedan, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Đê‑đan</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>37.865,26.117</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Lu‑đim (Ludim, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Lu‑đim?</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>10.079,33.185</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Lê‑ha‑bim (Lehabim, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Lê‑ha‑bim?</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>22.041,31.439</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Náp‑tu‑him (Naphtuhim, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Náp‑tu‑him?</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>31.226,30.939</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Phát‑ru‑sim (Pathrusim, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Phát‑ru‑sim</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>32.855,23.637</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Cách‑lu‑him (Casluhim, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Cách‑lu‑him?</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>16.613,30.400</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Cáp‑tô‑rim (Caphtorim, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Cáp‑tô‑rim</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>24.8279,35.2224</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Hếch (Heth, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Hếch</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>36.2574,35.4438</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Ha‑ma‑tít (Hamathite, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Ha‑ma‑tít</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>36.7496,35.1358</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Ê‑lam (Elam, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Ê‑lam</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>50.064,30.447</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">A‑pác‑sát (Arpachshad, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">A‑pác‑sát?</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>43.9365,35.4797</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Lút (Lud, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Lút</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>27.6638,40.0244</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">A‑ram (Aram, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">A‑ram</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>38.728,35.310</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Út‑xơ (Uz, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Út‑xơ? (Uz)</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>35.8732,33.0211</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Hu‑lơ (Hul, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Hu‑lơ?</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>36.452778,32.969444</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Mách (, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Mách?</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>48.320,30.990</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Hê‑be (Eber, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Hê‑be?</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>39.803,37.241</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Pê‑léc (Peleg, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Pê‑léc?</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>40.972,36.153</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Sê‑lép (Sheleph, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Sê‑lép?</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>47.297,14.834</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Ha‑sa‑ma‑vết (Hazarmaveth, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Ha‑sa‑ma‑vết</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>49.803,15.278</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Út‑xơ (Uzal, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Út‑xơ (Uzal)</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>43.707,16.722</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Ô‑banh (Obal, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Ô‑banh?</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>43.331,13.985</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Ô‑phia (Ophir, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Ô‑phia</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>41.640,12.501</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+<Folder>
+		<name xml:lang="vi">Giô‑báp (Jobab, Gen 10)</name>
+		<description></description>
+		<Placemark>
+			<name xml:lang="vi">Giô‑báp?</name>
+			<styleUrl>#landpoint</styleUrl>
+			<Point>
+				<coordinates>57.088,20.969</coordinates>
+			</Point>
+		</Placemark>
+</Folder>
+</Document>
+</kml>

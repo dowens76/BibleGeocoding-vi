@@ -17923,7 +17923,7 @@
 	<name xml:lang="vi">U-rơ (Ur 1, southern location)</name>
 	<description>Gen.11.28, Gen.11.31, Gen.15.7, Neh.9.7</description>
 	<Placemark>
-		<name xml:lang="vi">U-rơ?</name>
+		<name xml:lang="vi">U-rơ? (Tell el Muqayyar)</name>
 		<description>Ur / Tell el Muqayyar</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
@@ -17935,7 +17935,7 @@
 	<name xml:lang="vi">U-rơ (Ur 1, northern location at Urfa)</name>
 	<description>Gen.11.28, Gen.11.31, Gen.15.7, Neh.9.7</description>
 	<Placemark>
-		<name xml:lang="vi">U-rơ?</name>
+		<name xml:lang="vi">U-rơ? (Urfa)</name>
 		<description>Ur 1 / Urfa</description>
 		<styleUrl>#landpoint</styleUrl>
 		<Point>
